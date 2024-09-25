@@ -3,7 +3,7 @@ site_url: https://docs.redux.wtf
 theme:
   name: material
   features:
-    - content.action.view
+    - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
