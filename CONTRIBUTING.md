@@ -11,4 +11,8 @@ Thank you for your interest in contributing to Redocs! We welcome contributions 
 - Make your changes and commit them.
 - Open a pull request to merge your changes into this repository.
 
+## Commit Messages
+
+We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard for our commit messages. This helps us keep track of changes and ensures consistency across the project.
+
 That's it! We'll review your pull request and get back to you soon.
