@@ -1,5 +1,6 @@
 ---
 title: Home
+description: test
 ---
 # Introducing Redux
 

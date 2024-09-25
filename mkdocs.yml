@@ -1,4 +1,4 @@
-site_name: My site
+site_name: Redocs
 site_url: https://docs.redux.wtf
 theme:
   name: material
@@ -24,6 +24,7 @@ theme:
   font:
     text: Inter
     code: JetBrains Mono
+  custom_dir: overrides
   
 plugins:
   - git-revision-date-localized:
@@ -48,3 +49,4 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://redux.wtf/join
 copyright: Copyright &copy; 2024 Inventor Redux
+site_description: Official Documentation for Inventor Redux
