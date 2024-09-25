@@ -1,0 +1,50 @@
+site_name: My site
+site_url: https://docs.redux.wtf
+theme:
+  name: material
+  features:
+    - content.action.view
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune
+    - toc.integrate
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+  palette: 
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: Inter
+    code: JetBrains Mono
+  
+plugins:
+  - git-revision-date-localized:
+      type: iso_date
+      fallback_to_build_date: true
+      enable_creation_date: true
+      enabled: true
+  - search:
+repo_url: https://github.com/its-astro/Redocs
+repo_name: its-astro/Redocs
+edit_uri: edit/main/docs
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - toc:
+      anchorlink: true
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/its-astro/Redocs
+    - icon: fontawesome/brands/discord
+      link: https://redux.wtf/join
+copyright: Copyright &copy; 2024 Inventor Redux
