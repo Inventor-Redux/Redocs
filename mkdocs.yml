@@ -66,7 +66,6 @@ nav:
     - index.md
   - Getting Started:
     - getting-started/index.md
-    - getting-started/test.md
   - Guides:
     - guides/index.md
   - Changelogs:
