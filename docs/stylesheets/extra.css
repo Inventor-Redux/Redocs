@@ -2,3 +2,28 @@
     --md-primary-fg-color: #fdbd24;
     --md-accent-fg-color: #fdbc24b9;
 }
+dfn {
+    font-style: normal;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: #2b2b4e;
+    color: #c9cdfb;
+    border-radius: 0.25rem;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 100ms ease-out;
+    font-weight: 500;
+    unicode-bidi: plaintext;
+}
+dfn:hover {
+    background: #5864f2;
+    color: white;
+}
+
+.role:hover {
+    background: #2b2b4e;
+    color: #c9cdfb;
+}
