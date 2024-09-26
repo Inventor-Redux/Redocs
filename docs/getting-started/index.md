@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Installation
 ---
 # Getting Started with Redux
 

@@ -4,7 +4,6 @@ theme:
   name: material
   features:
     - content.action.edit
-    - navigation.footer
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
@@ -17,6 +16,7 @@ theme:
     - search.highlight
     - search.share
     - header.autohide
+    - navigation.indexes
   palette: 
     scheme: slate
     primary: custom
@@ -33,6 +33,15 @@ plugins:
       enable_creation_date: true
       enabled: true
   - search:
+  - blog:
+      blog_dir: guides
+      archive: false
+  - blog:
+      blog_dir: changelogs
+      archive: false
+      post_url_format: "{slug}"
+  - tags:
+
 repo_url: https://github.com/its-astro/Redocs
 repo_name: its-astro/Redocs
 edit_uri: edit/main/docs
@@ -50,3 +59,13 @@ extra:
       link: https://redux.wtf/join
 copyright: Copyright &copy; 2024 Inventor Redux
 site_description: Official Documentation for Inventor Redux
+nav:
+  - Home:
+    - index.md
+  - Getting Started:
+    - getting-started/index.md
+    - getting-started/test.md
+  - Guides:
+    - guides/index.md
+  - Changelogs:
+    - changelogs/index.md
