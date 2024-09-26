@@ -17,7 +17,8 @@ theme:
     - search.share
     - header.autohide
     - navigation.indexes
-  favicon: images/redocs_rounded_logo.png
+  favicon: assets/redocs_rounded_logo.png
+  logo: assets/redocs_icon_logo_light.png
   palette: 
     scheme: slate
     primary: custom
