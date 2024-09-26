@@ -53,6 +53,7 @@ markdown_extensions:
   - toc:
       anchorlink: true
       permalink: true
+  - attr_list
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -61,12 +62,3 @@ extra:
       link: https://redux.wtf/join
 copyright: Copyright &copy; 2024 Inventor Redux
 site_description: Official Documentation for Inventor Redux
-nav:
-  - Home:
-    - index.md
-  - Getting Started:
-    - getting-started/index.md
-  - Guides:
-    - guides/index.md
-  - Changelogs:
-    - changelogs/index.md
