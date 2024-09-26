@@ -54,6 +54,9 @@ markdown_extensions:
       anchorlink: true
       permalink: true
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 extra:
   social:
     - icon: fontawesome/brands/github
