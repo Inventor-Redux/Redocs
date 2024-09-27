@@ -12,7 +12,7 @@ ___
 - [Current Week of Year](#current-week-of-year)
 ___
 ### Current Time (Unix)
-The current time, expressed as a [Unix](/inventor-reference/types/number/formats/unix/) value. E.g. `1234567890`
+The current time, expressed as a [Unix](/inventor-reference/types/number/unix/) value. E.g. `1234567890`
 
 ### Current Week of Year
 The current week of the year expressed as a [number](/inventor-reference/types/number). E.g. `7`

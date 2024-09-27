@@ -12,7 +12,7 @@ ___
 - [Current Minute of Hour](#current-minute-of-hour)
 ___
 ### Current Time (Unix)
-The current time, expressed as a [Unix](/inventor-reference/types/number/formats/unix/) value. E.g. `1234567890`
+The current time, expressed as a [Unix](/inventor-reference/types/number/unix/) value. E.g. `1234567890`
 
 ### Current Minute of Hour
 The current minute of the hour expressed as a [number](/inventor-reference/types/number). E.g. `31`
