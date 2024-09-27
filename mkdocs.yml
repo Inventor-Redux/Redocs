@@ -30,6 +30,10 @@ theme:
   custom_dir: overrides
   
 plugins:
+  - git-committers:
+      repository: Inventor-Redux/Redocs
+      branch: main
+      token: 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
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: true
