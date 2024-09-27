@@ -1,4 +1,4 @@
-# String
+# Strings
 
 ## Summary
 A variable that uses a string can have the value of any letter, number or symbol
