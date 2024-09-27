@@ -12,7 +12,7 @@ ___
 - [Current Month of Year](#current-hour-of-day)
 ___
 ### Current Time (Unix)
-The current time, expressed as a [Unix](/inventor-reference/types/number/formats/unix/) value. E.g. `1234567890`
+The current time, expressed as a [Unix](/inventor-reference/types/number/unix/) value. E.g. `1234567890`
 
 ### Current Month of Year
 The current month of the year expressed as a [number](/inventor-reference/types/number). E.g. `23`
