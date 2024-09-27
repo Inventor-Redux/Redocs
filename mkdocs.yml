@@ -44,8 +44,8 @@ plugins:
       post_url_format: "{slug}"
   - tags:
 
-repo_url: https://github.com/its-astro/Redocs
-repo_name: its-astro/Redocs
+repo_url: https://github.com/Inventor-Redux/Redocs
+repo_name: Inventor-Redux/Redocs
 edit_uri: edit/main/docs
 extra_css:
   - stylesheets/extra.css
@@ -60,9 +60,8 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/its-astro/Redocs
+      link: https://github.com/Inventor-Redux/Redocs
     - icon: fontawesome/brands/discord
       link: https://redux.wtf/join
 copyright: Copyright &copy; 2024 Inventor Redux
-site_description: Official Documentation for Inventor Redux 
- 
+site_description: Official Documentation for Inventor Redux
