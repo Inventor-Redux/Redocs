@@ -1,6 +1,6 @@
 # Every 15 Minutes
 ## Summary
-Flows with this trigger will run every 30 minutes.
+Flows with this trigger will run every 15 minutes.
 !!! warning
     Cron triggers like this may be up to a minute early or a minute late.
 
