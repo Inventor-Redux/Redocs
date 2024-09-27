@@ -33,7 +33,6 @@ plugins:
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: true
-      enable_creation_date: true
       enabled: true
   - search:
   - blog:
