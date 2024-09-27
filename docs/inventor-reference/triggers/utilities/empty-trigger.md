@@ -12,4 +12,4 @@ ___
 - [Value (1-5)](#output-values)
 ___
 ### Output Values
-This whatever value was passed from the corresponding [input](#input-values). Output type varies based on user input.
+This is whatever value was passed from the corresponding [input](#input-values). Output type varies based on user input.
