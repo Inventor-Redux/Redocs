@@ -69,5 +69,11 @@ extra:
       link: https://github.com/Inventor-Redux/Redocs
     - icon: fontawesome/brands/discord
       link: https://redux.wtf/join
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/_itsastro_
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@its_astro
+    - icon: fontawesome/solid/house-chimney
+      link: https://redux.wtf
 copyright: Copyright &copy; 2024 Inventor Redux
 site_description: Official Documentation for Inventor Redux
