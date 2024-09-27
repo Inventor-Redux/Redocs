@@ -17,6 +17,7 @@ theme:
     - search.share
     - header.autohide
     - navigation.indexes
+    - content.code.copy
   favicon: assets/redocs_rounded_logo.png
   logo: assets/redocs_icon_logo_light.png
   palette: 
@@ -50,6 +51,10 @@ edit_uri: edit/main/docs
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - toc:
       anchorlink: true
       permalink: true
@@ -57,6 +62,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
 extra:
   social:
     - icon: fontawesome/brands/github
