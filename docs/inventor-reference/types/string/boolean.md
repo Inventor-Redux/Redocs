@@ -1,6 +1,7 @@
 # Boolean
 
 ## Summary
+
 Boolean is a way of indicating if a condition has been met. A variable that uses boolean will either have the value of `true` or `false` depending on if its condition is met
 
 ## Usage
