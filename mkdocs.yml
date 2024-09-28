@@ -8,6 +8,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
+    - navigation.prune
     - toc.integrate
     - toc.follow
     - navigation.top
