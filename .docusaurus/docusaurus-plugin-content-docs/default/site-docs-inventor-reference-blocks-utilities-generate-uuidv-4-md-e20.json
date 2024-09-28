@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/generate-uuidv4",
+  "title": "Generate UUIDv4",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/generate-uuidv4.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/generate-uuidv4",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/generate-uuidv4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/generate-uuidv4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exclude From Analytics",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/exclude-from-analytics"
+  },
+  "next": {
+    "title": "Get Error Details",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/get-error-details"
+  }
+}

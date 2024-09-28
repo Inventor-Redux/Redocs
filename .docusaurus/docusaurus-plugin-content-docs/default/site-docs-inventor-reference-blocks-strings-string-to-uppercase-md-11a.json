@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-to-uppercase",
+  "title": "String to Uppercase",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-to-uppercase.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-to-uppercase",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-to-uppercase",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-to-uppercase.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String to Lowercase",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-to-lowercase"
+  },
+  "next": {
+    "title": "String Trim Prefix",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-trim-prefix"
+  }
+}

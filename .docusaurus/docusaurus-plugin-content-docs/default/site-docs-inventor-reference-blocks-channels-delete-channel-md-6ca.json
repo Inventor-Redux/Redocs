@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/channels/delete-channel",
+  "title": "Delete Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/channels/delete-channel.md",
+  "sourceDirName": "inventor-reference/Blocks/channels",
+  "slug": "/inventor-reference/Blocks/channels/delete-channel",
+  "permalink": "/docs/inventor-reference/Blocks/channels/delete-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/channels/delete-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Channel Permission",
+    "permalink": "/docs/inventor-reference/Blocks/channels/delete-channel-permission"
+  },
+  "next": {
+    "title": "Edit Channel Permissions",
+    "permalink": "/docs/inventor-reference/Blocks/channels/edit-channel-permissions"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/emoji/modify-emoji",
+  "title": "Modify Emoji",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/emoji/modify-emoji.md",
+  "sourceDirName": "inventor-reference/Blocks/emoji",
+  "slug": "/inventor-reference/Blocks/emoji/modify-emoji",
+  "permalink": "/docs/inventor-reference/Blocks/emoji/modify-emoji",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/emoji/modify-emoji.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Emojis",
+    "permalink": "/docs/inventor-reference/Blocks/emoji/get-emojis"
+  },
+  "next": {
+    "title": "Advanced Conditional",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/advanced-conditional"
+  }
+}

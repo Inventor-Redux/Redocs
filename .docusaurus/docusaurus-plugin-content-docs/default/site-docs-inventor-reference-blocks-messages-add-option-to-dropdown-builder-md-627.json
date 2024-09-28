@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/messages/add-option-to-dropdown-builder",
+  "title": "Add Option to Dropdown Builder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/messages/add-option-to-dropdown-builder.md",
+  "sourceDirName": "inventor-reference/blocks/messages",
+  "slug": "/inventor-reference/blocks/messages/add-option-to-dropdown-builder",
+  "permalink": "/docs/inventor-reference/blocks/messages/add-option-to-dropdown-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/messages/add-option-to-dropdown-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Field to Embed Field Builder",
+    "permalink": "/docs/inventor-reference/blocks/messages/add-field-to-embed-field-builder"
+  },
+  "next": {
+    "title": "Bulk Purge Messages",
+    "permalink": "/docs/inventor-reference/blocks/messages/bulk-purge-messages"
+  }
+}

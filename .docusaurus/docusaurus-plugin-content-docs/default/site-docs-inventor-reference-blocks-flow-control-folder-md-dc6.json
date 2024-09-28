@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/flow-control/folder",
+  "title": "Folder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/flow-control/folder.md",
+  "sourceDirName": "inventor-reference/Blocks/flow-control",
+  "slug": "/inventor-reference/Blocks/flow-control/folder",
+  "permalink": "/docs/inventor-reference/Blocks/flow-control/folder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/flow-control/folder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exit Flow",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/exit-flow"
+  },
+  "next": {
+    "title": "If Statement",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/if-statement"
+  }
+}

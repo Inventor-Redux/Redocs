@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/roles/remove-role",
+  "title": "Remove Role",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/roles/remove-role.md",
+  "sourceDirName": "inventor-reference/Blocks/roles",
+  "slug": "/inventor-reference/Blocks/roles/remove-role",
+  "permalink": "/docs/inventor-reference/Blocks/roles/remove-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/roles/remove-role.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Roles",
+    "permalink": "/docs/inventor-reference/Blocks/roles/get-roles"
+  },
+  "next": {
+    "title": "Update Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/update-role"
+  }
+}

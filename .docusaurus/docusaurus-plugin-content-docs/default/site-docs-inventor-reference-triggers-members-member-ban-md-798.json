@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/members/member-ban",
+  "title": "Member Ban",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/members/member-ban.md",
+  "sourceDirName": "inventor-reference/triggers/members",
+  "slug": "/inventor-reference/triggers/members/member-ban",
+  "permalink": "/docs/inventor-reference/triggers/members/member-ban",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/members/member-ban.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Invite Deleted",
+    "permalink": "/docs/inventor-reference/triggers/invites/invite-deleted"
+  },
+  "next": {
+    "title": "Member Join",
+    "permalink": "/docs/inventor-reference/triggers/members/member-join"
+  }
+}

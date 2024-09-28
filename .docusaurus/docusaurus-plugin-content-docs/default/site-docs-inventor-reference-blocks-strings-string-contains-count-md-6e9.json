@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/string-contains-count",
+  "title": "String Contains Count",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/string-contains-count.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/string-contains-count",
+  "permalink": "/docs/inventor-reference/blocks/strings/string-contains-count",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/string-contains-count.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Split String Iterator",
+    "permalink": "/docs/inventor-reference/blocks/strings/split-string-iterator"
+  },
+  "next": {
+    "title": "String Length",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-length"
+  }
+}

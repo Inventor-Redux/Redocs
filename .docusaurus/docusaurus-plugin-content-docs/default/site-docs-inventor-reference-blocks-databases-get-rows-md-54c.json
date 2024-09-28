@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/get-rows",
+  "title": "Get Rows",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/get-rows.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/get-rows",
+  "permalink": "/docs/inventor-reference/blocks/databases/get-rows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/get-rows.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Rows Sorted by Column",
+    "permalink": "/docs/inventor-reference/blocks/databases/get-rows-sorted-by-column"
+  },
+  "next": {
+    "title": "Lookup by ID",
+    "permalink": "/docs/inventor-reference/blocks/databases/lookup-by-id"
+  }
+}

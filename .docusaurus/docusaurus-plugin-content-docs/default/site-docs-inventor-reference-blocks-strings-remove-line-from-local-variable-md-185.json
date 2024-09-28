@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/remove-line-from-local-variable",
+  "title": "Remove Line from Local Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/remove-line-from-local-variable",
+  "permalink": "/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Passphrase Generator",
+    "permalink": "/docs/inventor-reference/Blocks/strings/passphrase-generator"
+  },
+  "next": {
+    "title": "Sort Lines by Number Prefix or Suffix",
+    "permalink": "/docs/inventor-reference/Blocks/strings/sort-lines-by-number-prefix-or-suffix"
+  }
+}

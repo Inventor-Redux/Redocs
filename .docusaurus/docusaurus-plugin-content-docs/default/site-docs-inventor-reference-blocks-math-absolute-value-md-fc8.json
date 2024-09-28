@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/math/absolute-value",
+  "title": "Absolute Value",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/math/absolute-value.md",
+  "sourceDirName": "inventor-reference/Blocks/math",
+  "slug": "/inventor-reference/Blocks/math/absolute-value",
+  "permalink": "/docs/inventor-reference/Blocks/math/absolute-value",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/math/absolute-value.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Local Variable",
+    "permalink": "/docs/inventor-reference/Blocks/local-variables/update-local-variable"
+  },
+  "next": {
+    "title": "Factorial",
+    "permalink": "/docs/inventor-reference/Blocks/math/factorial"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/realtime-log",
+  "title": "Realtime Log",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/realtime-log.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/realtime-log",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/realtime-log",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/realtime-log.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loop",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/loop"
+  },
+  "next": {
+    "title": "Redact Secrets",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/redact-secrets"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/parse-color",
+  "title": "Parse Color",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/parse-color.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/parse-color",
+  "permalink": "/docs/inventor-reference/Blocks/strings/parse-color",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/parse-color.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MD5 Hash",
+    "permalink": "/docs/inventor-reference/Blocks/strings/md5-hash"
+  },
+  "next": {
+    "title": "Passphrase Generator",
+    "permalink": "/docs/inventor-reference/Blocks/strings/passphrase-generator"
+  }
+}

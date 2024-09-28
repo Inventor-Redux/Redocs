@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/global-variables/increment-or-decrement-global-variable",
+  "title": "Increment or Decrement Global Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable.md",
+  "sourceDirName": "inventor-reference/blocks/global-variables",
+  "slug": "/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable",
+  "permalink": "/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Global Variable Search",
+    "permalink": "/docs/inventor-reference/blocks/global-variables/global-variable-search"
+  },
+  "next": {
+    "title": "IFTTT Trigger",
+    "permalink": "/docs/inventor-reference/blocks/ifttt-trigger"
+  }
+}

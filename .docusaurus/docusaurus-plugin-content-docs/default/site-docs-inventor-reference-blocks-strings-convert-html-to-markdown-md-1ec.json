@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/convert-html-to-markdown",
+  "title": "Convert HTML to Markdown",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/convert-html-to-markdown.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/convert-html-to-markdown",
+  "permalink": "/docs/inventor-reference/blocks/strings/convert-html-to-markdown",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/convert-html-to-markdown.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bcrypt Hash String",
+    "permalink": "/docs/inventor-reference/blocks/strings/bcrypt-hash-string"
+  },
+  "next": {
+    "title": "Generate UUIDv7",
+    "permalink": "/docs/inventor-reference/blocks/strings/generate-uuidv7"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/interactions/embed-reply-to-interaction",
+  "title": "Embed Reply to Interaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/interactions/embed-reply-to-interaction.md",
+  "sourceDirName": "inventor-reference/blocks/interactions",
+  "slug": "/inventor-reference/blocks/interactions/embed-reply-to-interaction",
+  "permalink": "/docs/inventor-reference/blocks/interactions/embed-reply-to-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/interactions/embed-reply-to-interaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defer Interaction",
+    "permalink": "/docs/inventor-reference/blocks/interactions/defer-interaction"
+  },
+  "next": {
+    "title": "Get Interaction Message Data",
+    "permalink": "/docs/inventor-reference/blocks/interactions/get-interaction-message-data"
+  }
+}

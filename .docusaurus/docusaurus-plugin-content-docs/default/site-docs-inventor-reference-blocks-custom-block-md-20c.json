@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/custom-block",
+  "title": "Custom Block",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/custom-block.md",
+  "sourceDirName": "inventor-reference/Blocks",
+  "slug": "/inventor-reference/Blocks/custom-block",
+  "permalink": "/docs/inventor-reference/Blocks/custom-block",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/custom-block.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trigger Typing Indicator",
+    "permalink": "/docs/inventor-reference/Blocks/channels/trigger-typing-indicator"
+  },
+  "next": {
+    "title": "Create Row",
+    "permalink": "/docs/inventor-reference/Blocks/databases/create-row"
+  }
+}

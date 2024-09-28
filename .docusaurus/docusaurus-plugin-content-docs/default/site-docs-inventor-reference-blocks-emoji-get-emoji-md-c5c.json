@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/emoji/get-emoji",
+  "title": "Get Emoji",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/emoji/get-emoji.md",
+  "sourceDirName": "inventor-reference/Blocks/emoji",
+  "slug": "/inventor-reference/Blocks/emoji/get-emoji",
+  "permalink": "/docs/inventor-reference/Blocks/emoji/get-emoji",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/emoji/get-emoji.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Emoji",
+    "permalink": "/docs/inventor-reference/Blocks/emoji/delete-emoji"
+  },
+  "next": {
+    "title": "Get Emojis",
+    "permalink": "/docs/inventor-reference/Blocks/emoji/get-emojis"
+  }
+}

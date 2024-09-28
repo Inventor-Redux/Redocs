@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/interactions/slash-command",
+  "title": "Slash Command",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/interactions/slash-command.md",
+  "sourceDirName": "inventor-reference/Triggers/interactions",
+  "slug": "/inventor-reference/Triggers/interactions/slash-command",
+  "permalink": "/docs/inventor-reference/Triggers/interactions/slash-command",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/interactions/slash-command.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Slash Command Autocomplete",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete"
+  },
+  "next": {
+    "title": "Invite Created",
+    "permalink": "/docs/inventor-reference/Triggers/invites/invite-created"
+  }
+}

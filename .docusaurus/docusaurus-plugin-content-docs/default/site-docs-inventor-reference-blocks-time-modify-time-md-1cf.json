@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/time/modify-time",
+  "title": "Modify Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/time/modify-time.md",
+  "sourceDirName": "inventor-reference/Blocks/time",
+  "slug": "/inventor-reference/Blocks/time/modify-time",
+  "permalink": "/docs/inventor-reference/Blocks/time/modify-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/time/modify-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Specific Time",
+    "permalink": "/docs/inventor-reference/Blocks/time/get-specific-time"
+  },
+  "next": {
+    "title": "Parse Date and Time",
+    "permalink": "/docs/inventor-reference/Blocks/time/parse-date-and-time"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/log-error",
+  "title": "Log Error",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/log-error.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/log-error",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/log-error",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/log-error.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hex to Int",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/hex-to-int"
+  },
+  "next": {
+    "title": "Loop",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/loop"
+  }
+}

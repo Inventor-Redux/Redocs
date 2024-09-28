@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/roles/create-role",
+  "title": "Create Role",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/roles/create-role.md",
+  "sourceDirName": "inventor-reference/Blocks/roles",
+  "slug": "/inventor-reference/Blocks/roles/create-role",
+  "permalink": "/docs/inventor-reference/Blocks/roles/create-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/roles/create-role.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assign Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/assign-role"
+  },
+  "next": {
+    "title": "Delete Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/delete-role"
+  }
+}

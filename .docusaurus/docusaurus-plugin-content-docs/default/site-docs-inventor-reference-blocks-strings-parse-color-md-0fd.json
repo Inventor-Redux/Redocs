@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/parse-color",
+  "title": "Parse Color",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/parse-color.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/parse-color",
+  "permalink": "/docs/inventor-reference/blocks/strings/parse-color",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/parse-color.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MD5 Hash",
+    "permalink": "/docs/inventor-reference/blocks/strings/md5-hash"
+  },
+  "next": {
+    "title": "Passphrase Generator",
+    "permalink": "/docs/inventor-reference/blocks/strings/passphrase-generator"
+  }
+}

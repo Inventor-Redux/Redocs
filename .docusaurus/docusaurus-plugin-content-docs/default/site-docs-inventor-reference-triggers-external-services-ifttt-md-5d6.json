@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/external-services/ifttt",
+  "title": "IFTTT",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/external-services/ifttt.md",
+  "sourceDirName": "inventor-reference/triggers/external-services",
+  "slug": "/inventor-reference/triggers/external-services/ifttt",
+  "permalink": "/docs/inventor-reference/triggers/external-services/ifttt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/external-services/ifttt.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice State Update",
+    "permalink": "/docs/inventor-reference/triggers/channels/voice-state-update"
+  },
+  "next": {
+    "title": "Incoming Webhook",
+    "permalink": "/docs/inventor-reference/triggers/external-services/incoming-webhook"
+  }
+}

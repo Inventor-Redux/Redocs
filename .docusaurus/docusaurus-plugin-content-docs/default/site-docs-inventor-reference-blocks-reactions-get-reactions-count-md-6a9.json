@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/reactions/get-reactions-count",
+  "title": "Get Reactions Count",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/reactions/get-reactions-count.md",
+  "sourceDirName": "inventor-reference/Blocks/reactions",
+  "slug": "/inventor-reference/Blocks/reactions/get-reactions-count",
+  "permalink": "/docs/inventor-reference/Blocks/reactions/get-reactions-count",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/reactions/get-reactions-count.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Reaction",
+    "permalink": "/docs/inventor-reference/Blocks/reactions/add-reaction"
+  },
+  "next": {
+    "title": "Get Reactions",
+    "permalink": "/docs/inventor-reference/Blocks/reactions/get-reactions"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/flow-control/async-folder",
+  "title": "Async Folder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/flow-control/async-folder.md",
+  "sourceDirName": "inventor-reference/blocks/flow-control",
+  "slug": "/inventor-reference/blocks/flow-control/async-folder",
+  "permalink": "/docs/inventor-reference/blocks/flow-control/async-folder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/flow-control/async-folder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Conditional",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/advanced-conditional"
+  },
+  "next": {
+    "title": "Break",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/break"
+  }
+}

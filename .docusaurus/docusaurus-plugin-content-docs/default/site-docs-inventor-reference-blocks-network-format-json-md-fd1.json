@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/network/format-json",
+  "title": "Format JSON",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/network/format-json.md",
+  "sourceDirName": "inventor-reference/Blocks/network",
+  "slug": "/inventor-reference/Blocks/network/format-json",
+  "permalink": "/docs/inventor-reference/Blocks/network/format-json",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/network/format-json.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Escape JSON Field",
+    "permalink": "/docs/inventor-reference/Blocks/network/escape-json-field"
+  },
+  "next": {
+    "title": "Generate Form Body",
+    "permalink": "/docs/inventor-reference/Blocks/network/generate-form-body"
+  }
+}

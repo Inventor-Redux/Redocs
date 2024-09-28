@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/hex-to-int",
+  "title": "Hex to Int",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/hex-to-int.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/hex-to-int",
+  "permalink": "/docs/inventor-reference/Blocks/strings/hex-to-int",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/hex-to-int.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate UUIDv7",
+    "permalink": "/docs/inventor-reference/Blocks/strings/generate-uuidv7"
+  },
+  "next": {
+    "title": "Int to Hex",
+    "permalink": "/docs/inventor-reference/Blocks/strings/int-to-hex"
+  }
+}

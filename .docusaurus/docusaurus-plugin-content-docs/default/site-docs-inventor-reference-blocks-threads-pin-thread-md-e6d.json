@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/threads/pin-thread",
+  "title": "Pin Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/threads/pin-thread.md",
+  "sourceDirName": "inventor-reference/blocks/threads",
+  "slug": "/inventor-reference/blocks/threads/pin-thread",
+  "permalink": "/docs/inventor-reference/blocks/threads/pin-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/threads/pin-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lock Thread",
+    "permalink": "/docs/inventor-reference/blocks/threads/lock-thread"
+  },
+  "next": {
+    "title": "Remove Thread Member",
+    "permalink": "/docs/inventor-reference/blocks/threads/remove-thread-member"
+  }
+}

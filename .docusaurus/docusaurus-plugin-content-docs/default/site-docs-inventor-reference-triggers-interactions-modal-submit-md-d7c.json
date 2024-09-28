@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/interactions/modal-submit",
+  "title": "Modal Submit",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/interactions/modal-submit.md",
+  "sourceDirName": "inventor-reference/triggers/interactions",
+  "slug": "/inventor-reference/triggers/interactions/modal-submit",
+  "permalink": "/docs/inventor-reference/triggers/interactions/modal-submit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/interactions/modal-submit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dropdown Select",
+    "permalink": "/docs/inventor-reference/triggers/interactions/dropdown-select"
+  },
+  "next": {
+    "title": "Slash Command Autocomplete",
+    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command-autocomplete"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/get-error-details",
+  "title": "Get Error Details",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/get-error-details.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/get-error-details",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/get-error-details",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/get-error-details.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate UUIDv4",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/generate-uuidv4"
+  },
+  "next": {
+    "title": "Get Token",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/get-token"
+  }
+}

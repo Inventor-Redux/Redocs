@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/interactions/autocomplete-response-interaction",
+  "title": "Autocomplete Response Interaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/interactions/autocomplete-response-interaction.md",
+  "sourceDirName": "inventor-reference/Blocks/interactions",
+  "slug": "/inventor-reference/Blocks/interactions/autocomplete-response-interaction",
+  "permalink": "/docs/inventor-reference/Blocks/interactions/autocomplete-response-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/interactions/autocomplete-response-interaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autocomplete Response Builder",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/autocomplete-response-builder"
+  },
+  "next": {
+    "title": "Defer Component Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/defer-component-interaction"
+  }
+}

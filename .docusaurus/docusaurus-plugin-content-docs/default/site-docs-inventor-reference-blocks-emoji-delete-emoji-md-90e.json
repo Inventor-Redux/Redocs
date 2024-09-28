@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/emoji/delete-emoji",
+  "title": "Delete Emoji",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/emoji/delete-emoji.md",
+  "sourceDirName": "inventor-reference/blocks/emoji",
+  "slug": "/inventor-reference/blocks/emoji/delete-emoji",
+  "permalink": "/docs/inventor-reference/blocks/emoji/delete-emoji",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/emoji/delete-emoji.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Emoji",
+    "permalink": "/docs/inventor-reference/blocks/emoji/create-emoji"
+  },
+  "next": {
+    "title": "Get Emoji",
+    "permalink": "/docs/inventor-reference/blocks/emoji/get-emoji"
+  }
+}

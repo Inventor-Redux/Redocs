@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/add-field-to-embed-field-builder",
+  "title": "Add Field to Embed Field Builder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/add-field-to-embed-field-builder.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/add-field-to-embed-field-builder",
+  "permalink": "/docs/inventor-reference/Blocks/messages/add-field-to-embed-field-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/add-field-to-embed-field-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Button to Embed Button Builder",
+    "permalink": "/docs/inventor-reference/Blocks/messages/add-button-to-embed-button-builder"
+  },
+  "next": {
+    "title": "Add Option to Dropdown Builder",
+    "permalink": "/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder"
+  }
+}

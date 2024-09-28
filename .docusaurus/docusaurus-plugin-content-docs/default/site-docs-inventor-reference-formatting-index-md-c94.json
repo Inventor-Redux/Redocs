@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Formatting/index",
+  "title": "Formatting",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Formatting/index.md",
+  "sourceDirName": "inventor-reference/Formatting",
+  "slug": "/inventor-reference/Formatting/",
+  "permalink": "/docs/inventor-reference/Formatting/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Formatting/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modify Webhook",
+    "permalink": "/docs/inventor-reference/Blocks/webhooks/modify-webhook"
+  },
+  "next": {
+    "title": "Mention",
+    "permalink": "/docs/inventor-reference/Formatting/mention"
+  }
+}

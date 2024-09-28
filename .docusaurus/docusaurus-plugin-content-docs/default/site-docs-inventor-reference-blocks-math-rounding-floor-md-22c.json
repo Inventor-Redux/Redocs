@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/math/rounding-(floor)",
+  "title": "Rounding (Floor)",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/math/rounding-(floor).md",
+  "sourceDirName": "inventor-reference/Blocks/math",
+  "slug": "/inventor-reference/Blocks/math/rounding-(floor)",
+  "permalink": "/docs/inventor-reference/Blocks/math/rounding-(floor)",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/math/rounding-(floor).md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rounding (Ceil)",
+    "permalink": "/docs/inventor-reference/Blocks/math/rounding-(ceil)"
+  },
+  "next": {
+    "title": "Rounding (Round)",
+    "permalink": "/docs/inventor-reference/Blocks/math/rounding-(round)"
+  }
+}

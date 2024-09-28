@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/messages/message-deleted",
+  "title": "Message Deleted",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/messages/message-deleted.md",
+  "sourceDirName": "inventor-reference/triggers/messages",
+  "slug": "/inventor-reference/triggers/messages/message-deleted",
+  "permalink": "/docs/inventor-reference/triggers/messages/message-deleted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/messages/message-deleted.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Message Delete Bulk",
+    "permalink": "/docs/inventor-reference/triggers/messages/message-delete-bulk"
+  },
+  "next": {
+    "title": "Message Edited by Bot",
+    "permalink": "/docs/inventor-reference/triggers/messages/message-edited-by-bot"
+  }
+}

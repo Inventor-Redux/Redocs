@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/webhooks/get-webhooks",
+  "title": "Get Webhooks",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/webhooks/get-webhooks.md",
+  "sourceDirName": "inventor-reference/Blocks/webhooks",
+  "slug": "/inventor-reference/Blocks/webhooks/get-webhooks",
+  "permalink": "/docs/inventor-reference/Blocks/webhooks/get-webhooks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/webhooks/get-webhooks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Execute Webhook",
+    "permalink": "/docs/inventor-reference/Blocks/webhooks/execute-webhook"
+  },
+  "next": {
+    "title": "Modify Webhook",
+    "permalink": "/docs/inventor-reference/Blocks/webhooks/modify-webhook"
+  }
+}

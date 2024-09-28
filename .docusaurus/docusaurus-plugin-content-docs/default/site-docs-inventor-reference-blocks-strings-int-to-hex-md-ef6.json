@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/int-to-hex",
+  "title": "Int to Hex",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/int-to-hex.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/int-to-hex",
+  "permalink": "/docs/inventor-reference/Blocks/strings/int-to-hex",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/int-to-hex.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hex to Int",
+    "permalink": "/docs/inventor-reference/Blocks/strings/hex-to-int"
+  },
+  "next": {
+    "title": "MD5 Hash",
+    "permalink": "/docs/inventor-reference/Blocks/strings/md5-hash"
+  }
+}

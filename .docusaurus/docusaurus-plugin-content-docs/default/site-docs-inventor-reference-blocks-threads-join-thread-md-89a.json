@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/threads/join-thread",
+  "title": "Join Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/threads/join-thread.md",
+  "sourceDirName": "inventor-reference/blocks/threads",
+  "slug": "/inventor-reference/blocks/threads/join-thread",
+  "permalink": "/docs/inventor-reference/blocks/threads/join-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/threads/join-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Forum Thread Tags",
+    "permalink": "/docs/inventor-reference/blocks/threads/get-forum-thread-tags"
+  },
+  "next": {
+    "title": "Leave Thread",
+    "permalink": "/docs/inventor-reference/blocks/threads/leave-thread"
+  }
+}

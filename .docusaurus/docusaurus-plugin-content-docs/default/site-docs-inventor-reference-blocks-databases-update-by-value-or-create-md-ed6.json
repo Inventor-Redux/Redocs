@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/update-by-value-or-create",
+  "title": "Update by Value or Create",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/update-by-value-or-create.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/update-by-value-or-create",
+  "permalink": "/docs/inventor-reference/blocks/databases/update-by-value-or-create",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/update-by-value-or-create.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lookup by Value or Create",
+    "permalink": "/docs/inventor-reference/blocks/databases/lookup-by-value-or-create"
+  },
+  "next": {
+    "title": "Update Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/update-row"
+  }
+}

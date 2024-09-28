@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/reactions/reaction-remove",
+  "title": "Reaction Remove",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/reactions/reaction-remove.md",
+  "sourceDirName": "inventor-reference/Triggers/reactions",
+  "slug": "/inventor-reference/Triggers/reactions/reaction-remove",
+  "permalink": "/docs/inventor-reference/Triggers/reactions/reaction-remove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/reactions/reaction-remove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reaction Remove All",
+    "permalink": "/docs/inventor-reference/Triggers/reactions/reaction-remove-all"
+  },
+  "next": {
+    "title": "Role Created",
+    "permalink": "/docs/inventor-reference/Triggers/roles/role-created"
+  }
+}

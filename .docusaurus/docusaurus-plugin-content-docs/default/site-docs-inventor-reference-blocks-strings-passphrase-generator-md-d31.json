@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/passphrase-generator",
+  "title": "Passphrase Generator",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/passphrase-generator.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/passphrase-generator",
+  "permalink": "/docs/inventor-reference/Blocks/strings/passphrase-generator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/passphrase-generator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Parse Color",
+    "permalink": "/docs/inventor-reference/Blocks/strings/parse-color"
+  },
+  "next": {
+    "title": "Remove Line from Local Variable",
+    "permalink": "/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable"
+  }
+}

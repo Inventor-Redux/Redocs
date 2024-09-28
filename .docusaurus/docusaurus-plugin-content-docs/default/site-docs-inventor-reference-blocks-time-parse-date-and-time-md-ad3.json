@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/time/parse-date-and-time",
+  "title": "Parse Date and Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/time/parse-date-and-time.md",
+  "sourceDirName": "inventor-reference/Blocks/time",
+  "slug": "/inventor-reference/Blocks/time/parse-date-and-time",
+  "permalink": "/docs/inventor-reference/Blocks/time/parse-date-and-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/time/parse-date-and-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modify Time",
+    "permalink": "/docs/inventor-reference/Blocks/time/modify-time"
+  },
+  "next": {
+    "title": "Parse Month Name",
+    "permalink": "/docs/inventor-reference/Blocks/time/parse-month-name"
+  }
+}

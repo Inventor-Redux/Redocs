@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/flow-control/if-statement",
+  "title": "If Statement",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/flow-control/if-statement.md",
+  "sourceDirName": "inventor-reference/Blocks/flow-control",
+  "slug": "/inventor-reference/Blocks/flow-control/if-statement",
+  "permalink": "/docs/inventor-reference/Blocks/flow-control/if-statement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/flow-control/if-statement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Folder",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/folder"
+  },
+  "next": {
+    "title": "Is User Collaborator",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/is-user-collaborator"
+  }
+}

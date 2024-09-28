@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/flow-control/advanced-conditional",
+  "title": "Advanced Conditional",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/flow-control/advanced-conditional.md",
+  "sourceDirName": "inventor-reference/Blocks/flow-control",
+  "slug": "/inventor-reference/Blocks/flow-control/advanced-conditional",
+  "permalink": "/docs/inventor-reference/Blocks/flow-control/advanced-conditional",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/flow-control/advanced-conditional.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modify Emoji",
+    "permalink": "/docs/inventor-reference/Blocks/emoji/modify-emoji"
+  },
+  "next": {
+    "title": "Async Folder",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/async-folder"
+  }
+}

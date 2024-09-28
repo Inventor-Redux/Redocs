@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/servers/server-left",
+  "title": "Server Left",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/servers/server-left.md",
+  "sourceDirName": "inventor-reference/Triggers/servers",
+  "slug": "/inventor-reference/Triggers/servers/server-left",
+  "permalink": "/docs/inventor-reference/Triggers/servers/server-left",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/servers/server-left.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server Joined",
+    "permalink": "/docs/inventor-reference/Triggers/servers/server-joined"
+  },
+  "next": {
+    "title": "Server Update",
+    "permalink": "/docs/inventor-reference/Triggers/servers/server-update"
+  }
+}

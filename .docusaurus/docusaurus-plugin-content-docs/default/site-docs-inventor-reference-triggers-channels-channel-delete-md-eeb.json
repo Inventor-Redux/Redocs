@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/channels/channel-delete",
+  "title": "Channel Delete",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/channels/channel-delete.md",
+  "sourceDirName": "inventor-reference/Triggers/channels",
+  "slug": "/inventor-reference/Triggers/channels/channel-delete",
+  "permalink": "/docs/inventor-reference/Triggers/channels/channel-delete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/channels/channel-delete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Channel Created",
+    "permalink": "/docs/inventor-reference/Triggers/channels/channel-created"
+  },
+  "next": {
+    "title": "Channel Pins Update",
+    "permalink": "/docs/inventor-reference/Triggers/channels/channel-pins-update"
+  }
+}

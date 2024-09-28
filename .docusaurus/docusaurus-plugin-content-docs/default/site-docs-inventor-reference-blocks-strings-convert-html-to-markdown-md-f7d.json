@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/convert-html-to-markdown",
+  "title": "Convert HTML to Markdown",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/convert-html-to-markdown.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/convert-html-to-markdown",
+  "permalink": "/docs/inventor-reference/Blocks/strings/convert-html-to-markdown",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/convert-html-to-markdown.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bcrypt Hash String",
+    "permalink": "/docs/inventor-reference/Blocks/strings/bcrypt-hash-string"
+  },
+  "next": {
+    "title": "Generate UUIDv7",
+    "permalink": "/docs/inventor-reference/Blocks/strings/generate-uuidv7"
+  }
+}

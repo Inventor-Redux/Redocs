@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/interactions/get-interaction-message-data",
+  "title": "Get Interaction Message Data",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/interactions/get-interaction-message-data.md",
+  "sourceDirName": "inventor-reference/Blocks/interactions",
+  "slug": "/inventor-reference/Blocks/interactions/get-interaction-message-data",
+  "permalink": "/docs/inventor-reference/Blocks/interactions/get-interaction-message-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/interactions/get-interaction-message-data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embed Reply to Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction"
+  },
+  "next": {
+    "title": "Modal Reply to Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction"
+  }
+}

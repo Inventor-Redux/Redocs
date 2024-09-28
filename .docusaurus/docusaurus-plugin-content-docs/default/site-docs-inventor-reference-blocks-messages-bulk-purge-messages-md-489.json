@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/messages/bulk-purge-messages",
+  "title": "Bulk Purge Messages",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/messages/bulk-purge-messages.md",
+  "sourceDirName": "inventor-reference/blocks/messages",
+  "slug": "/inventor-reference/blocks/messages/bulk-purge-messages",
+  "permalink": "/docs/inventor-reference/blocks/messages/bulk-purge-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/messages/bulk-purge-messages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Option to Dropdown Builder",
+    "permalink": "/docs/inventor-reference/blocks/messages/add-option-to-dropdown-builder"
+  },
+  "next": {
+    "title": "Delete Message",
+    "permalink": "/docs/inventor-reference/blocks/messages/delete-message"
+  }
+}

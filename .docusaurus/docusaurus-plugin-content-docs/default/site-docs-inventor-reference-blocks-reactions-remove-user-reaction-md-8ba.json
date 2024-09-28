@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/reactions/remove-user-reaction",
+  "title": "Remove User Reaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/reactions/remove-user-reaction.md",
+  "sourceDirName": "inventor-reference/blocks/reactions",
+  "slug": "/inventor-reference/blocks/reactions/remove-user-reaction",
+  "permalink": "/docs/inventor-reference/blocks/reactions/remove-user-reaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/reactions/remove-user-reaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remove Reaction",
+    "permalink": "/docs/inventor-reference/blocks/reactions/remove-reaction"
+  },
+  "next": {
+    "title": "Regex Find Matches Iterator",
+    "permalink": "/docs/inventor-reference/blocks/regex/regex-find-matches-iterator"
+  }
+}

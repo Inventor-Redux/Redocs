@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/interactions/context-menu",
+  "title": "Context Menu",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/interactions/context-menu.md",
+  "sourceDirName": "inventor-reference/Triggers/interactions",
+  "slug": "/inventor-reference/Triggers/interactions/context-menu",
+  "permalink": "/docs/inventor-reference/Triggers/interactions/context-menu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/interactions/context-menu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Button Click",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/button-click"
+  },
+  "next": {
+    "title": "Dropdown Select",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/dropdown-select"
+  }
+}

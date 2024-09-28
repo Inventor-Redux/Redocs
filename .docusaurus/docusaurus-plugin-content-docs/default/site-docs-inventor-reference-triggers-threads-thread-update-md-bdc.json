@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/threads/thread-update",
+  "title": "Thread Update",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/threads/thread-update.md",
+  "sourceDirName": "inventor-reference/Triggers/threads",
+  "slug": "/inventor-reference/Triggers/threads/thread-update",
+  "permalink": "/docs/inventor-reference/Triggers/threads/thread-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/threads/thread-update.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thread Delete",
+    "permalink": "/docs/inventor-reference/Triggers/threads/thread-delete"
+  },
+  "next": {
+    "title": "Empty Trigger",
+    "permalink": "/docs/inventor-reference/Triggers/utilities/empty-trigger"
+  }
+}

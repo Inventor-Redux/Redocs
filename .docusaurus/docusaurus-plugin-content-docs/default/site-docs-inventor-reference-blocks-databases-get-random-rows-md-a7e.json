@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/get-random-rows",
+  "title": "Get Random Rows",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/get-random-rows.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/get-random-rows",
+  "permalink": "/docs/inventor-reference/blocks/databases/get-random-rows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/get-random-rows.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Random Rows by Value",
+    "permalink": "/docs/inventor-reference/blocks/databases/get-random-rows-by-value"
+  },
+  "next": {
+    "title": "Get Row by Values",
+    "permalink": "/docs/inventor-reference/blocks/databases/get-row-by-values"
+  }
+}

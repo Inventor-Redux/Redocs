@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/local-variables/update-local-variable",
+  "title": "Update Local Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/local-variables/update-local-variable.md",
+  "sourceDirName": "inventor-reference/Blocks/local-variables",
+  "slug": "/inventor-reference/Blocks/local-variables/update-local-variable",
+  "permalink": "/docs/inventor-reference/Blocks/local-variables/update-local-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/local-variables/update-local-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Increment or Decrement Local Variable",
+    "permalink": "/docs/inventor-reference/Blocks/local-variables/increment-or-decrement-local-variable"
+  },
+  "next": {
+    "title": "Absolute Value",
+    "permalink": "/docs/inventor-reference/Blocks/math/absolute-value"
+  }
+}

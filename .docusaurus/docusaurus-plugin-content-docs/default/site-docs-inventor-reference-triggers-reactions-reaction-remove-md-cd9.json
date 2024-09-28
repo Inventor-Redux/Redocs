@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/reactions/reaction-remove",
+  "title": "Reaction Remove",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/reactions/reaction-remove.md",
+  "sourceDirName": "inventor-reference/triggers/reactions",
+  "slug": "/inventor-reference/triggers/reactions/reaction-remove",
+  "permalink": "/docs/inventor-reference/triggers/reactions/reaction-remove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/reactions/reaction-remove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reaction Remove All",
+    "permalink": "/docs/inventor-reference/triggers/reactions/reaction-remove-all"
+  },
+  "next": {
+    "title": "Role Created",
+    "permalink": "/docs/inventor-reference/triggers/roles/role-created"
+  }
+}

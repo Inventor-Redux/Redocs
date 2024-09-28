@@ -1,0 +1,20 @@
+{
+  "id": "inventor-reference/types/string/uuid",
+  "title": "UUID",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/types/string/uuid.md",
+  "sourceDirName": "inventor-reference/types/string",
+  "slug": "/inventor-reference/types/string/uuid",
+  "permalink": "/docs/inventor-reference/types/string/uuid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/types/string/uuid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snowflake",
+    "permalink": "/docs/inventor-reference/types/string/snowflake"
+  }
+}

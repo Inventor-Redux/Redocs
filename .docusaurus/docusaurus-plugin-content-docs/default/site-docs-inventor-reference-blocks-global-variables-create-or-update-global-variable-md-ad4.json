@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/global-variables/create-or-update-global-variable",
+  "title": "Create or Update Global Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/global-variables/create-or-update-global-variable.md",
+  "sourceDirName": "inventor-reference/blocks/global-variables",
+  "slug": "/inventor-reference/blocks/global-variables/create-or-update-global-variable",
+  "permalink": "/docs/inventor-reference/blocks/global-variables/create-or-update-global-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/global-variables/create-or-update-global-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sleep",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/sleep"
+  },
+  "next": {
+    "title": "Delete Global Variable",
+    "permalink": "/docs/inventor-reference/blocks/global-variables/delete-global-variable"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/change-bot-status",
+  "title": "Change Bot Status",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/change-bot-status.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/change-bot-status",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/change-bot-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/change-bot-status.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unban Server Member",
+    "permalink": "/docs/inventor-reference/Blocks/users/unban-server-member"
+  },
+  "next": {
+    "title": "Discord API Ping",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/discord-api-ping"
+  }
+}

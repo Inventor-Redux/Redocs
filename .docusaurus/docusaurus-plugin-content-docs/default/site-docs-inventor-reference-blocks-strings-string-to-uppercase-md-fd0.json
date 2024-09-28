@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/string-to-uppercase",
+  "title": "String to Uppercase",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/string-to-uppercase.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/string-to-uppercase",
+  "permalink": "/docs/inventor-reference/blocks/strings/string-to-uppercase",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/string-to-uppercase.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String to Lowercase",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-to-lowercase"
+  },
+  "next": {
+    "title": "String Trim Prefix",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-trim-prefix"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/math/logarithm",
+  "title": "Logarithm",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/math/logarithm.md",
+  "sourceDirName": "inventor-reference/Blocks/math",
+  "slug": "/inventor-reference/Blocks/math/logarithm",
+  "permalink": "/docs/inventor-reference/Blocks/math/logarithm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/math/logarithm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "If Number is Close to Other Number",
+    "permalink": "/docs/inventor-reference/Blocks/math/if-number-is-close-to-other-number"
+  },
+  "next": {
+    "title": "Math Operations (Float)",
+    "permalink": "/docs/inventor-reference/Blocks/math/math-operations-(float)"
+  }
+}

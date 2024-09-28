@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/servers/get-server",
+  "title": "Get Server",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/servers/get-server.md",
+  "sourceDirName": "inventor-reference/Blocks/servers",
+  "slug": "/inventor-reference/Blocks/servers/get-server",
+  "permalink": "/docs/inventor-reference/Blocks/servers/get-server",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/servers/get-server.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Server Members",
+    "permalink": "/docs/inventor-reference/Blocks/servers/get-server-members"
+  },
+  "next": {
+    "title": "Get Servers",
+    "permalink": "/docs/inventor-reference/Blocks/servers/get-servers"
+  }
+}

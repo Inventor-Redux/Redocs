@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/types/string/snowflake",
+  "title": "Snowflake",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/types/string/snowflake.md",
+  "sourceDirName": "inventor-reference/types/string",
+  "slug": "/inventor-reference/types/string/snowflake",
+  "permalink": "/docs/inventor-reference/types/string/snowflake",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/types/string/snowflake.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mention",
+    "permalink": "/docs/inventor-reference/types/string/mention"
+  },
+  "next": {
+    "title": "UUID",
+    "permalink": "/docs/inventor-reference/types/string/uuid"
+  }
+}

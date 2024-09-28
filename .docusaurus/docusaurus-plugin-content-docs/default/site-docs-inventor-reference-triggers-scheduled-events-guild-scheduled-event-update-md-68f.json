@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update",
+  "title": "Guild Scheduled Event Update",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update.md",
+  "sourceDirName": "inventor-reference/Triggers/scheduled-events",
+  "slug": "/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update",
+  "permalink": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guild Scheduled Event Delete",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-delete"
+  },
+  "next": {
+    "title": "Guild Scheduled Event User Add",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-add"
+  }
+}

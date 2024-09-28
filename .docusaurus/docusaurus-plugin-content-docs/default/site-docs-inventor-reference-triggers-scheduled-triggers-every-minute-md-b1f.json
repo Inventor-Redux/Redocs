@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/scheduled-triggers/every-minute",
+  "title": "Every Minute",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Triggers/scheduled-triggers/every-minute.md",
+  "sourceDirName": "inventor-reference/Triggers/scheduled-triggers",
+  "slug": "/inventor-reference/Triggers/scheduled-triggers/every-minute",
+  "permalink": "/docs/inventor-reference/Triggers/scheduled-triggers/every-minute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/scheduled-triggers/every-minute.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Every Hour",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-triggers/every-hour"
+  },
+  "next": {
+    "title": "Every Month",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-triggers/every-month"
+  }
+}

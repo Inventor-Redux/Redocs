@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/threads/thread-delete",
+  "title": "Thread Delete",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/threads/thread-delete.md",
+  "sourceDirName": "inventor-reference/triggers/threads",
+  "slug": "/inventor-reference/triggers/threads/thread-delete",
+  "permalink": "/docs/inventor-reference/triggers/threads/thread-delete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/threads/thread-delete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thread Created",
+    "permalink": "/docs/inventor-reference/triggers/threads/thread-created"
+  },
+  "next": {
+    "title": "Thread Update",
+    "permalink": "/docs/inventor-reference/triggers/threads/thread-update"
+  }
+}

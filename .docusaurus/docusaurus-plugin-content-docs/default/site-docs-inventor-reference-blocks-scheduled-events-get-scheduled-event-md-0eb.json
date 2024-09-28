@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/scheduled-events/get-scheduled-event",
+  "title": "Get Scheduled Event",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-event.md",
+  "sourceDirName": "inventor-reference/Blocks/scheduled-events",
+  "slug": "/inventor-reference/Blocks/scheduled-events/get-scheduled-event",
+  "permalink": "/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-event",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-event.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Scheduled Event",
+    "permalink": "/docs/inventor-reference/Blocks/scheduled-events/delete-scheduled-event"
+  },
+  "next": {
+    "title": "Get Scheduled Events",
+    "permalink": "/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-events"
+  }
+}

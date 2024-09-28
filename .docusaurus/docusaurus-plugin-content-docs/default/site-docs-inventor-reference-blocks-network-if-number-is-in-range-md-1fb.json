@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/network/if-number-is-in-range",
+  "title": "If Number is in Range",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/network/if-number-is-in-range.md",
+  "sourceDirName": "inventor-reference/Blocks/network",
+  "slug": "/inventor-reference/Blocks/network/if-number-is-in-range",
+  "permalink": "/docs/inventor-reference/Blocks/network/if-number-is-in-range",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/network/if-number-is-in-range.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate Form Body",
+    "permalink": "/docs/inventor-reference/Blocks/network/generate-form-body"
+  },
+  "next": {
+    "title": "If Value is Number",
+    "permalink": "/docs/inventor-reference/Blocks/network/if-value-is-number"
+  }
+}

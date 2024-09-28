@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/databases/get-row-by-values",
+  "title": "Get Row by Values",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/databases/get-row-by-values.md",
+  "sourceDirName": "inventor-reference/Blocks/databases",
+  "slug": "/inventor-reference/Blocks/databases/get-row-by-values",
+  "permalink": "/docs/inventor-reference/Blocks/databases/get-row-by-values",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/databases/get-row-by-values.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Random Rows",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-random-rows"
+  },
+  "next": {
+    "title": "Get Row Count",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-row-count"
+  }
+}

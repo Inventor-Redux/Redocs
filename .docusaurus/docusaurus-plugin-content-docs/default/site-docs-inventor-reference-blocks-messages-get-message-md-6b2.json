@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/get-message",
+  "title": "Get Message",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/get-message.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/get-message",
+  "permalink": "/docs/inventor-reference/Blocks/messages/get-message",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/get-message.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embed Field Builder",
+    "permalink": "/docs/inventor-reference/Blocks/messages/embed-field-builder"
+  },
+  "next": {
+    "title": "Get Messages",
+    "permalink": "/docs/inventor-reference/Blocks/messages/get-messages"
+  }
+}

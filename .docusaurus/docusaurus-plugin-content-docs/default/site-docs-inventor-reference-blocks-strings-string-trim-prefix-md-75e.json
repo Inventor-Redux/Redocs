@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-trim-prefix",
+  "title": "String Trim Prefix",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-trim-prefix.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-trim-prefix",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-trim-prefix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-trim-prefix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String to Uppercase",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-to-uppercase"
+  },
+  "next": {
+    "title": "String Trim Suffix",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-trim-suffix"
+  }
+}

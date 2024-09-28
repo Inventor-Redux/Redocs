@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Types/string/boolean",
+  "title": "Boolean",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/string/boolean.md",
+  "sourceDirName": "inventor-reference/Types/string",
+  "slug": "/inventor-reference/Types/string/boolean",
+  "permalink": "/docs/inventor-reference/Types/string/boolean",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/string/boolean.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String",
+    "permalink": "/docs/inventor-reference/Types/string/"
+  },
+  "next": {
+    "title": "JSON",
+    "permalink": "/docs/inventor-reference/Types/string/json"
+  }
+}

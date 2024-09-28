@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-contains-count",
+  "title": "String Contains Count",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-contains-count.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-contains-count",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-contains-count",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-contains-count.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Split String Iterator",
+    "permalink": "/docs/inventor-reference/Blocks/strings/split-string-iterator"
+  },
+  "next": {
+    "title": "String Length",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-length"
+  }
+}

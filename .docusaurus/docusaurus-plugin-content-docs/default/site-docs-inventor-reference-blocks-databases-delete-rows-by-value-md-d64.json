@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/delete-rows-by-value",
+  "title": "Delete Rows by Value",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/delete-rows-by-value.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/delete-rows-by-value",
+  "permalink": "/docs/inventor-reference/blocks/databases/delete-rows-by-value",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/delete-rows-by-value.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/delete-row"
+  },
+  "next": {
+    "title": "Get Random Row by Value",
+    "permalink": "/docs/inventor-reference/blocks/databases/get-random-row-by-value"
+  }
+}

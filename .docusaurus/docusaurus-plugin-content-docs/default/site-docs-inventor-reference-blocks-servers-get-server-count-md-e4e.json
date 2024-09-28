@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/servers/get-server-count",
+  "title": "Get Server Count",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/servers/get-server-count.md",
+  "sourceDirName": "inventor-reference/blocks/servers",
+  "slug": "/inventor-reference/blocks/servers/get-server-count",
+  "permalink": "/docs/inventor-reference/blocks/servers/get-server-count",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/servers/get-server-count.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Server Bans",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-server-bans"
+  },
+  "next": {
+    "title": "Get Server Members",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-server-members"
+  }
+}

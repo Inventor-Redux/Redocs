@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Types/string/json",
+  "title": "JSON",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/string/json.md",
+  "sourceDirName": "inventor-reference/Types/string",
+  "slug": "/inventor-reference/Types/string/json",
+  "permalink": "/docs/inventor-reference/Types/string/json",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/string/json.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Boolean",
+    "permalink": "/docs/inventor-reference/Types/string/boolean"
+  },
+  "next": {
+    "title": "List",
+    "permalink": "/docs/inventor-reference/Types/string/list"
+  }
+}

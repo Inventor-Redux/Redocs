@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/remove-line-from-local-variable",
+  "title": "Remove Line from Local Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/remove-line-from-local-variable.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/remove-line-from-local-variable",
+  "permalink": "/docs/inventor-reference/blocks/strings/remove-line-from-local-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/remove-line-from-local-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Passphrase Generator",
+    "permalink": "/docs/inventor-reference/blocks/strings/passphrase-generator"
+  },
+  "next": {
+    "title": "Sort Lines by Number Prefix or Suffix",
+    "permalink": "/docs/inventor-reference/blocks/strings/sort-lines-by-number-prefix-or-suffix"
+  }
+}

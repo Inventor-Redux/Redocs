@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/network/if-value-is-number",
+  "title": "If Value is Number",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/network/if-value-is-number.md",
+  "sourceDirName": "inventor-reference/Blocks/network",
+  "slug": "/inventor-reference/Blocks/network/if-value-is-number",
+  "permalink": "/docs/inventor-reference/Blocks/network/if-value-is-number",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/network/if-value-is-number.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "If Number is in Range",
+    "permalink": "/docs/inventor-reference/Blocks/network/if-number-is-in-range"
+  },
+  "next": {
+    "title": "Parse JSON",
+    "permalink": "/docs/inventor-reference/Blocks/network/parse-json"
+  }
+}

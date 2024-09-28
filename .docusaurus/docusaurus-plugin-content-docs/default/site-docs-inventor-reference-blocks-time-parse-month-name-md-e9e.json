@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/time/parse-month-name",
+  "title": "Parse Month Name",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/time/parse-month-name.md",
+  "sourceDirName": "inventor-reference/blocks/time",
+  "slug": "/inventor-reference/blocks/time/parse-month-name",
+  "permalink": "/docs/inventor-reference/blocks/time/parse-month-name",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/time/parse-month-name.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Parse Date and Time",
+    "permalink": "/docs/inventor-reference/blocks/time/parse-date-and-time"
+  },
+  "next": {
+    "title": "Parse Relative Time",
+    "permalink": "/docs/inventor-reference/blocks/time/parse-relative-time"
+  }
+}

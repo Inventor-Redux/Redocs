@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/math/if-number-is-close-to-other-number",
+  "title": "If Number is Close to Other Number",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number.md",
+  "sourceDirName": "inventor-reference/blocks/math",
+  "slug": "/inventor-reference/blocks/math/if-number-is-close-to-other-number",
+  "permalink": "/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Format Number",
+    "permalink": "/docs/inventor-reference/blocks/math/format-number"
+  },
+  "next": {
+    "title": "Logarithm",
+    "permalink": "/docs/inventor-reference/blocks/math/logarithm"
+  }
+}

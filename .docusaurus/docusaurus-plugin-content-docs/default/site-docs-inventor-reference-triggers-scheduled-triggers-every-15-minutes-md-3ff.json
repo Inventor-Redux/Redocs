@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/scheduled-triggers/every-15-minutes",
+  "title": "Every 15 Minutes",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes.md",
+  "sourceDirName": "inventor-reference/Triggers/scheduled-triggers",
+  "slug": "/inventor-reference/Triggers/scheduled-triggers/every-15-minutes",
+  "permalink": "/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guild Scheduled Event User Remove",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove"
+  },
+  "next": {
+    "title": "Every 30 Minutes",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-triggers/every-30-minutes"
+  }
+}

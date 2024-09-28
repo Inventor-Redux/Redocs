@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/regex/regex-replace",
+  "title": "Regex Replace",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/regex/regex-replace.md",
+  "sourceDirName": "inventor-reference/Blocks/regex",
+  "slug": "/inventor-reference/Blocks/regex/regex-replace",
+  "permalink": "/docs/inventor-reference/Blocks/regex/regex-replace",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/regex/regex-replace.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Regex Match",
+    "permalink": "/docs/inventor-reference/Blocks/regex/regex-match"
+  },
+  "next": {
+    "title": "Assign Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/assign-role"
+  }
+}

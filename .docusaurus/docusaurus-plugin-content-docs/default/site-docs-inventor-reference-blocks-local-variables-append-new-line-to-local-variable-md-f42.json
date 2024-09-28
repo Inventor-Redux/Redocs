@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/local-variables/append-new-line-to-local-variable",
+  "title": "Append New Line to Local Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable.md",
+  "sourceDirName": "inventor-reference/Blocks/local-variables",
+  "slug": "/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable",
+  "permalink": "/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Invites",
+    "permalink": "/docs/inventor-reference/Blocks/invites/get-invites"
+  },
+  "next": {
+    "title": "Create Local Variable",
+    "permalink": "/docs/inventor-reference/Blocks/local-variables/create-local-variable"
+  }
+}

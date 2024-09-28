@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/databases/get-rows-sorted-by-column",
+  "title": "Get Rows Sorted by Column",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/databases/get-rows-sorted-by-column.md",
+  "sourceDirName": "inventor-reference/Blocks/databases",
+  "slug": "/inventor-reference/Blocks/databases/get-rows-sorted-by-column",
+  "permalink": "/docs/inventor-reference/Blocks/databases/get-rows-sorted-by-column",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/databases/get-rows-sorted-by-column.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Rows by Values",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-rows-by-values"
+  },
+  "next": {
+    "title": "Get Rows",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-rows"
+  }
+}

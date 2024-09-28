@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Types/string/list",
+  "title": "List",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/string/list.md",
+  "sourceDirName": "inventor-reference/Types/string",
+  "slug": "/inventor-reference/Types/string/list",
+  "permalink": "/docs/inventor-reference/Types/string/list",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/string/list.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON",
+    "permalink": "/docs/inventor-reference/Types/string/json"
+  },
+  "next": {
+    "title": "Mention",
+    "permalink": "/docs/inventor-reference/Types/string/mention"
+  }
+}

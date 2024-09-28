@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/databases/create-row",
+  "title": "Create Row",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/databases/create-row.md",
+  "sourceDirName": "inventor-reference/Blocks/databases",
+  "slug": "/inventor-reference/Blocks/databases/create-row",
+  "permalink": "/docs/inventor-reference/Blocks/databases/create-row",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/databases/create-row.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Block",
+    "permalink": "/docs/inventor-reference/Blocks/custom-block"
+  },
+  "next": {
+    "title": "Delete Row",
+    "permalink": "/docs/inventor-reference/Blocks/databases/delete-row"
+  }
+}

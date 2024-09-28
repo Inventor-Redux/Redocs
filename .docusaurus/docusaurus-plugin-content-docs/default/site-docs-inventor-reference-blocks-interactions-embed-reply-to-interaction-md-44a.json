@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/interactions/embed-reply-to-interaction",
+  "title": "Embed Reply to Interaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction.md",
+  "sourceDirName": "inventor-reference/Blocks/interactions",
+  "slug": "/inventor-reference/Blocks/interactions/embed-reply-to-interaction",
+  "permalink": "/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defer Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/defer-interaction"
+  },
+  "next": {
+    "title": "Get Interaction Message Data",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/get-interaction-message-data"
+  }
+}

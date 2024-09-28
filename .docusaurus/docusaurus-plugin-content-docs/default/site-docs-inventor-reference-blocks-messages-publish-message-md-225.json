@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/publish-message",
+  "title": "Publish Message",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/publish-message.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/publish-message",
+  "permalink": "/docs/inventor-reference/Blocks/messages/publish-message",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/publish-message.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pin Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/pin-message"
+  },
+  "next": {
+    "title": "Send or Edit Embed Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message"
+  }
+}

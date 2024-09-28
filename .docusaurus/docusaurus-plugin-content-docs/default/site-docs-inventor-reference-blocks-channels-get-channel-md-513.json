@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/channels/get-channel",
+  "title": "Get Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/channels/get-channel.md",
+  "sourceDirName": "inventor-reference/Blocks/channels",
+  "slug": "/inventor-reference/Blocks/channels/get-channel",
+  "permalink": "/docs/inventor-reference/Blocks/channels/get-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/channels/get-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit Channel Permissions",
+    "permalink": "/docs/inventor-reference/Blocks/channels/edit-channel-permissions"
+  },
+  "next": {
+    "title": "Get Channels",
+    "permalink": "/docs/inventor-reference/Blocks/channels/get-channels"
+  }
+}

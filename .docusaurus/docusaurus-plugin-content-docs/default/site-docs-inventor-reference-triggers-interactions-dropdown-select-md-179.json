@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/interactions/dropdown-select",
+  "title": "Dropdown Select",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/interactions/dropdown-select.md",
+  "sourceDirName": "inventor-reference/triggers/interactions",
+  "slug": "/inventor-reference/triggers/interactions/dropdown-select",
+  "permalink": "/docs/inventor-reference/triggers/interactions/dropdown-select",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/interactions/dropdown-select.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Context Menu",
+    "permalink": "/docs/inventor-reference/triggers/interactions/context-menu"
+  },
+  "next": {
+    "title": "Modal Submit",
+    "permalink": "/docs/inventor-reference/triggers/interactions/modal-submit"
+  }
+}

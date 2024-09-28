@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/truncate-split-string-iterator",
+  "title": "Truncate Split String Iterator",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/truncate-split-string-iterator.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/truncate-split-string-iterator",
+  "permalink": "/docs/inventor-reference/blocks/strings/truncate-split-string-iterator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/truncate-split-string-iterator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String Trim Suffix",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-trim-suffix"
+  },
+  "next": {
+    "title": "Truncate Split String List",
+    "permalink": "/docs/inventor-reference/blocks/strings/truncate-split-string-list"
+  }
+}

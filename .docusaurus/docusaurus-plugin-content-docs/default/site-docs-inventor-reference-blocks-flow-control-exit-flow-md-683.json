@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/flow-control/exit-flow",
+  "title": "Exit Flow",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/flow-control/exit-flow.md",
+  "sourceDirName": "inventor-reference/Blocks/flow-control",
+  "slug": "/inventor-reference/Blocks/flow-control/exit-flow",
+  "permalink": "/docs/inventor-reference/Blocks/flow-control/exit-flow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/flow-control/exit-flow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Continue",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/continue"
+  },
+  "next": {
+    "title": "Folder",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/folder"
+  }
+}

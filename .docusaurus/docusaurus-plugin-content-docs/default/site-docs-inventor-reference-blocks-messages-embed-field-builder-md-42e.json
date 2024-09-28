@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/messages/embed-field-builder",
+  "title": "Embed Field Builder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/messages/embed-field-builder.md",
+  "sourceDirName": "inventor-reference/blocks/messages",
+  "slug": "/inventor-reference/blocks/messages/embed-field-builder",
+  "permalink": "/docs/inventor-reference/blocks/messages/embed-field-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/messages/embed-field-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embed Dropdown Builder",
+    "permalink": "/docs/inventor-reference/blocks/messages/embed-dropdown-builder"
+  },
+  "next": {
+    "title": "Get Message",
+    "permalink": "/docs/inventor-reference/blocks/messages/get-message"
+  }
+}

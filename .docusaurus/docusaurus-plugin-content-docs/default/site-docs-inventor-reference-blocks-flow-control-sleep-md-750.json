@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/flow-control/sleep",
+  "title": "Sleep",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/flow-control/sleep.md",
+  "sourceDirName": "inventor-reference/Blocks/flow-control",
+  "slug": "/inventor-reference/Blocks/flow-control/sleep",
+  "permalink": "/docs/inventor-reference/Blocks/flow-control/sleep",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/flow-control/sleep.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Is User Collaborator",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/is-user-collaborator"
+  },
+  "next": {
+    "title": "Create or Update Global Variable",
+    "permalink": "/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable"
+  }
+}

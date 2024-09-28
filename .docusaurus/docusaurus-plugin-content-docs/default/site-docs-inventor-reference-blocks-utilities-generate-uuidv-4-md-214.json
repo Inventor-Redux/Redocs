@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/utilities/generate-uuidv4",
+  "title": "Generate UUIDv4",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/utilities/generate-uuidv4.md",
+  "sourceDirName": "inventor-reference/blocks/utilities",
+  "slug": "/inventor-reference/blocks/utilities/generate-uuidv4",
+  "permalink": "/docs/inventor-reference/blocks/utilities/generate-uuidv4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/utilities/generate-uuidv4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exclude From Analytics",
+    "permalink": "/docs/inventor-reference/blocks/utilities/exclude-from-analytics"
+  },
+  "next": {
+    "title": "Get Error Details",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-error-details"
+  }
+}

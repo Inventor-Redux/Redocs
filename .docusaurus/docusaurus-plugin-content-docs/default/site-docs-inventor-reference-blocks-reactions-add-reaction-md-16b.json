@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/reactions/add-reaction",
+  "title": "Add Reaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/reactions/add-reaction.md",
+  "sourceDirName": "inventor-reference/Blocks/reactions",
+  "slug": "/inventor-reference/Blocks/reactions/add-reaction",
+  "permalink": "/docs/inventor-reference/Blocks/reactions/add-reaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/reactions/add-reaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Send Network Request",
+    "permalink": "/docs/inventor-reference/Blocks/network/send-network-request"
+  },
+  "next": {
+    "title": "Get Reactions Count",
+    "permalink": "/docs/inventor-reference/Blocks/reactions/get-reactions-count"
+  }
+}

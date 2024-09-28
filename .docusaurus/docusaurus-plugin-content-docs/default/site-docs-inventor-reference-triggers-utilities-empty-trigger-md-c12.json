@@ -1,0 +1,20 @@
+{
+  "id": "inventor-reference/triggers/utilities/empty-trigger",
+  "title": "Empty Trigger",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/utilities/empty-trigger.md",
+  "sourceDirName": "inventor-reference/triggers/utilities",
+  "slug": "/inventor-reference/triggers/utilities/empty-trigger",
+  "permalink": "/docs/inventor-reference/triggers/utilities/empty-trigger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/utilities/empty-trigger.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thread Update",
+    "permalink": "/docs/inventor-reference/triggers/threads/thread-update"
+  }
+}

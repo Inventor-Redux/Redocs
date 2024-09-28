@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/delete-row",
+  "title": "Delete Row",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/delete-row.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/delete-row",
+  "permalink": "/docs/inventor-reference/blocks/databases/delete-row",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/delete-row.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/create-row"
+  },
+  "next": {
+    "title": "Delete Rows by Value",
+    "permalink": "/docs/inventor-reference/blocks/databases/delete-rows-by-value"
+  }
+}

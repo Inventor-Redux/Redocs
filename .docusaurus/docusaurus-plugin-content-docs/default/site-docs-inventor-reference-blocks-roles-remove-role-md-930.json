@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/roles/remove-role",
+  "title": "Remove Role",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/roles/remove-role.md",
+  "sourceDirName": "inventor-reference/blocks/roles",
+  "slug": "/inventor-reference/blocks/roles/remove-role",
+  "permalink": "/docs/inventor-reference/blocks/roles/remove-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/roles/remove-role.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Roles",
+    "permalink": "/docs/inventor-reference/blocks/roles/get-roles"
+  },
+  "next": {
+    "title": "Update Role",
+    "permalink": "/docs/inventor-reference/blocks/roles/update-role"
+  }
+}
