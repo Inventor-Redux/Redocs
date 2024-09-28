@@ -8,7 +8,6 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
-    - navigation.prune
     - toc.integrate
     - toc.follow
     - navigation.top
@@ -30,7 +29,6 @@ theme:
   custom_dir: overrides
   
 plugins:
-  - git-authors
   - git-revision-date-localized:
       type: iso_date
       fallback_to_build_date: true
@@ -43,7 +41,6 @@ plugins:
       blog_dir: changelogs
       archive: false
       post_url_format: "{slug}"
-  - tags:
 
 repo_url: https://github.com/Inventor-Redux/Redocs
 repo_name: Inventor-Redux/Redocs
