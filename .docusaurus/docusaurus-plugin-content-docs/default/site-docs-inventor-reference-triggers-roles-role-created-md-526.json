@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/roles/role-created",
+  "title": "Role Created",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/roles/role-created.md",
+  "sourceDirName": "inventor-reference/Triggers/roles",
+  "slug": "/inventor-reference/Triggers/roles/role-created",
+  "permalink": "/docs/inventor-reference/Triggers/roles/role-created",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/roles/role-created.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reaction Remove",
+    "permalink": "/docs/inventor-reference/Triggers/reactions/reaction-remove"
+  },
+  "next": {
+    "title": "Role Delete",
+    "permalink": "/docs/inventor-reference/Triggers/roles/role-delete"
+  }
+}

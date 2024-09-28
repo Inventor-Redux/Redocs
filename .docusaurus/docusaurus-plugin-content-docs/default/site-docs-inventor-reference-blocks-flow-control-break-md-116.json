@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/flow-control/break",
+  "title": "Break",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/flow-control/break.md",
+  "sourceDirName": "inventor-reference/blocks/flow-control",
+  "slug": "/inventor-reference/blocks/flow-control/break",
+  "permalink": "/docs/inventor-reference/blocks/flow-control/break",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/flow-control/break.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Async Folder",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/async-folder"
+  },
+  "next": {
+    "title": "Continue",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/continue"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/channels/channel-delete",
+  "title": "Channel Delete",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/channels/channel-delete.md",
+  "sourceDirName": "inventor-reference/triggers/channels",
+  "slug": "/inventor-reference/triggers/channels/channel-delete",
+  "permalink": "/docs/inventor-reference/triggers/channels/channel-delete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/channels/channel-delete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Channel Created",
+    "permalink": "/docs/inventor-reference/triggers/channels/channel-created"
+  },
+  "next": {
+    "title": "Channel Pins Update",
+    "permalink": "/docs/inventor-reference/triggers/channels/channel-pins-update"
+  }
+}

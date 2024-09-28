@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/threads/create-forum-thread",
+  "title": "Create Forum Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/threads/create-forum-thread.md",
+  "sourceDirName": "inventor-reference/blocks/threads",
+  "slug": "/inventor-reference/blocks/threads/create-forum-thread",
+  "permalink": "/docs/inventor-reference/blocks/threads/create-forum-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/threads/create-forum-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Archive Thread",
+    "permalink": "/docs/inventor-reference/blocks/threads/archive-thread"
+  },
+  "next": {
+    "title": "Get Forum Thread Tags",
+    "permalink": "/docs/inventor-reference/blocks/threads/get-forum-thread-tags"
+  }
+}

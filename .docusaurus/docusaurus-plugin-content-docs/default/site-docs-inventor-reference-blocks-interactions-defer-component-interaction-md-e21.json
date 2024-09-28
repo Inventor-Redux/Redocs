@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/interactions/defer-component-interaction",
+  "title": "Defer Component Interaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/interactions/defer-component-interaction.md",
+  "sourceDirName": "inventor-reference/blocks/interactions",
+  "slug": "/inventor-reference/blocks/interactions/defer-component-interaction",
+  "permalink": "/docs/inventor-reference/blocks/interactions/defer-component-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/interactions/defer-component-interaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autocomplete Response Interaction",
+    "permalink": "/docs/inventor-reference/blocks/interactions/autocomplete-response-interaction"
+  },
+  "next": {
+    "title": "Defer Interaction",
+    "permalink": "/docs/inventor-reference/blocks/interactions/defer-interaction"
+  }
+}

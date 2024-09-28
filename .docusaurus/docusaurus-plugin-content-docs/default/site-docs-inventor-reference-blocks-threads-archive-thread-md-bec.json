@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/threads/archive-thread",
+  "title": "Archive Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/threads/archive-thread.md",
+  "sourceDirName": "inventor-reference/Blocks/threads",
+  "slug": "/inventor-reference/Blocks/threads/archive-thread",
+  "permalink": "/docs/inventor-reference/Blocks/threads/archive-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/threads/archive-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Thread Member",
+    "permalink": "/docs/inventor-reference/Blocks/threads/add-thread-member"
+  },
+  "next": {
+    "title": "Create Forum Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/create-forum-thread"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/reactions/remove-reaction",
+  "title": "Remove Reaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/reactions/remove-reaction.md",
+  "sourceDirName": "inventor-reference/blocks/reactions",
+  "slug": "/inventor-reference/blocks/reactions/remove-reaction",
+  "permalink": "/docs/inventor-reference/blocks/reactions/remove-reaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/reactions/remove-reaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remove All Reactions",
+    "permalink": "/docs/inventor-reference/blocks/reactions/remove-all-reactions"
+  },
+  "next": {
+    "title": "Remove User Reaction",
+    "permalink": "/docs/inventor-reference/blocks/reactions/remove-user-reaction"
+  }
+}

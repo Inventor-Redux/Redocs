@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/scheduled-triggers/every-hour",
+  "title": "Every Hour",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/triggers/scheduled-triggers/every-hour.md",
+  "sourceDirName": "inventor-reference/triggers/scheduled-triggers",
+  "slug": "/inventor-reference/triggers/scheduled-triggers/every-hour",
+  "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-hour",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/scheduled-triggers/every-hour.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Every Day",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-day"
+  },
+  "next": {
+    "title": "Every Minute",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-minute"
+  }
+}

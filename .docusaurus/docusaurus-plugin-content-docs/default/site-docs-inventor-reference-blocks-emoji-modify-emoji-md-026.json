@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/emoji/modify-emoji",
+  "title": "Modify Emoji",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/emoji/modify-emoji.md",
+  "sourceDirName": "inventor-reference/blocks/emoji",
+  "slug": "/inventor-reference/blocks/emoji/modify-emoji",
+  "permalink": "/docs/inventor-reference/blocks/emoji/modify-emoji",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/emoji/modify-emoji.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Emojis",
+    "permalink": "/docs/inventor-reference/blocks/emoji/get-emojis"
+  },
+  "next": {
+    "title": "Advanced Conditional",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/advanced-conditional"
+  }
+}

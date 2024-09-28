@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Types/string/snowflake",
+  "title": "Snowflake",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/string/snowflake.md",
+  "sourceDirName": "inventor-reference/Types/string",
+  "slug": "/inventor-reference/Types/string/snowflake",
+  "permalink": "/docs/inventor-reference/Types/string/snowflake",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/string/snowflake.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mention",
+    "permalink": "/docs/inventor-reference/Types/string/mention"
+  },
+  "next": {
+    "title": "UUID",
+    "permalink": "/docs/inventor-reference/Types/string/uuid"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/ifttt-trigger",
+  "title": "IFTTT Trigger",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/ifttt-trigger.md",
+  "sourceDirName": "inventor-reference/blocks",
+  "slug": "/inventor-reference/blocks/ifttt-trigger",
+  "permalink": "/docs/inventor-reference/blocks/ifttt-trigger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/ifttt-trigger.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Increment or Decrement Global Variable",
+    "permalink": "/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable"
+  },
+  "next": {
+    "title": "Add Option to Autocomplete Response Builder",
+    "permalink": "/docs/inventor-reference/blocks/interactions/add-option-to-autocomplete-response-builder"
+  }
+}

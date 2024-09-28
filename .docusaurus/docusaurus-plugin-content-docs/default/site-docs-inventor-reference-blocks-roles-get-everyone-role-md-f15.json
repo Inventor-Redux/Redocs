@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/roles/get-@everyone-role",
+  "title": "Get @everyone Role",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/roles/get-@everyone-role.md",
+  "sourceDirName": "inventor-reference/blocks/roles",
+  "slug": "/inventor-reference/blocks/roles/get-@everyone-role",
+  "permalink": "/docs/inventor-reference/blocks/roles/get-@everyone-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/roles/get-@everyone-role.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Role",
+    "permalink": "/docs/inventor-reference/blocks/roles/delete-role"
+  },
+  "next": {
+    "title": "Get Role",
+    "permalink": "/docs/inventor-reference/blocks/roles/get-role"
+  }
+}

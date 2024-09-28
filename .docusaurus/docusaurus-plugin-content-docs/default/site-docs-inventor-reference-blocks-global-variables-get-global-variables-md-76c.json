@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/global-variables/get-global-variables",
+  "title": "Get Global Variables",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/global-variables/get-global-variables.md",
+  "sourceDirName": "inventor-reference/Blocks/global-variables",
+  "slug": "/inventor-reference/Blocks/global-variables/get-global-variables",
+  "permalink": "/docs/inventor-reference/Blocks/global-variables/get-global-variables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/global-variables/get-global-variables.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Global Variable",
+    "permalink": "/docs/inventor-reference/Blocks/global-variables/get-global-variable"
+  },
+  "next": {
+    "title": "Global Variable Search",
+    "permalink": "/docs/inventor-reference/Blocks/global-variables/global-variable-search"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/channels/move-member-to-voice-channel",
+  "title": "Move Member to Voice Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/channels/move-member-to-voice-channel.md",
+  "sourceDirName": "inventor-reference/Blocks/channels",
+  "slug": "/inventor-reference/Blocks/channels/move-member-to-voice-channel",
+  "permalink": "/docs/inventor-reference/Blocks/channels/move-member-to-voice-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/channels/move-member-to-voice-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Move Channel",
+    "permalink": "/docs/inventor-reference/Blocks/channels/move-channel"
+  },
+  "next": {
+    "title": "Trigger Typing Indicator",
+    "permalink": "/docs/inventor-reference/Blocks/channels/trigger-typing-indicator"
+  }
+}

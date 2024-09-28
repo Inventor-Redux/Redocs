@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/channels/edit-channel-permissions",
+  "title": "Edit Channel Permissions",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/channels/edit-channel-permissions.md",
+  "sourceDirName": "inventor-reference/Blocks/channels",
+  "slug": "/inventor-reference/Blocks/channels/edit-channel-permissions",
+  "permalink": "/docs/inventor-reference/Blocks/channels/edit-channel-permissions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/channels/edit-channel-permissions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Channel",
+    "permalink": "/docs/inventor-reference/Blocks/channels/delete-channel"
+  },
+  "next": {
+    "title": "Get Channel",
+    "permalink": "/docs/inventor-reference/Blocks/channels/get-channel"
+  }
+}

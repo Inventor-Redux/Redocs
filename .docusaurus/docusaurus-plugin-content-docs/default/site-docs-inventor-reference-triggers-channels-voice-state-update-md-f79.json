@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/channels/voice-state-update",
+  "title": "Voice State Update",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/channels/voice-state-update.md",
+  "sourceDirName": "inventor-reference/Triggers/channels",
+  "slug": "/inventor-reference/Triggers/channels/voice-state-update",
+  "permalink": "/docs/inventor-reference/Triggers/channels/voice-state-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/channels/voice-state-update.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Typing Start",
+    "permalink": "/docs/inventor-reference/Triggers/channels/typing-start"
+  },
+  "next": {
+    "title": "IFTTT",
+    "permalink": "/docs/inventor-reference/Triggers/external-services/ifttt"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/base64-encode",
+  "title": "Base64 Encode",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/base64-encode.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/base64-encode",
+  "permalink": "/docs/inventor-reference/blocks/strings/base64-encode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/base64-encode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Base64 Decode",
+    "permalink": "/docs/inventor-reference/blocks/strings/base64-decode"
+  },
+  "next": {
+    "title": "Bcrypt Compare Hash",
+    "permalink": "/docs/inventor-reference/blocks/strings/bcrypt-compare-hash"
+  }
+}

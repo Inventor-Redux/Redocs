@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/send-or-edit-embed-message",
+  "title": "Send or Edit Embed Message",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/send-or-edit-embed-message",
+  "permalink": "/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Publish Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/publish-message"
+  },
+  "next": {
+    "title": "Send or Edit Text Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/send-or-edit-text-message"
+  }
+}

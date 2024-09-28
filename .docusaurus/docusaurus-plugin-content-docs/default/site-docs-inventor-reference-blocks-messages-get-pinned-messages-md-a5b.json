@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/messages/get-pinned-messages",
+  "title": "Get Pinned Messages",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/messages/get-pinned-messages.md",
+  "sourceDirName": "inventor-reference/blocks/messages",
+  "slug": "/inventor-reference/blocks/messages/get-pinned-messages",
+  "permalink": "/docs/inventor-reference/blocks/messages/get-pinned-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/messages/get-pinned-messages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Messages",
+    "permalink": "/docs/inventor-reference/blocks/messages/get-messages"
+  },
+  "next": {
+    "title": "Pin Message",
+    "permalink": "/docs/inventor-reference/blocks/messages/pin-message"
+  }
+}

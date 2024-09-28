@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/messages/embed-button-builder",
+  "title": "Embed Button Builder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/messages/embed-button-builder.md",
+  "sourceDirName": "inventor-reference/blocks/messages",
+  "slug": "/inventor-reference/blocks/messages/embed-button-builder",
+  "permalink": "/docs/inventor-reference/blocks/messages/embed-button-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/messages/embed-button-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Message",
+    "permalink": "/docs/inventor-reference/blocks/messages/delete-message"
+  },
+  "next": {
+    "title": "Embed Dropdown Builder",
+    "permalink": "/docs/inventor-reference/blocks/messages/embed-dropdown-builder"
+  }
+}

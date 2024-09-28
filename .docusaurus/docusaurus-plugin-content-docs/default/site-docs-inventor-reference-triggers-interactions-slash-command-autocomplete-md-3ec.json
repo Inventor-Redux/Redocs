@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/interactions/slash-command-autocomplete",
+  "title": "Slash Command Autocomplete",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete.md",
+  "sourceDirName": "inventor-reference/Triggers/interactions",
+  "slug": "/inventor-reference/Triggers/interactions/slash-command-autocomplete",
+  "permalink": "/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modal Submit",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/modal-submit"
+  },
+  "next": {
+    "title": "Slash Command",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/slash-command"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/users/get-server-member",
+  "title": "Get Server Member",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/users/get-server-member.md",
+  "sourceDirName": "inventor-reference/Blocks/users",
+  "slug": "/inventor-reference/Blocks/users/get-server-member",
+  "permalink": "/docs/inventor-reference/Blocks/users/get-server-member",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/users/get-server-member.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Highest Role Position of Member",
+    "permalink": "/docs/inventor-reference/Blocks/users/get-highest-role-position-of-member"
+  },
+  "next": {
+    "title": "Get User",
+    "permalink": "/docs/inventor-reference/Blocks/users/get-user"
+  }
+}

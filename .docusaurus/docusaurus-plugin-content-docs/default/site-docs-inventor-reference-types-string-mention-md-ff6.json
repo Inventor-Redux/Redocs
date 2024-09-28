@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Types/string/mention",
+  "title": "Mention",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/string/mention.md",
+  "sourceDirName": "inventor-reference/Types/string",
+  "slug": "/inventor-reference/Types/string/mention",
+  "permalink": "/docs/inventor-reference/Types/string/mention",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/string/mention.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List",
+    "permalink": "/docs/inventor-reference/Types/string/list"
+  },
+  "next": {
+    "title": "Snowflake",
+    "permalink": "/docs/inventor-reference/Types/string/snowflake"
+  }
+}

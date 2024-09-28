@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/servers/get-server-bans",
+  "title": "Get Server Bans",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/servers/get-server-bans.md",
+  "sourceDirName": "inventor-reference/Blocks/servers",
+  "slug": "/inventor-reference/Blocks/servers/get-server-bans",
+  "permalink": "/docs/inventor-reference/Blocks/servers/get-server-bans",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/servers/get-server-bans.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modify Scheduled Event",
+    "permalink": "/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event"
+  },
+  "next": {
+    "title": "Get Server Count",
+    "permalink": "/docs/inventor-reference/Blocks/servers/get-server-count"
+  }
+}

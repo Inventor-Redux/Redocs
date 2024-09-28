@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/base64-decode",
+  "title": "Base64 Decode",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/base64-decode.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/base64-decode",
+  "permalink": "/docs/inventor-reference/Blocks/strings/base64-decode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/base64-decode.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Server",
+    "permalink": "/docs/inventor-reference/Blocks/servers/update-server"
+  },
+  "next": {
+    "title": "Base64 Encode",
+    "permalink": "/docs/inventor-reference/Blocks/strings/base64-encode"
+  }
+}

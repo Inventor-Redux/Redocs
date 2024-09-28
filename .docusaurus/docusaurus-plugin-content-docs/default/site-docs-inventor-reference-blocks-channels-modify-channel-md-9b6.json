@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/channels/modify-channel",
+  "title": "Modify Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/channels/modify-channel.md",
+  "sourceDirName": "inventor-reference/Blocks/channels",
+  "slug": "/inventor-reference/Blocks/channels/modify-channel",
+  "permalink": "/docs/inventor-reference/Blocks/channels/modify-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/channels/modify-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Channels",
+    "permalink": "/docs/inventor-reference/Blocks/channels/get-channels"
+  },
+  "next": {
+    "title": "Move Channel",
+    "permalink": "/docs/inventor-reference/Blocks/channels/move-channel"
+  }
+}

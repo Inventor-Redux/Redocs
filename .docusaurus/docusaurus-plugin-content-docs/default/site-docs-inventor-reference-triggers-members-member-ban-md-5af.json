@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/members/member-ban",
+  "title": "Member Ban",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/members/member-ban.md",
+  "sourceDirName": "inventor-reference/Triggers/members",
+  "slug": "/inventor-reference/Triggers/members/member-ban",
+  "permalink": "/docs/inventor-reference/Triggers/members/member-ban",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/members/member-ban.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Invite Deleted",
+    "permalink": "/docs/inventor-reference/Triggers/invites/invite-deleted"
+  },
+  "next": {
+    "title": "Member Join",
+    "permalink": "/docs/inventor-reference/Triggers/members/member-join"
+  }
+}

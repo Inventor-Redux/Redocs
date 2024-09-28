@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/users/get-highest-role-position-of-member",
+  "title": "Get Highest Role Position of Member",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/users/get-highest-role-position-of-member.md",
+  "sourceDirName": "inventor-reference/blocks/users",
+  "slug": "/inventor-reference/blocks/users/get-highest-role-position-of-member",
+  "permalink": "/docs/inventor-reference/blocks/users/get-highest-role-position-of-member",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/users/get-highest-role-position-of-member.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create DM Channel",
+    "permalink": "/docs/inventor-reference/blocks/users/create-dm-channel"
+  },
+  "next": {
+    "title": "Get Server Member",
+    "permalink": "/docs/inventor-reference/blocks/users/get-server-member"
+  }
+}

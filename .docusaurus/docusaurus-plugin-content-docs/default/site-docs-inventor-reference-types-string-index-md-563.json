@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/types/string/index",
+  "title": "String",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/types/string/index.md",
+  "sourceDirName": "inventor-reference/types/string",
+  "slug": "/inventor-reference/types/string/",
+  "permalink": "/docs/inventor-reference/types/string/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/types/string/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UNIX",
+    "permalink": "/docs/inventor-reference/types/number/unix"
+  },
+  "next": {
+    "title": "Boolean",
+    "permalink": "/docs/inventor-reference/types/string/boolean"
+  }
+}

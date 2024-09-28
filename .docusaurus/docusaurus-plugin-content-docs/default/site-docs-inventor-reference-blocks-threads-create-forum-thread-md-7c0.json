@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/threads/create-forum-thread",
+  "title": "Create Forum Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/threads/create-forum-thread.md",
+  "sourceDirName": "inventor-reference/Blocks/threads",
+  "slug": "/inventor-reference/Blocks/threads/create-forum-thread",
+  "permalink": "/docs/inventor-reference/Blocks/threads/create-forum-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/threads/create-forum-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Archive Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/archive-thread"
+  },
+  "next": {
+    "title": "Get Forum Thread Tags",
+    "permalink": "/docs/inventor-reference/Blocks/threads/get-forum-thread-tags"
+  }
+}

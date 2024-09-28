@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/interactions/dropdown-select",
+  "title": "Dropdown Select",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/interactions/dropdown-select.md",
+  "sourceDirName": "inventor-reference/Triggers/interactions",
+  "slug": "/inventor-reference/Triggers/interactions/dropdown-select",
+  "permalink": "/docs/inventor-reference/Triggers/interactions/dropdown-select",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/interactions/dropdown-select.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Context Menu",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/context-menu"
+  },
+  "next": {
+    "title": "Modal Submit",
+    "permalink": "/docs/inventor-reference/Triggers/interactions/modal-submit"
+  }
+}

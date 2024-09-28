@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/scheduled-events/create-scheduled-event",
+  "title": "Create Scheduled Event",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/scheduled-events/create-scheduled-event.md",
+  "sourceDirName": "inventor-reference/blocks/scheduled-events",
+  "slug": "/inventor-reference/blocks/scheduled-events/create-scheduled-event",
+  "permalink": "/docs/inventor-reference/blocks/scheduled-events/create-scheduled-event",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/scheduled-events/create-scheduled-event.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Role",
+    "permalink": "/docs/inventor-reference/blocks/roles/update-role"
+  },
+  "next": {
+    "title": "Delete Scheduled Event",
+    "permalink": "/docs/inventor-reference/blocks/scheduled-events/delete-scheduled-event"
+  }
+}

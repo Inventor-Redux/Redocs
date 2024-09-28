@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/types/string/boolean",
+  "title": "Boolean",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/types/string/boolean.md",
+  "sourceDirName": "inventor-reference/types/string",
+  "slug": "/inventor-reference/types/string/boolean",
+  "permalink": "/docs/inventor-reference/types/string/boolean",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/types/string/boolean.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String",
+    "permalink": "/docs/inventor-reference/types/string/"
+  },
+  "next": {
+    "title": "JSON",
+    "permalink": "/docs/inventor-reference/types/string/json"
+  }
+}

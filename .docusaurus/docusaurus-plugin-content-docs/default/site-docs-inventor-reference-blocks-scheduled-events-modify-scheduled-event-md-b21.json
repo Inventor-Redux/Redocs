@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/scheduled-events/modify-scheduled-event",
+  "title": "Modify Scheduled Event",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event.md",
+  "sourceDirName": "inventor-reference/Blocks/scheduled-events",
+  "slug": "/inventor-reference/Blocks/scheduled-events/modify-scheduled-event",
+  "permalink": "/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Scheduled Events",
+    "permalink": "/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-events"
+  },
+  "next": {
+    "title": "Get Server Bans",
+    "permalink": "/docs/inventor-reference/Blocks/servers/get-server-bans"
+  }
+}

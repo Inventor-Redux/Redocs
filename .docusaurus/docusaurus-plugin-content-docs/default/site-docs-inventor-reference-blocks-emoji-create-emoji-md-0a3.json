@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/emoji/create-emoji",
+  "title": "Create Emoji",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/emoji/create-emoji.md",
+  "sourceDirName": "inventor-reference/blocks/emoji",
+  "slug": "/inventor-reference/blocks/emoji/create-emoji",
+  "permalink": "/docs/inventor-reference/blocks/emoji/create-emoji",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/emoji/create-emoji.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/update-row"
+  },
+  "next": {
+    "title": "Delete Emoji",
+    "permalink": "/docs/inventor-reference/blocks/emoji/delete-emoji"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/global-variables/create-or-update-global-variable",
+  "title": "Create or Update Global Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable.md",
+  "sourceDirName": "inventor-reference/Blocks/global-variables",
+  "slug": "/inventor-reference/Blocks/global-variables/create-or-update-global-variable",
+  "permalink": "/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sleep",
+    "permalink": "/docs/inventor-reference/Blocks/flow-control/sleep"
+  },
+  "next": {
+    "title": "Delete Global Variable",
+    "permalink": "/docs/inventor-reference/Blocks/global-variables/delete-global-variable"
+  }
+}

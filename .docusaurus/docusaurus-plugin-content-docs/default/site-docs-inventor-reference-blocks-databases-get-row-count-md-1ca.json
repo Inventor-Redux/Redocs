@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/get-row-count",
+  "title": "Get Row Count",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/get-row-count.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/get-row-count",
+  "permalink": "/docs/inventor-reference/blocks/databases/get-row-count",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/get-row-count.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Row by Values",
+    "permalink": "/docs/inventor-reference/blocks/databases/get-row-by-values"
+  },
+  "next": {
+    "title": "Get Rows by Values",
+    "permalink": "/docs/inventor-reference/blocks/databases/get-rows-by-values"
+  }
+}

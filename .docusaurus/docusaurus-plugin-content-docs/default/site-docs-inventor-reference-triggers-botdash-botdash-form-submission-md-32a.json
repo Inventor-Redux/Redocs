@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/botdash/botdash-form-submission",
+  "title": "BotDash Form Submission",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/botdash/botdash-form-submission.md",
+  "sourceDirName": "inventor-reference/triggers/botdash",
+  "slug": "/inventor-reference/triggers/botdash/botdash-form-submission",
+  "permalink": "/docs/inventor-reference/triggers/botdash/botdash-form-submission",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/botdash/botdash-form-submission.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BotDash Dashboard Data",
+    "permalink": "/docs/inventor-reference/triggers/botdash/botdash-dashboard-data"
+  },
+  "next": {
+    "title": "Channel Created",
+    "permalink": "/docs/inventor-reference/triggers/channels/channel-created"
+  }
+}

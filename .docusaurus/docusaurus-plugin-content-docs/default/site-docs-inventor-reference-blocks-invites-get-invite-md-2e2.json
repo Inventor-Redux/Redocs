@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/invites/get-invite",
+  "title": "Get Invite",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/invites/get-invite.md",
+  "sourceDirName": "inventor-reference/Blocks/invites",
+  "slug": "/inventor-reference/Blocks/invites/get-invite",
+  "permalink": "/docs/inventor-reference/Blocks/invites/get-invite",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/invites/get-invite.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Invite",
+    "permalink": "/docs/inventor-reference/Blocks/invites/delete-invite"
+  },
+  "next": {
+    "title": "Get Invites",
+    "permalink": "/docs/inventor-reference/Blocks/invites/get-invites"
+  }
+}

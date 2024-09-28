@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/get-messages",
+  "title": "Get Messages",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/get-messages.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/get-messages",
+  "permalink": "/docs/inventor-reference/Blocks/messages/get-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/get-messages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/get-message"
+  },
+  "next": {
+    "title": "Get Pinned Messages",
+    "permalink": "/docs/inventor-reference/Blocks/messages/get-pinned-messages"
+  }
+}

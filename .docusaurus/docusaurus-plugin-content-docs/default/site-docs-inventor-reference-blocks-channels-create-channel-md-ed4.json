@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/channels/create-channel",
+  "title": "Create Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/channels/create-channel.md",
+  "sourceDirName": "inventor-reference/Blocks/channels",
+  "slug": "/inventor-reference/Blocks/channels/create-channel",
+  "permalink": "/docs/inventor-reference/Blocks/channels/create-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/channels/create-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inventor Reference",
+    "permalink": "/docs/inventor-reference/"
+  },
+  "next": {
+    "title": "Delete Channel Permission",
+    "permalink": "/docs/inventor-reference/Blocks/channels/delete-channel-permission"
+  }
+}

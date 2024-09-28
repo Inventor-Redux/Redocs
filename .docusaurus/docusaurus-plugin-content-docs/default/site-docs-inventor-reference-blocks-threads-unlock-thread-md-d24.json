@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/threads/unlock-thread",
+  "title": "Unlock Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/threads/unlock-thread.md",
+  "sourceDirName": "inventor-reference/Blocks/threads",
+  "slug": "/inventor-reference/Blocks/threads/unlock-thread",
+  "permalink": "/docs/inventor-reference/Blocks/threads/unlock-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/threads/unlock-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unarchive Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/unarchive-thread"
+  },
+  "next": {
+    "title": "Unpin Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/unpin-thread"
+  }
+}

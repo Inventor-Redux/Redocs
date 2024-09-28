@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Formatting/mention",
+  "title": "Mention",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Formatting/mention.md",
+  "sourceDirName": "inventor-reference/Formatting",
+  "slug": "/inventor-reference/Formatting/mention",
+  "permalink": "/docs/inventor-reference/Formatting/mention",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Formatting/mention.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Formatting",
+    "permalink": "/docs/inventor-reference/Formatting/"
+  },
+  "next": {
+    "title": "BotDash Dashboard Data",
+    "permalink": "/docs/inventor-reference/Triggers/botdash/botdash-dashboard-data"
+  }
+}

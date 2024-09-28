@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/members/member-leave",
+  "title": "Member Leave",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/members/member-leave.md",
+  "sourceDirName": "inventor-reference/Triggers/members",
+  "slug": "/inventor-reference/Triggers/members/member-leave",
+  "permalink": "/docs/inventor-reference/Triggers/members/member-leave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/members/member-leave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Member Join",
+    "permalink": "/docs/inventor-reference/Triggers/members/member-join"
+  },
+  "next": {
+    "title": "Member Unban",
+    "permalink": "/docs/inventor-reference/Triggers/members/member-unban"
+  }
+}

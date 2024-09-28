@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/emoji/create-emoji",
+  "title": "Create Emoji",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/emoji/create-emoji.md",
+  "sourceDirName": "inventor-reference/Blocks/emoji",
+  "slug": "/inventor-reference/Blocks/emoji/create-emoji",
+  "permalink": "/docs/inventor-reference/Blocks/emoji/create-emoji",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/emoji/create-emoji.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Row",
+    "permalink": "/docs/inventor-reference/Blocks/databases/update-row"
+  },
+  "next": {
+    "title": "Delete Emoji",
+    "permalink": "/docs/inventor-reference/Blocks/emoji/delete-emoji"
+  }
+}

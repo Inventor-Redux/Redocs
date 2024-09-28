@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/threads/join-thread",
+  "title": "Join Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/threads/join-thread.md",
+  "sourceDirName": "inventor-reference/Blocks/threads",
+  "slug": "/inventor-reference/Blocks/threads/join-thread",
+  "permalink": "/docs/inventor-reference/Blocks/threads/join-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/threads/join-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Forum Thread Tags",
+    "permalink": "/docs/inventor-reference/Blocks/threads/get-forum-thread-tags"
+  },
+  "next": {
+    "title": "Leave Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/leave-thread"
+  }
+}

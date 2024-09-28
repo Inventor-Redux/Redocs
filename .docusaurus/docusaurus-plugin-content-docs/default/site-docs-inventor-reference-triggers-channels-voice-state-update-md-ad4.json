@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/channels/voice-state-update",
+  "title": "Voice State Update",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/channels/voice-state-update.md",
+  "sourceDirName": "inventor-reference/triggers/channels",
+  "slug": "/inventor-reference/triggers/channels/voice-state-update",
+  "permalink": "/docs/inventor-reference/triggers/channels/voice-state-update",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/channels/voice-state-update.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Typing Start",
+    "permalink": "/docs/inventor-reference/triggers/channels/typing-start"
+  },
+  "next": {
+    "title": "IFTTT",
+    "permalink": "/docs/inventor-reference/triggers/external-services/ifttt"
+  }
+}

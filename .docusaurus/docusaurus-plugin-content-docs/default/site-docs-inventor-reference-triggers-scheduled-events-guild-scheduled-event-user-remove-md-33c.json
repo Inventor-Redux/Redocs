@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove",
+  "title": "Guild Scheduled Event User Remove",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove.md",
+  "sourceDirName": "inventor-reference/Triggers/scheduled-events",
+  "slug": "/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove",
+  "permalink": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guild Scheduled Event User Add",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-add"
+  },
+  "next": {
+    "title": "Every 15 Minutes",
+    "permalink": "/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes"
+  }
+}

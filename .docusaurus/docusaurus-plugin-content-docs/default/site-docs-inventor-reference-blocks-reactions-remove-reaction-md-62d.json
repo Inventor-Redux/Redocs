@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/reactions/remove-reaction",
+  "title": "Remove Reaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/reactions/remove-reaction.md",
+  "sourceDirName": "inventor-reference/Blocks/reactions",
+  "slug": "/inventor-reference/Blocks/reactions/remove-reaction",
+  "permalink": "/docs/inventor-reference/Blocks/reactions/remove-reaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/reactions/remove-reaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remove All Reactions",
+    "permalink": "/docs/inventor-reference/Blocks/reactions/remove-all-reactions"
+  },
+  "next": {
+    "title": "Remove User Reaction",
+    "permalink": "/docs/inventor-reference/Blocks/reactions/remove-user-reaction"
+  }
+}

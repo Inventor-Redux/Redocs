@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/global-variables/get-global-variable",
+  "title": "Get Global Variable",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/global-variables/get-global-variable.md",
+  "sourceDirName": "inventor-reference/blocks/global-variables",
+  "slug": "/inventor-reference/blocks/global-variables/get-global-variable",
+  "permalink": "/docs/inventor-reference/blocks/global-variables/get-global-variable",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/global-variables/get-global-variable.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Global Variable",
+    "permalink": "/docs/inventor-reference/blocks/global-variables/delete-global-variable"
+  },
+  "next": {
+    "title": "Get Global Variables",
+    "permalink": "/docs/inventor-reference/blocks/global-variables/get-global-variables"
+  }
+}

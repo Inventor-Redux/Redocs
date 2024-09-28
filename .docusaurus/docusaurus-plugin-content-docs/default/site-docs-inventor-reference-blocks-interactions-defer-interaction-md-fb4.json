@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/interactions/defer-interaction",
+  "title": "Defer Interaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/interactions/defer-interaction.md",
+  "sourceDirName": "inventor-reference/Blocks/interactions",
+  "slug": "/inventor-reference/Blocks/interactions/defer-interaction",
+  "permalink": "/docs/inventor-reference/Blocks/interactions/defer-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/interactions/defer-interaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defer Component Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/defer-component-interaction"
+  },
+  "next": {
+    "title": "Embed Reply to Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction"
+  }
+}

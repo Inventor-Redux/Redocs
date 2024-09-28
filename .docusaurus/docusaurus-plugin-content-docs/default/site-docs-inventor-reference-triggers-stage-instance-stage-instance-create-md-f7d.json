@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/stage-instance/stage-instance-create",
+  "title": "Stage Instance Create",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/stage-instance/stage-instance-create.md",
+  "sourceDirName": "inventor-reference/triggers/stage-instance",
+  "slug": "/inventor-reference/triggers/stage-instance/stage-instance-create",
+  "permalink": "/docs/inventor-reference/triggers/stage-instance/stage-instance-create",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/stage-instance/stage-instance-create.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webhook Update",
+    "permalink": "/docs/inventor-reference/triggers/servers/webhook-update"
+  },
+  "next": {
+    "title": "Stage Instance Delete",
+    "permalink": "/docs/inventor-reference/triggers/stage-instance/stage-instance-delete"
+  }
+}

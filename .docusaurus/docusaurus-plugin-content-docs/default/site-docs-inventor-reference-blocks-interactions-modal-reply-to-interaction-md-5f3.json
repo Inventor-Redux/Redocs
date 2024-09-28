@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/interactions/modal-reply-to-interaction",
+  "title": "Modal Reply to Interaction",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction.md",
+  "sourceDirName": "inventor-reference/Blocks/interactions",
+  "slug": "/inventor-reference/Blocks/interactions/modal-reply-to-interaction",
+  "permalink": "/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Interaction Message Data",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/get-interaction-message-data"
+  },
+  "next": {
+    "title": "Text Reply to Interaction",
+    "permalink": "/docs/inventor-reference/Blocks/interactions/text-reply-to-interaction"
+  }
+}

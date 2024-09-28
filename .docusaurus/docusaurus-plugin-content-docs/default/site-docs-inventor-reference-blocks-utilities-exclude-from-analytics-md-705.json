@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/exclude-from-analytics",
+  "title": "Exclude From Analytics",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/exclude-from-analytics.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/exclude-from-analytics",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/exclude-from-analytics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/exclude-from-analytics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discord API Ping",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/discord-api-ping"
+  },
+  "next": {
+    "title": "Generate UUIDv4",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/generate-uuidv4"
+  }
+}

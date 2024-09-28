@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/threads/pin-thread",
+  "title": "Pin Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/threads/pin-thread.md",
+  "sourceDirName": "inventor-reference/Blocks/threads",
+  "slug": "/inventor-reference/Blocks/threads/pin-thread",
+  "permalink": "/docs/inventor-reference/Blocks/threads/pin-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/threads/pin-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lock Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/lock-thread"
+  },
+  "next": {
+    "title": "Remove Thread Member",
+    "permalink": "/docs/inventor-reference/Blocks/threads/remove-thread-member"
+  }
+}

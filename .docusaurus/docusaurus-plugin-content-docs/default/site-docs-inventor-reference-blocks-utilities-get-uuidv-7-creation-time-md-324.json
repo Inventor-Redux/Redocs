@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/utilities/get-uuidv7-creation-time",
+  "title": "Get UUIDv7 Creation Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time.md",
+  "sourceDirName": "inventor-reference/blocks/utilities",
+  "slug": "/inventor-reference/blocks/utilities/get-uuidv7-creation-time",
+  "permalink": "/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Token",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-token"
+  },
+  "next": {
+    "title": "Hex to Int",
+    "permalink": "/docs/inventor-reference/blocks/utilities/hex-to-int"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "inventor-reference/Types/string/uuid",
+  "title": "UUID",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/string/uuid.md",
+  "sourceDirName": "inventor-reference/Types/string",
+  "slug": "/inventor-reference/Types/string/uuid",
+  "permalink": "/docs/inventor-reference/Types/string/uuid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/string/uuid.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Snowflake",
+    "permalink": "/docs/inventor-reference/Types/string/snowflake"
+  }
+}

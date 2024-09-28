@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/bulk-purge-messages",
+  "title": "Bulk Purge Messages",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/bulk-purge-messages.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/bulk-purge-messages",
+  "permalink": "/docs/inventor-reference/Blocks/messages/bulk-purge-messages",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/bulk-purge-messages.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Option to Dropdown Builder",
+    "permalink": "/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder"
+  },
+  "next": {
+    "title": "Delete Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/delete-message"
+  }
+}

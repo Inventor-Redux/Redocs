@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-replace",
+  "title": "String Replace",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-replace.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-replace",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-replace",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-replace.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String Length",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-length"
+  },
+  "next": {
+    "title": "String Split List",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-split-list"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/strings/truncate-string",
+  "title": "Truncate String",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/strings/truncate-string.md",
+  "sourceDirName": "inventor-reference/blocks/strings",
+  "slug": "/inventor-reference/blocks/strings/truncate-string",
+  "permalink": "/docs/inventor-reference/blocks/strings/truncate-string",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/strings/truncate-string.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Truncate Split String List",
+    "permalink": "/docs/inventor-reference/blocks/strings/truncate-split-string-list"
+  },
+  "next": {
+    "title": "URL Query Escape",
+    "permalink": "/docs/inventor-reference/blocks/strings/url-query-escape"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/roles/role-created",
+  "title": "Role Created",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/roles/role-created.md",
+  "sourceDirName": "inventor-reference/triggers/roles",
+  "slug": "/inventor-reference/triggers/roles/role-created",
+  "permalink": "/docs/inventor-reference/triggers/roles/role-created",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/roles/role-created.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reaction Remove",
+    "permalink": "/docs/inventor-reference/triggers/reactions/reaction-remove"
+  },
+  "next": {
+    "title": "Role Delete",
+    "permalink": "/docs/inventor-reference/triggers/roles/role-delete"
+  }
+}

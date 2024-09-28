@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Types/number/unix",
+  "title": "UNIX",
+  "description": "Summary",
+  "source": "@site/docs/inventor-reference/Types/number/unix.md",
+  "sourceDirName": "inventor-reference/Types/number",
+  "slug": "/inventor-reference/Types/number/unix",
+  "permalink": "/docs/inventor-reference/Types/number/unix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Types/number/unix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Float",
+    "permalink": "/docs/inventor-reference/Types/number/float"
+  },
+  "next": {
+    "title": "String",
+    "permalink": "/docs/inventor-reference/Types/string/"
+  }
+}

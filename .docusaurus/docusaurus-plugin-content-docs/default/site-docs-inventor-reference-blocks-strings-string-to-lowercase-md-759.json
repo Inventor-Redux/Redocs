@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-to-lowercase",
+  "title": "String to Lowercase",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-to-lowercase.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-to-lowercase",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-to-lowercase",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-to-lowercase.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String Split List",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-split-list"
+  },
+  "next": {
+    "title": "String to Uppercase",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-to-uppercase"
+  }
+}

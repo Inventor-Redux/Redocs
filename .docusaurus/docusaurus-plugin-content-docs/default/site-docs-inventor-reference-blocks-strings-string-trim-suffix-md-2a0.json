@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-trim-suffix",
+  "title": "String Trim Suffix",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-trim-suffix.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-trim-suffix",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-trim-suffix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-trim-suffix.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String Trim Prefix",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-trim-prefix"
+  },
+  "next": {
+    "title": "Truncate Split String Iterator",
+    "permalink": "/docs/inventor-reference/Blocks/strings/truncate-split-string-iterator"
+  }
+}

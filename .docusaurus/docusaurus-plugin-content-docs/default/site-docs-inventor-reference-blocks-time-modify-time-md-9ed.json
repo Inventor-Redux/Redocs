@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/time/modify-time",
+  "title": "Modify Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/time/modify-time.md",
+  "sourceDirName": "inventor-reference/blocks/time",
+  "slug": "/inventor-reference/blocks/time/modify-time",
+  "permalink": "/docs/inventor-reference/blocks/time/modify-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/time/modify-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Specific Time",
+    "permalink": "/docs/inventor-reference/blocks/time/get-specific-time"
+  },
+  "next": {
+    "title": "Parse Date and Time",
+    "permalink": "/docs/inventor-reference/blocks/time/parse-date-and-time"
+  }
+}

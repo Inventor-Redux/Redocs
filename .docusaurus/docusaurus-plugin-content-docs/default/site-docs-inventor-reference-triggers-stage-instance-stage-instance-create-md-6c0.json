@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/stage-instance/stage-instance-create",
+  "title": "Stage Instance Create",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/stage-instance/stage-instance-create.md",
+  "sourceDirName": "inventor-reference/Triggers/stage-instance",
+  "slug": "/inventor-reference/Triggers/stage-instance/stage-instance-create",
+  "permalink": "/docs/inventor-reference/Triggers/stage-instance/stage-instance-create",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/stage-instance/stage-instance-create.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webhook Update",
+    "permalink": "/docs/inventor-reference/Triggers/servers/webhook-update"
+  },
+  "next": {
+    "title": "Stage Instance Delete",
+    "permalink": "/docs/inventor-reference/Triggers/stage-instance/stage-instance-delete"
+  }
+}

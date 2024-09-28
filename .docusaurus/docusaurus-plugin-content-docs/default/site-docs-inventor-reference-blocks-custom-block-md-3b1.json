@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/custom-block",
+  "title": "Custom Block",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/custom-block.md",
+  "sourceDirName": "inventor-reference/blocks",
+  "slug": "/inventor-reference/blocks/custom-block",
+  "permalink": "/docs/inventor-reference/blocks/custom-block",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/custom-block.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trigger Typing Indicator",
+    "permalink": "/docs/inventor-reference/blocks/channels/trigger-typing-indicator"
+  },
+  "next": {
+    "title": "Create Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/create-row"
+  }
+}

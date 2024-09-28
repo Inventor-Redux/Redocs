@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/members/member-leave",
+  "title": "Member Leave",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/members/member-leave.md",
+  "sourceDirName": "inventor-reference/triggers/members",
+  "slug": "/inventor-reference/triggers/members/member-leave",
+  "permalink": "/docs/inventor-reference/triggers/members/member-leave",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/members/member-leave.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Member Join",
+    "permalink": "/docs/inventor-reference/triggers/members/member-join"
+  },
+  "next": {
+    "title": "Member Unban",
+    "permalink": "/docs/inventor-reference/triggers/members/member-unban"
+  }
+}

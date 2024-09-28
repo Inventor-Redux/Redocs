@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/messages/message-delete-bulk",
+  "title": "Message Delete Bulk",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/messages/message-delete-bulk.md",
+  "sourceDirName": "inventor-reference/Triggers/messages",
+  "slug": "/inventor-reference/Triggers/messages/message-delete-bulk",
+  "permalink": "/docs/inventor-reference/Triggers/messages/message-delete-bulk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/messages/message-delete-bulk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Member Update",
+    "permalink": "/docs/inventor-reference/Triggers/members/member-update"
+  },
+  "next": {
+    "title": "Message Deleted",
+    "permalink": "/docs/inventor-reference/Triggers/messages/message-deleted"
+  }
+}

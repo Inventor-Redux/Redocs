@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/channels/modify-channel",
+  "title": "Modify Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/channels/modify-channel.md",
+  "sourceDirName": "inventor-reference/blocks/channels",
+  "slug": "/inventor-reference/blocks/channels/modify-channel",
+  "permalink": "/docs/inventor-reference/blocks/channels/modify-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/channels/modify-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Channels",
+    "permalink": "/docs/inventor-reference/blocks/channels/get-channels"
+  },
+  "next": {
+    "title": "Move Channel",
+    "permalink": "/docs/inventor-reference/blocks/channels/move-channel"
+  }
+}

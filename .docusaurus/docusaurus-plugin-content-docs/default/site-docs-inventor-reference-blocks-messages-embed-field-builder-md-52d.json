@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/embed-field-builder",
+  "title": "Embed Field Builder",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/embed-field-builder.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/embed-field-builder",
+  "permalink": "/docs/inventor-reference/Blocks/messages/embed-field-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/embed-field-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Embed Dropdown Builder",
+    "permalink": "/docs/inventor-reference/Blocks/messages/embed-dropdown-builder"
+  },
+  "next": {
+    "title": "Get Message",
+    "permalink": "/docs/inventor-reference/Blocks/messages/get-message"
+  }
+}

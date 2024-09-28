@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/roles/role-delete",
+  "title": "Role Delete",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/roles/role-delete.md",
+  "sourceDirName": "inventor-reference/Triggers/roles",
+  "slug": "/inventor-reference/Triggers/roles/role-delete",
+  "permalink": "/docs/inventor-reference/Triggers/roles/role-delete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/roles/role-delete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Role Created",
+    "permalink": "/docs/inventor-reference/Triggers/roles/role-created"
+  },
+  "next": {
+    "title": "Role Update",
+    "permalink": "/docs/inventor-reference/Triggers/roles/role-update"
+  }
+}

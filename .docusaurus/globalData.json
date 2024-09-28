@@ -1,0 +1,1453 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "inventor-reference/index",
+          "docs": [
+            {
+              "id": "inventor-reference/Blocks/channels/create-channel",
+              "path": "/docs/inventor-reference/Blocks/channels/create-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/delete-channel",
+              "path": "/docs/inventor-reference/Blocks/channels/delete-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/delete-channel-permission",
+              "path": "/docs/inventor-reference/Blocks/channels/delete-channel-permission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/edit-channel-permissions",
+              "path": "/docs/inventor-reference/Blocks/channels/edit-channel-permissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/get-channel",
+              "path": "/docs/inventor-reference/Blocks/channels/get-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/get-channels",
+              "path": "/docs/inventor-reference/Blocks/channels/get-channels",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/modify-channel",
+              "path": "/docs/inventor-reference/Blocks/channels/modify-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/move-channel",
+              "path": "/docs/inventor-reference/Blocks/channels/move-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/move-member-to-voice-channel",
+              "path": "/docs/inventor-reference/Blocks/channels/move-member-to-voice-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/channels/trigger-typing-indicator",
+              "path": "/docs/inventor-reference/Blocks/channels/trigger-typing-indicator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/custom-block",
+              "path": "/docs/inventor-reference/Blocks/custom-block",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/create-row",
+              "path": "/docs/inventor-reference/Blocks/databases/create-row",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/delete-row",
+              "path": "/docs/inventor-reference/Blocks/databases/delete-row",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/delete-rows-by-value",
+              "path": "/docs/inventor-reference/Blocks/databases/delete-rows-by-value",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-random-row",
+              "path": "/docs/inventor-reference/Blocks/databases/get-random-row",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-random-row-by-value",
+              "path": "/docs/inventor-reference/Blocks/databases/get-random-row-by-value",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-random-rows",
+              "path": "/docs/inventor-reference/Blocks/databases/get-random-rows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-random-rows-by-value",
+              "path": "/docs/inventor-reference/Blocks/databases/get-random-rows-by-value",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-row-by-values",
+              "path": "/docs/inventor-reference/Blocks/databases/get-row-by-values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-row-count",
+              "path": "/docs/inventor-reference/Blocks/databases/get-row-count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-rows",
+              "path": "/docs/inventor-reference/Blocks/databases/get-rows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-rows-by-values",
+              "path": "/docs/inventor-reference/Blocks/databases/get-rows-by-values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/get-rows-sorted-by-column",
+              "path": "/docs/inventor-reference/Blocks/databases/get-rows-sorted-by-column",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/lookup-by-id",
+              "path": "/docs/inventor-reference/Blocks/databases/lookup-by-id",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/lookup-by-value-or-create",
+              "path": "/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/update-by-value-or-create",
+              "path": "/docs/inventor-reference/Blocks/databases/update-by-value-or-create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/databases/update-row",
+              "path": "/docs/inventor-reference/Blocks/databases/update-row",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/emoji/create-emoji",
+              "path": "/docs/inventor-reference/Blocks/emoji/create-emoji",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/emoji/delete-emoji",
+              "path": "/docs/inventor-reference/Blocks/emoji/delete-emoji",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/emoji/get-emoji",
+              "path": "/docs/inventor-reference/Blocks/emoji/get-emoji",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/emoji/get-emojis",
+              "path": "/docs/inventor-reference/Blocks/emoji/get-emojis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/emoji/modify-emoji",
+              "path": "/docs/inventor-reference/Blocks/emoji/modify-emoji",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/advanced-conditional",
+              "path": "/docs/inventor-reference/Blocks/flow-control/advanced-conditional",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/async-folder",
+              "path": "/docs/inventor-reference/Blocks/flow-control/async-folder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/break",
+              "path": "/docs/inventor-reference/Blocks/flow-control/break",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/continue",
+              "path": "/docs/inventor-reference/Blocks/flow-control/continue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/exit-flow",
+              "path": "/docs/inventor-reference/Blocks/flow-control/exit-flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/folder",
+              "path": "/docs/inventor-reference/Blocks/flow-control/folder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/if-statement",
+              "path": "/docs/inventor-reference/Blocks/flow-control/if-statement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/is-user-collaborator",
+              "path": "/docs/inventor-reference/Blocks/flow-control/is-user-collaborator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/flow-control/sleep",
+              "path": "/docs/inventor-reference/Blocks/flow-control/sleep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/global-variables/create-or-update-global-variable",
+              "path": "/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/global-variables/delete-global-variable",
+              "path": "/docs/inventor-reference/Blocks/global-variables/delete-global-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/global-variables/get-global-variable",
+              "path": "/docs/inventor-reference/Blocks/global-variables/get-global-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/global-variables/get-global-variables",
+              "path": "/docs/inventor-reference/Blocks/global-variables/get-global-variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/global-variables/global-variable-search",
+              "path": "/docs/inventor-reference/Blocks/global-variables/global-variable-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/global-variables/increment-or-decrement-global-variable",
+              "path": "/docs/inventor-reference/Blocks/global-variables/increment-or-decrement-global-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/ifttt-trigger",
+              "path": "/docs/inventor-reference/Blocks/ifttt-trigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/add-option-to-autocomplete-response-builder",
+              "path": "/docs/inventor-reference/Blocks/interactions/add-option-to-autocomplete-response-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/autocomplete-response-builder",
+              "path": "/docs/inventor-reference/Blocks/interactions/autocomplete-response-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/autocomplete-response-interaction",
+              "path": "/docs/inventor-reference/Blocks/interactions/autocomplete-response-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/defer-component-interaction",
+              "path": "/docs/inventor-reference/Blocks/interactions/defer-component-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/defer-interaction",
+              "path": "/docs/inventor-reference/Blocks/interactions/defer-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/embed-reply-to-interaction",
+              "path": "/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/get-interaction-message-data",
+              "path": "/docs/inventor-reference/Blocks/interactions/get-interaction-message-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/modal-reply-to-interaction",
+              "path": "/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/interactions/text-reply-to-interaction",
+              "path": "/docs/inventor-reference/Blocks/interactions/text-reply-to-interaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/invites/create-invite",
+              "path": "/docs/inventor-reference/Blocks/invites/create-invite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/invites/delete-invite",
+              "path": "/docs/inventor-reference/Blocks/invites/delete-invite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/invites/get-invite",
+              "path": "/docs/inventor-reference/Blocks/invites/get-invite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/invites/get-invites",
+              "path": "/docs/inventor-reference/Blocks/invites/get-invites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/local-variables/append-new-line-to-local-variable",
+              "path": "/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/local-variables/create-local-variable",
+              "path": "/docs/inventor-reference/Blocks/local-variables/create-local-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/local-variables/increment-or-decrement-local-variable",
+              "path": "/docs/inventor-reference/Blocks/local-variables/increment-or-decrement-local-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/local-variables/update-local-variable",
+              "path": "/docs/inventor-reference/Blocks/local-variables/update-local-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/absolute-value",
+              "path": "/docs/inventor-reference/Blocks/math/absolute-value",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/factorial",
+              "path": "/docs/inventor-reference/Blocks/math/factorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/format-number",
+              "path": "/docs/inventor-reference/Blocks/math/format-number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/if-number-is-close-to-other-number",
+              "path": "/docs/inventor-reference/Blocks/math/if-number-is-close-to-other-number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/logarithm",
+              "path": "/docs/inventor-reference/Blocks/math/logarithm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/math-operations",
+              "path": "/docs/inventor-reference/Blocks/math/math-operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/math-operations-(float)",
+              "path": "/docs/inventor-reference/Blocks/math/math-operations-(float)",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/random-number-generator",
+              "path": "/docs/inventor-reference/Blocks/math/random-number-generator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/rounding-(ceil)",
+              "path": "/docs/inventor-reference/Blocks/math/rounding-(ceil)",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/rounding-(floor)",
+              "path": "/docs/inventor-reference/Blocks/math/rounding-(floor)",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/rounding-(round)",
+              "path": "/docs/inventor-reference/Blocks/math/rounding-(round)",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/square-root",
+              "path": "/docs/inventor-reference/Blocks/math/square-root",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/math/truncate-float",
+              "path": "/docs/inventor-reference/Blocks/math/truncate-float",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/add-button-to-embed-button-builder",
+              "path": "/docs/inventor-reference/Blocks/messages/add-button-to-embed-button-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/add-field-to-embed-field-builder",
+              "path": "/docs/inventor-reference/Blocks/messages/add-field-to-embed-field-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/add-option-to-dropdown-builder",
+              "path": "/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/bulk-purge-messages",
+              "path": "/docs/inventor-reference/Blocks/messages/bulk-purge-messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/delete-message",
+              "path": "/docs/inventor-reference/Blocks/messages/delete-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/embed-button-builder",
+              "path": "/docs/inventor-reference/Blocks/messages/embed-button-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/embed-dropdown-builder",
+              "path": "/docs/inventor-reference/Blocks/messages/embed-dropdown-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/embed-field-builder",
+              "path": "/docs/inventor-reference/Blocks/messages/embed-field-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/get-message",
+              "path": "/docs/inventor-reference/Blocks/messages/get-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/get-messages",
+              "path": "/docs/inventor-reference/Blocks/messages/get-messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/get-pinned-messages",
+              "path": "/docs/inventor-reference/Blocks/messages/get-pinned-messages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/pin-message",
+              "path": "/docs/inventor-reference/Blocks/messages/pin-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/publish-message",
+              "path": "/docs/inventor-reference/Blocks/messages/publish-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/send-or-edit-embed-message",
+              "path": "/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/send-or-edit-text-message",
+              "path": "/docs/inventor-reference/Blocks/messages/send-or-edit-text-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/send-tts-message",
+              "path": "/docs/inventor-reference/Blocks/messages/send-tts-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/messages/unpin-message",
+              "path": "/docs/inventor-reference/Blocks/messages/unpin-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/escape-json-field",
+              "path": "/docs/inventor-reference/Blocks/network/escape-json-field",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/format-json",
+              "path": "/docs/inventor-reference/Blocks/network/format-json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/generate-form-body",
+              "path": "/docs/inventor-reference/Blocks/network/generate-form-body",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/if-number-is-in-range",
+              "path": "/docs/inventor-reference/Blocks/network/if-number-is-in-range",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/if-value-is-number",
+              "path": "/docs/inventor-reference/Blocks/network/if-value-is-number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/parse-json",
+              "path": "/docs/inventor-reference/Blocks/network/parse-json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/network/send-network-request",
+              "path": "/docs/inventor-reference/Blocks/network/send-network-request",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/reactions/add-reaction",
+              "path": "/docs/inventor-reference/Blocks/reactions/add-reaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/reactions/get-reactions",
+              "path": "/docs/inventor-reference/Blocks/reactions/get-reactions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/reactions/get-reactions-count",
+              "path": "/docs/inventor-reference/Blocks/reactions/get-reactions-count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/reactions/remove-all-reactions",
+              "path": "/docs/inventor-reference/Blocks/reactions/remove-all-reactions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/reactions/remove-reaction",
+              "path": "/docs/inventor-reference/Blocks/reactions/remove-reaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/reactions/remove-user-reaction",
+              "path": "/docs/inventor-reference/Blocks/reactions/remove-user-reaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/regex/regex-find-matches-iterator",
+              "path": "/docs/inventor-reference/Blocks/regex/regex-find-matches-iterator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/regex/regex-find-matches-list",
+              "path": "/docs/inventor-reference/Blocks/regex/regex-find-matches-list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/regex/regex-match",
+              "path": "/docs/inventor-reference/Blocks/regex/regex-match",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/regex/regex-replace",
+              "path": "/docs/inventor-reference/Blocks/regex/regex-replace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/assign-role",
+              "path": "/docs/inventor-reference/Blocks/roles/assign-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/create-role",
+              "path": "/docs/inventor-reference/Blocks/roles/create-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/delete-role",
+              "path": "/docs/inventor-reference/Blocks/roles/delete-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/get-@everyone-role",
+              "path": "/docs/inventor-reference/Blocks/roles/get-@everyone-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/get-role",
+              "path": "/docs/inventor-reference/Blocks/roles/get-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/get-roles",
+              "path": "/docs/inventor-reference/Blocks/roles/get-roles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/remove-role",
+              "path": "/docs/inventor-reference/Blocks/roles/remove-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/roles/update-role",
+              "path": "/docs/inventor-reference/Blocks/roles/update-role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/scheduled-events/create-scheduled-event",
+              "path": "/docs/inventor-reference/Blocks/scheduled-events/create-scheduled-event",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/scheduled-events/delete-scheduled-event",
+              "path": "/docs/inventor-reference/Blocks/scheduled-events/delete-scheduled-event",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/scheduled-events/get-scheduled-event",
+              "path": "/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-event",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/scheduled-events/get-scheduled-events",
+              "path": "/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/scheduled-events/modify-scheduled-event",
+              "path": "/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/get-server",
+              "path": "/docs/inventor-reference/Blocks/servers/get-server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/get-server-bans",
+              "path": "/docs/inventor-reference/Blocks/servers/get-server-bans",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/get-server-count",
+              "path": "/docs/inventor-reference/Blocks/servers/get-server-count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/get-server-members",
+              "path": "/docs/inventor-reference/Blocks/servers/get-server-members",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/get-servers",
+              "path": "/docs/inventor-reference/Blocks/servers/get-servers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/leave-server",
+              "path": "/docs/inventor-reference/Blocks/servers/leave-server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/servers/update-server",
+              "path": "/docs/inventor-reference/Blocks/servers/update-server",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/base64-decode",
+              "path": "/docs/inventor-reference/Blocks/strings/base64-decode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/base64-encode",
+              "path": "/docs/inventor-reference/Blocks/strings/base64-encode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/bcrypt-compare-hash",
+              "path": "/docs/inventor-reference/Blocks/strings/bcrypt-compare-hash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/bcrypt-hash-string",
+              "path": "/docs/inventor-reference/Blocks/strings/bcrypt-hash-string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/convert-html-to-markdown",
+              "path": "/docs/inventor-reference/Blocks/strings/convert-html-to-markdown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/generate-uuidv7",
+              "path": "/docs/inventor-reference/Blocks/strings/generate-uuidv7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/hex-to-int",
+              "path": "/docs/inventor-reference/Blocks/strings/hex-to-int",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/int-to-hex",
+              "path": "/docs/inventor-reference/Blocks/strings/int-to-hex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/md5-hash",
+              "path": "/docs/inventor-reference/Blocks/strings/md5-hash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/parse-color",
+              "path": "/docs/inventor-reference/Blocks/strings/parse-color",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/passphrase-generator",
+              "path": "/docs/inventor-reference/Blocks/strings/passphrase-generator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/remove-line-from-local-variable",
+              "path": "/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/sort-lines-by-number-prefix-or-suffix",
+              "path": "/docs/inventor-reference/Blocks/strings/sort-lines-by-number-prefix-or-suffix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/split-string-iterator",
+              "path": "/docs/inventor-reference/Blocks/strings/split-string-iterator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/split-string-iterator-(randomized)",
+              "path": "/docs/inventor-reference/Blocks/strings/split-string-iterator-(randomized)",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-contains-count",
+              "path": "/docs/inventor-reference/Blocks/strings/string-contains-count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-length",
+              "path": "/docs/inventor-reference/Blocks/strings/string-length",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-replace",
+              "path": "/docs/inventor-reference/Blocks/strings/string-replace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-split-list",
+              "path": "/docs/inventor-reference/Blocks/strings/string-split-list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-to-lowercase",
+              "path": "/docs/inventor-reference/Blocks/strings/string-to-lowercase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-to-uppercase",
+              "path": "/docs/inventor-reference/Blocks/strings/string-to-uppercase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-trim-prefix",
+              "path": "/docs/inventor-reference/Blocks/strings/string-trim-prefix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/string-trim-suffix",
+              "path": "/docs/inventor-reference/Blocks/strings/string-trim-suffix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/truncate-split-string-iterator",
+              "path": "/docs/inventor-reference/Blocks/strings/truncate-split-string-iterator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/truncate-split-string-list",
+              "path": "/docs/inventor-reference/Blocks/strings/truncate-split-string-list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/truncate-string",
+              "path": "/docs/inventor-reference/Blocks/strings/truncate-string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/url-query-escape",
+              "path": "/docs/inventor-reference/Blocks/strings/url-query-escape",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/url-query-unescape",
+              "path": "/docs/inventor-reference/Blocks/strings/url-query-unescape",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/strings/verify-hmac",
+              "path": "/docs/inventor-reference/Blocks/strings/verify-hmac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/add-thread-member",
+              "path": "/docs/inventor-reference/Blocks/threads/add-thread-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/archive-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/archive-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/create-forum-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/create-forum-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/get-forum-thread-tags",
+              "path": "/docs/inventor-reference/Blocks/threads/get-forum-thread-tags",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/join-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/join-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/leave-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/leave-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/lock-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/lock-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/pin-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/pin-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/remove-thread-member",
+              "path": "/docs/inventor-reference/Blocks/threads/remove-thread-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/start-thread-from-channel",
+              "path": "/docs/inventor-reference/Blocks/threads/start-thread-from-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/start-thread-from-message",
+              "path": "/docs/inventor-reference/Blocks/threads/start-thread-from-message",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/unarchive-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/unarchive-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/unlock-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/unlock-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/unpin-thread",
+              "path": "/docs/inventor-reference/Blocks/threads/unpin-thread",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/threads/update-forum-thread-tags",
+              "path": "/docs/inventor-reference/Blocks/threads/update-forum-thread-tags",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/get-current-date-and-time",
+              "path": "/docs/inventor-reference/Blocks/time/get-current-date-and-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/get-snowflake-timestamp",
+              "path": "/docs/inventor-reference/Blocks/time/get-snowflake-timestamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/get-specific-time",
+              "path": "/docs/inventor-reference/Blocks/time/get-specific-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/modify-time",
+              "path": "/docs/inventor-reference/Blocks/time/modify-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/parse-date-and-time",
+              "path": "/docs/inventor-reference/Blocks/time/parse-date-and-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/parse-month-name",
+              "path": "/docs/inventor-reference/Blocks/time/parse-month-name",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/parse-relative-time",
+              "path": "/docs/inventor-reference/Blocks/time/parse-relative-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/parse-unix-time",
+              "path": "/docs/inventor-reference/Blocks/time/parse-unix-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/standard-format-date-and-time",
+              "path": "/docs/inventor-reference/Blocks/time/standard-format-date-and-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/time/truncate-time",
+              "path": "/docs/inventor-reference/Blocks/time/truncate-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/ban-server-member",
+              "path": "/docs/inventor-reference/Blocks/users/ban-server-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/change-member-nickname",
+              "path": "/docs/inventor-reference/Blocks/users/change-member-nickname",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/create-dm-channel",
+              "path": "/docs/inventor-reference/Blocks/users/create-dm-channel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/get-highest-role-position-of-member",
+              "path": "/docs/inventor-reference/Blocks/users/get-highest-role-position-of-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/get-server-member",
+              "path": "/docs/inventor-reference/Blocks/users/get-server-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/get-user",
+              "path": "/docs/inventor-reference/Blocks/users/get-user",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/kick-server-member",
+              "path": "/docs/inventor-reference/Blocks/users/kick-server-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/timeout-server-member",
+              "path": "/docs/inventor-reference/Blocks/users/timeout-server-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/users/unban-server-member",
+              "path": "/docs/inventor-reference/Blocks/users/unban-server-member",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/change-bot-status",
+              "path": "/docs/inventor-reference/Blocks/utilities/change-bot-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/discord-api-ping",
+              "path": "/docs/inventor-reference/Blocks/utilities/discord-api-ping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/exclude-from-analytics",
+              "path": "/docs/inventor-reference/Blocks/utilities/exclude-from-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/generate-uuidv4",
+              "path": "/docs/inventor-reference/Blocks/utilities/generate-uuidv4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/get-error-details",
+              "path": "/docs/inventor-reference/Blocks/utilities/get-error-details",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/get-token",
+              "path": "/docs/inventor-reference/Blocks/utilities/get-token",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/get-uuidv7-creation-time",
+              "path": "/docs/inventor-reference/Blocks/utilities/get-uuidv7-creation-time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/hex-to-int",
+              "path": "/docs/inventor-reference/Blocks/utilities/hex-to-int",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/log-error",
+              "path": "/docs/inventor-reference/Blocks/utilities/log-error",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/loop",
+              "path": "/docs/inventor-reference/Blocks/utilities/loop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/realtime-log",
+              "path": "/docs/inventor-reference/Blocks/utilities/realtime-log",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/utilities/redact-secrets",
+              "path": "/docs/inventor-reference/Blocks/utilities/redact-secrets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/webhooks/create-webhook",
+              "path": "/docs/inventor-reference/Blocks/webhooks/create-webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/webhooks/delete-webhook",
+              "path": "/docs/inventor-reference/Blocks/webhooks/delete-webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/webhooks/execute-webhook",
+              "path": "/docs/inventor-reference/Blocks/webhooks/execute-webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/webhooks/get-webhooks",
+              "path": "/docs/inventor-reference/Blocks/webhooks/get-webhooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Blocks/webhooks/modify-webhook",
+              "path": "/docs/inventor-reference/Blocks/webhooks/modify-webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Formatting/index",
+              "path": "/docs/inventor-reference/Formatting/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Formatting/mention",
+              "path": "/docs/inventor-reference/Formatting/mention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/index",
+              "path": "/docs/inventor-reference/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/botdash/botdash-dashboard-data",
+              "path": "/docs/inventor-reference/Triggers/botdash/botdash-dashboard-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/botdash/botdash-form-submission",
+              "path": "/docs/inventor-reference/Triggers/botdash/botdash-form-submission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/channels/channel-created",
+              "path": "/docs/inventor-reference/Triggers/channels/channel-created",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/channels/channel-delete",
+              "path": "/docs/inventor-reference/Triggers/channels/channel-delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/channels/channel-pins-update",
+              "path": "/docs/inventor-reference/Triggers/channels/channel-pins-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/channels/channel-update",
+              "path": "/docs/inventor-reference/Triggers/channels/channel-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/channels/typing-start",
+              "path": "/docs/inventor-reference/Triggers/channels/typing-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/channels/voice-state-update",
+              "path": "/docs/inventor-reference/Triggers/channels/voice-state-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/external-services/ifttt",
+              "path": "/docs/inventor-reference/Triggers/external-services/ifttt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/external-services/incoming-webhook",
+              "path": "/docs/inventor-reference/Triggers/external-services/incoming-webhook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/external-services/new-rss-item",
+              "path": "/docs/inventor-reference/Triggers/external-services/new-rss-item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/interactions/button-click",
+              "path": "/docs/inventor-reference/Triggers/interactions/button-click",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/interactions/context-menu",
+              "path": "/docs/inventor-reference/Triggers/interactions/context-menu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/interactions/dropdown-select",
+              "path": "/docs/inventor-reference/Triggers/interactions/dropdown-select",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/interactions/modal-submit",
+              "path": "/docs/inventor-reference/Triggers/interactions/modal-submit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/interactions/slash-command",
+              "path": "/docs/inventor-reference/Triggers/interactions/slash-command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/interactions/slash-command-autocomplete",
+              "path": "/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/invites/invite-created",
+              "path": "/docs/inventor-reference/Triggers/invites/invite-created",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/invites/invite-deleted",
+              "path": "/docs/inventor-reference/Triggers/invites/invite-deleted",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/members/member-ban",
+              "path": "/docs/inventor-reference/Triggers/members/member-ban",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/members/member-join",
+              "path": "/docs/inventor-reference/Triggers/members/member-join",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/members/member-leave",
+              "path": "/docs/inventor-reference/Triggers/members/member-leave",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/members/member-unban",
+              "path": "/docs/inventor-reference/Triggers/members/member-unban",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/members/member-update",
+              "path": "/docs/inventor-reference/Triggers/members/member-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/messages/message-delete-bulk",
+              "path": "/docs/inventor-reference/Triggers/messages/message-delete-bulk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/messages/message-deleted",
+              "path": "/docs/inventor-reference/Triggers/messages/message-deleted",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/messages/message-edited",
+              "path": "/docs/inventor-reference/Triggers/messages/message-edited",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/messages/message-edited-by-bot",
+              "path": "/docs/inventor-reference/Triggers/messages/message-edited-by-bot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/messages/message-sent",
+              "path": "/docs/inventor-reference/Triggers/messages/message-sent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/messages/message-sent-by-bot",
+              "path": "/docs/inventor-reference/Triggers/messages/message-sent-by-bot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/reactions/reaction-add",
+              "path": "/docs/inventor-reference/Triggers/reactions/reaction-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/reactions/reaction-remove",
+              "path": "/docs/inventor-reference/Triggers/reactions/reaction-remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/reactions/reaction-remove-all",
+              "path": "/docs/inventor-reference/Triggers/reactions/reaction-remove-all",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/roles/role-created",
+              "path": "/docs/inventor-reference/Triggers/roles/role-created",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/roles/role-delete",
+              "path": "/docs/inventor-reference/Triggers/roles/role-delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/roles/role-update",
+              "path": "/docs/inventor-reference/Triggers/roles/role-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-create",
+              "path": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-delete",
+              "path": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update",
+              "path": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-add",
+              "path": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove",
+              "path": "/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-15-minutes",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-30-minutes",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-30-minutes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-day",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-day",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-hour",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-hour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-minute",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-minute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-month",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-month",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/scheduled-triggers/every-week",
+              "path": "/docs/inventor-reference/Triggers/scheduled-triggers/every-week",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/servers/audit-log-entry-created",
+              "path": "/docs/inventor-reference/Triggers/servers/audit-log-entry-created",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/servers/server-joined",
+              "path": "/docs/inventor-reference/Triggers/servers/server-joined",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/servers/server-left",
+              "path": "/docs/inventor-reference/Triggers/servers/server-left",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/servers/server-update",
+              "path": "/docs/inventor-reference/Triggers/servers/server-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/servers/webhook-update",
+              "path": "/docs/inventor-reference/Triggers/servers/webhook-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/stage-instance/stage-instance-create",
+              "path": "/docs/inventor-reference/Triggers/stage-instance/stage-instance-create",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/stage-instance/stage-instance-delete",
+              "path": "/docs/inventor-reference/Triggers/stage-instance/stage-instance-delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/stage-instance/stage-instance-update",
+              "path": "/docs/inventor-reference/Triggers/stage-instance/stage-instance-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/threads/thread-created",
+              "path": "/docs/inventor-reference/Triggers/threads/thread-created",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/threads/thread-delete",
+              "path": "/docs/inventor-reference/Triggers/threads/thread-delete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/threads/thread-update",
+              "path": "/docs/inventor-reference/Triggers/threads/thread-update",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Triggers/utilities/empty-trigger",
+              "path": "/docs/inventor-reference/Triggers/utilities/empty-trigger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/number/float",
+              "path": "/docs/inventor-reference/Types/number/float",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/number/index",
+              "path": "/docs/inventor-reference/Types/number/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/number/unix",
+              "path": "/docs/inventor-reference/Types/number/unix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/boolean",
+              "path": "/docs/inventor-reference/Types/string/boolean",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/index",
+              "path": "/docs/inventor-reference/Types/string/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/json",
+              "path": "/docs/inventor-reference/Types/string/json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/list",
+              "path": "/docs/inventor-reference/Types/string/list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/mention",
+              "path": "/docs/inventor-reference/Types/string/mention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/snowflake",
+              "path": "/docs/inventor-reference/Types/string/snowflake",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/Types/string/uuid",
+              "path": "/docs/inventor-reference/Types/string/uuid",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/inventor-reference/",
+                "label": "Inventor Reference"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

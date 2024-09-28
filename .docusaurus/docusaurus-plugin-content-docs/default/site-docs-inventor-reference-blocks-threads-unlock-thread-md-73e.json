@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/threads/unlock-thread",
+  "title": "Unlock Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/threads/unlock-thread.md",
+  "sourceDirName": "inventor-reference/blocks/threads",
+  "slug": "/inventor-reference/blocks/threads/unlock-thread",
+  "permalink": "/docs/inventor-reference/blocks/threads/unlock-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/threads/unlock-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unarchive Thread",
+    "permalink": "/docs/inventor-reference/blocks/threads/unarchive-thread"
+  },
+  "next": {
+    "title": "Unpin Thread",
+    "permalink": "/docs/inventor-reference/blocks/threads/unpin-thread"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/formatting/index",
+  "title": "Formatting",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/formatting/index.md",
+  "sourceDirName": "inventor-reference/formatting",
+  "slug": "/inventor-reference/formatting/",
+  "permalink": "/docs/inventor-reference/formatting/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/formatting/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modify Webhook",
+    "permalink": "/docs/inventor-reference/blocks/webhooks/modify-webhook"
+  },
+  "next": {
+    "title": "Mention",
+    "permalink": "/docs/inventor-reference/formatting/mention"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/math/rounding-(round)",
+  "title": "Rounding (Round)",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/math/rounding-(round).md",
+  "sourceDirName": "inventor-reference/Blocks/math",
+  "slug": "/inventor-reference/Blocks/math/rounding-(round)",
+  "permalink": "/docs/inventor-reference/Blocks/math/rounding-(round)",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/math/rounding-(round).md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rounding (Floor)",
+    "permalink": "/docs/inventor-reference/Blocks/math/rounding-(floor)"
+  },
+  "next": {
+    "title": "Square Root",
+    "permalink": "/docs/inventor-reference/Blocks/math/square-root"
+  }
+}

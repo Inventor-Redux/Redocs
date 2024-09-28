@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/time/get-current-date-and-time",
+  "title": "Get Current Date and Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/time/get-current-date-and-time.md",
+  "sourceDirName": "inventor-reference/blocks/time",
+  "slug": "/inventor-reference/blocks/time/get-current-date-and-time",
+  "permalink": "/docs/inventor-reference/blocks/time/get-current-date-and-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/time/get-current-date-and-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Update Forum Thread Tags",
+    "permalink": "/docs/inventor-reference/blocks/threads/update-forum-thread-tags"
+  },
+  "next": {
+    "title": "Get Snowflake Timestamp",
+    "permalink": "/docs/inventor-reference/blocks/time/get-snowflake-timestamp"
+  }
+}

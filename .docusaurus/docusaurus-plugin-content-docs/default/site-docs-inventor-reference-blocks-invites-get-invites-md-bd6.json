@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/invites/get-invites",
+  "title": "Get Invites",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/invites/get-invites.md",
+  "sourceDirName": "inventor-reference/Blocks/invites",
+  "slug": "/inventor-reference/Blocks/invites/get-invites",
+  "permalink": "/docs/inventor-reference/Blocks/invites/get-invites",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/invites/get-invites.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Invite",
+    "permalink": "/docs/inventor-reference/Blocks/invites/get-invite"
+  },
+  "next": {
+    "title": "Append New Line to Local Variable",
+    "permalink": "/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable"
+  }
+}

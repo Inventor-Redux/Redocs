@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/channels/get-channel",
+  "title": "Get Channel",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/channels/get-channel.md",
+  "sourceDirName": "inventor-reference/blocks/channels",
+  "slug": "/inventor-reference/blocks/channels/get-channel",
+  "permalink": "/docs/inventor-reference/blocks/channels/get-channel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/channels/get-channel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit Channel Permissions",
+    "permalink": "/docs/inventor-reference/blocks/channels/edit-channel-permissions"
+  },
+  "next": {
+    "title": "Get Channels",
+    "permalink": "/docs/inventor-reference/blocks/channels/get-channels"
+  }
+}

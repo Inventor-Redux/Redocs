@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/roles/get-@everyone-role",
+  "title": "Get @everyone Role",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/roles/get-@everyone-role.md",
+  "sourceDirName": "inventor-reference/Blocks/roles",
+  "slug": "/inventor-reference/Blocks/roles/get-@everyone-role",
+  "permalink": "/docs/inventor-reference/Blocks/roles/get-@everyone-role",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/roles/get-@everyone-role.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/delete-role"
+  },
+  "next": {
+    "title": "Get Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/get-role"
+  }
+}

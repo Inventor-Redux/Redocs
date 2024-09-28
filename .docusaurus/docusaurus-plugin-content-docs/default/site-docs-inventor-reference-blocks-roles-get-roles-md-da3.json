@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/roles/get-roles",
+  "title": "Get Roles",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/roles/get-roles.md",
+  "sourceDirName": "inventor-reference/Blocks/roles",
+  "slug": "/inventor-reference/Blocks/roles/get-roles",
+  "permalink": "/docs/inventor-reference/Blocks/roles/get-roles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/roles/get-roles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/get-role"
+  },
+  "next": {
+    "title": "Remove Role",
+    "permalink": "/docs/inventor-reference/Blocks/roles/remove-role"
+  }
+}

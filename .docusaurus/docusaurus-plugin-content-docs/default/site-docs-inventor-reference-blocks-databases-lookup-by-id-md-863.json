@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/databases/lookup-by-id",
+  "title": "Lookup by ID",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/databases/lookup-by-id.md",
+  "sourceDirName": "inventor-reference/Blocks/databases",
+  "slug": "/inventor-reference/Blocks/databases/lookup-by-id",
+  "permalink": "/docs/inventor-reference/Blocks/databases/lookup-by-id",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/databases/lookup-by-id.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Rows",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-rows"
+  },
+  "next": {
+    "title": "Lookup by Value or Create",
+    "permalink": "/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create"
+  }
+}

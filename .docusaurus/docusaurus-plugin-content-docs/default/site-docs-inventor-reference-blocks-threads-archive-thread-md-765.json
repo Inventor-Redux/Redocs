@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/threads/archive-thread",
+  "title": "Archive Thread",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/threads/archive-thread.md",
+  "sourceDirName": "inventor-reference/blocks/threads",
+  "slug": "/inventor-reference/blocks/threads/archive-thread",
+  "permalink": "/docs/inventor-reference/blocks/threads/archive-thread",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/threads/archive-thread.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add Thread Member",
+    "permalink": "/docs/inventor-reference/blocks/threads/add-thread-member"
+  },
+  "next": {
+    "title": "Create Forum Thread",
+    "permalink": "/docs/inventor-reference/blocks/threads/create-forum-thread"
+  }
+}

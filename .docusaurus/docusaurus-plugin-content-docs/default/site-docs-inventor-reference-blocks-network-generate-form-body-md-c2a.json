@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/network/generate-form-body",
+  "title": "Generate Form Body",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/network/generate-form-body.md",
+  "sourceDirName": "inventor-reference/Blocks/network",
+  "slug": "/inventor-reference/Blocks/network/generate-form-body",
+  "permalink": "/docs/inventor-reference/Blocks/network/generate-form-body",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/network/generate-form-body.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Format JSON",
+    "permalink": "/docs/inventor-reference/Blocks/network/format-json"
+  },
+  "next": {
+    "title": "If Number is in Range",
+    "permalink": "/docs/inventor-reference/Blocks/network/if-number-is-in-range"
+  }
+}

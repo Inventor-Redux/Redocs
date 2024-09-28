@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/utilities/get-uuidv7-creation-time",
+  "title": "Get UUIDv7 Creation Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/utilities/get-uuidv7-creation-time.md",
+  "sourceDirName": "inventor-reference/Blocks/utilities",
+  "slug": "/inventor-reference/Blocks/utilities/get-uuidv7-creation-time",
+  "permalink": "/docs/inventor-reference/Blocks/utilities/get-uuidv7-creation-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/utilities/get-uuidv7-creation-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Token",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/get-token"
+  },
+  "next": {
+    "title": "Hex to Int",
+    "permalink": "/docs/inventor-reference/Blocks/utilities/hex-to-int"
+  }
+}

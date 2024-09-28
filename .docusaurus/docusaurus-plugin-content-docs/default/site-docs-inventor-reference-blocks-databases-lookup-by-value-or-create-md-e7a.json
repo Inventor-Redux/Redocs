@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/databases/lookup-by-value-or-create",
+  "title": "Lookup by Value or Create",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create.md",
+  "sourceDirName": "inventor-reference/Blocks/databases",
+  "slug": "/inventor-reference/Blocks/databases/lookup-by-value-or-create",
+  "permalink": "/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lookup by ID",
+    "permalink": "/docs/inventor-reference/Blocks/databases/lookup-by-id"
+  },
+  "next": {
+    "title": "Update by Value or Create",
+    "permalink": "/docs/inventor-reference/Blocks/databases/update-by-value-or-create"
+  }
+}

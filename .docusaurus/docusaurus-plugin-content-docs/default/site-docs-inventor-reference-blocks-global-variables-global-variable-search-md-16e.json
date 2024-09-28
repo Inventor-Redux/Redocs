@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/global-variables/global-variable-search",
+  "title": "Global Variable Search",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/global-variables/global-variable-search.md",
+  "sourceDirName": "inventor-reference/Blocks/global-variables",
+  "slug": "/inventor-reference/Blocks/global-variables/global-variable-search",
+  "permalink": "/docs/inventor-reference/Blocks/global-variables/global-variable-search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/global-variables/global-variable-search.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Global Variables",
+    "permalink": "/docs/inventor-reference/Blocks/global-variables/get-global-variables"
+  },
+  "next": {
+    "title": "Increment or Decrement Global Variable",
+    "permalink": "/docs/inventor-reference/Blocks/global-variables/increment-or-decrement-global-variable"
+  }
+}

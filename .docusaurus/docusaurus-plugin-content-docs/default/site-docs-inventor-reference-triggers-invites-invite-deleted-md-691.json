@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/invites/invite-deleted",
+  "title": "Invite Deleted",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/invites/invite-deleted.md",
+  "sourceDirName": "inventor-reference/Triggers/invites",
+  "slug": "/inventor-reference/Triggers/invites/invite-deleted",
+  "permalink": "/docs/inventor-reference/Triggers/invites/invite-deleted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/invites/invite-deleted.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Invite Created",
+    "permalink": "/docs/inventor-reference/Triggers/invites/invite-created"
+  },
+  "next": {
+    "title": "Member Ban",
+    "permalink": "/docs/inventor-reference/Triggers/members/member-ban"
+  }
+}

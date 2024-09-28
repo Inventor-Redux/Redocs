@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/time/truncate-time",
+  "title": "Truncate Time",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/time/truncate-time.md",
+  "sourceDirName": "inventor-reference/Blocks/time",
+  "slug": "/inventor-reference/Blocks/time/truncate-time",
+  "permalink": "/docs/inventor-reference/Blocks/time/truncate-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/time/truncate-time.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standard Format Date and Time",
+    "permalink": "/docs/inventor-reference/Blocks/time/standard-format-date-and-time"
+  },
+  "next": {
+    "title": "Ban Server Member",
+    "permalink": "/docs/inventor-reference/Blocks/users/ban-server-member"
+  }
+}

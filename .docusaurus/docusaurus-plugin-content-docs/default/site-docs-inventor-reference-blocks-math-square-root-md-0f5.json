@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/math/square-root",
+  "title": "Square Root",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/math/square-root.md",
+  "sourceDirName": "inventor-reference/blocks/math",
+  "slug": "/inventor-reference/blocks/math/square-root",
+  "permalink": "/docs/inventor-reference/blocks/math/square-root",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/math/square-root.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rounding (Round)",
+    "permalink": "/docs/inventor-reference/blocks/math/rounding-(round)"
+  },
+  "next": {
+    "title": "Truncate Float",
+    "permalink": "/docs/inventor-reference/blocks/math/truncate-float"
+  }
+}

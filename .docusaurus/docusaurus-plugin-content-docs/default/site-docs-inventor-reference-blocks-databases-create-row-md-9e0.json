@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/databases/create-row",
+  "title": "Create Row",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/databases/create-row.md",
+  "sourceDirName": "inventor-reference/blocks/databases",
+  "slug": "/inventor-reference/blocks/databases/create-row",
+  "permalink": "/docs/inventor-reference/blocks/databases/create-row",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/databases/create-row.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Block",
+    "permalink": "/docs/inventor-reference/blocks/custom-block"
+  },
+  "next": {
+    "title": "Delete Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/delete-row"
+  }
+}

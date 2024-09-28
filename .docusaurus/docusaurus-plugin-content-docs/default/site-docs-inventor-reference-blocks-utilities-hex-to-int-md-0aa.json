@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/utilities/hex-to-int",
+  "title": "Hex to Int",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/utilities/hex-to-int.md",
+  "sourceDirName": "inventor-reference/blocks/utilities",
+  "slug": "/inventor-reference/blocks/utilities/hex-to-int",
+  "permalink": "/docs/inventor-reference/blocks/utilities/hex-to-int",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/utilities/hex-to-int.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get UUIDv7 Creation Time",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time"
+  },
+  "next": {
+    "title": "Log Error",
+    "permalink": "/docs/inventor-reference/blocks/utilities/log-error"
+  }
+}

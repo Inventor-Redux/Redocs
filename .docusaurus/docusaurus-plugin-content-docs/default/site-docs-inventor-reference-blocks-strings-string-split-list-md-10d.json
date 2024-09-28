@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/strings/string-split-list",
+  "title": "String Split List",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/strings/string-split-list.md",
+  "sourceDirName": "inventor-reference/Blocks/strings",
+  "slug": "/inventor-reference/Blocks/strings/string-split-list",
+  "permalink": "/docs/inventor-reference/Blocks/strings/string-split-list",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/strings/string-split-list.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "String Replace",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-replace"
+  },
+  "next": {
+    "title": "String to Lowercase",
+    "permalink": "/docs/inventor-reference/Blocks/strings/string-to-lowercase"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/threads/remove-thread-member",
+  "title": "Remove Thread Member",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/threads/remove-thread-member.md",
+  "sourceDirName": "inventor-reference/Blocks/threads",
+  "slug": "/inventor-reference/Blocks/threads/remove-thread-member",
+  "permalink": "/docs/inventor-reference/Blocks/threads/remove-thread-member",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/threads/remove-thread-member.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pin Thread",
+    "permalink": "/docs/inventor-reference/Blocks/threads/pin-thread"
+  },
+  "next": {
+    "title": "Start Thread From Channel",
+    "permalink": "/docs/inventor-reference/Blocks/threads/start-thread-from-channel"
+  }
+}

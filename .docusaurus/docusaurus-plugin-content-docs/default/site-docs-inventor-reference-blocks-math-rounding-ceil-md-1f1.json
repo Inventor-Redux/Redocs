@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/math/rounding-(ceil)",
+  "title": "Rounding (Ceil)",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/math/rounding-(ceil).md",
+  "sourceDirName": "inventor-reference/Blocks/math",
+  "slug": "/inventor-reference/Blocks/math/rounding-(ceil)",
+  "permalink": "/docs/inventor-reference/Blocks/math/rounding-(ceil)",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/math/rounding-(ceil).md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Random Number Generator",
+    "permalink": "/docs/inventor-reference/Blocks/math/random-number-generator"
+  },
+  "next": {
+    "title": "Rounding (Floor)",
+    "permalink": "/docs/inventor-reference/Blocks/math/rounding-(floor)"
+  }
+}

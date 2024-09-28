@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Triggers/servers/server-joined",
+  "title": "Server Joined",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Triggers/servers/server-joined.md",
+  "sourceDirName": "inventor-reference/Triggers/servers",
+  "slug": "/inventor-reference/Triggers/servers/server-joined",
+  "permalink": "/docs/inventor-reference/Triggers/servers/server-joined",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Triggers/servers/server-joined.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Audit Log Entry Created",
+    "permalink": "/docs/inventor-reference/Triggers/servers/audit-log-entry-created"
+  },
+  "next": {
+    "title": "Server Left",
+    "permalink": "/docs/inventor-reference/Triggers/servers/server-left"
+  }
+}

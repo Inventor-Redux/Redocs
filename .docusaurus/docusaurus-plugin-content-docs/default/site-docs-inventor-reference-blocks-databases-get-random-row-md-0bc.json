@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/databases/get-random-row",
+  "title": "Get Random Row",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/databases/get-random-row.md",
+  "sourceDirName": "inventor-reference/Blocks/databases",
+  "slug": "/inventor-reference/Blocks/databases/get-random-row",
+  "permalink": "/docs/inventor-reference/Blocks/databases/get-random-row",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/databases/get-random-row.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Random Row by Value",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-random-row-by-value"
+  },
+  "next": {
+    "title": "Get Random Rows by Value",
+    "permalink": "/docs/inventor-reference/Blocks/databases/get-random-rows-by-value"
+  }
+}

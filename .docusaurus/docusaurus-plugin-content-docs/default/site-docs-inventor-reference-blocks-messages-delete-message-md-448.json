@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/Blocks/messages/delete-message",
+  "title": "Delete Message",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/Blocks/messages/delete-message.md",
+  "sourceDirName": "inventor-reference/Blocks/messages",
+  "slug": "/inventor-reference/Blocks/messages/delete-message",
+  "permalink": "/docs/inventor-reference/Blocks/messages/delete-message",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/delete-message.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bulk Purge Messages",
+    "permalink": "/docs/inventor-reference/Blocks/messages/bulk-purge-messages"
+  },
+  "next": {
+    "title": "Embed Button Builder",
+    "permalink": "/docs/inventor-reference/Blocks/messages/embed-button-builder"
+  }
+}

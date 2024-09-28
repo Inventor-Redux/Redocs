@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/triggers/servers/server-joined",
+  "title": "Server Joined",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/triggers/servers/server-joined.md",
+  "sourceDirName": "inventor-reference/triggers/servers",
+  "slug": "/inventor-reference/triggers/servers/server-joined",
+  "permalink": "/docs/inventor-reference/triggers/servers/server-joined",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/triggers/servers/server-joined.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Audit Log Entry Created",
+    "permalink": "/docs/inventor-reference/triggers/servers/audit-log-entry-created"
+  },
+  "next": {
+    "title": "Server Left",
+    "permalink": "/docs/inventor-reference/triggers/servers/server-left"
+  }
+}

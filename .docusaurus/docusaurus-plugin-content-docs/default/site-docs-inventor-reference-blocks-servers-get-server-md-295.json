@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/servers/get-server",
+  "title": "Get Server",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/servers/get-server.md",
+  "sourceDirName": "inventor-reference/blocks/servers",
+  "slug": "/inventor-reference/blocks/servers/get-server",
+  "permalink": "/docs/inventor-reference/blocks/servers/get-server",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/servers/get-server.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Server Members",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-server-members"
+  },
+  "next": {
+    "title": "Get Servers",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-servers"
+  }
+}

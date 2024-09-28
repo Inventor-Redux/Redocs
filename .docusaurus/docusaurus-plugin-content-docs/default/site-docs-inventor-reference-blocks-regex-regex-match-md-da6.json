@@ -1,0 +1,24 @@
+{
+  "id": "inventor-reference/blocks/regex/regex-match",
+  "title": "Regex Match",
+  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "source": "@site/docs/inventor-reference/blocks/regex/regex-match.md",
+  "sourceDirName": "inventor-reference/blocks/regex",
+  "slug": "/inventor-reference/blocks/regex/regex-match",
+  "permalink": "/docs/inventor-reference/blocks/regex/regex-match",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/inventor-reference/blocks/regex/regex-match.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Regex Find Matches List",
+    "permalink": "/docs/inventor-reference/blocks/regex/regex-find-matches-list"
+  },
+  "next": {
+    "title": "Regex Replace",
+    "permalink": "/docs/inventor-reference/blocks/regex/regex-replace"
+  }
+}
