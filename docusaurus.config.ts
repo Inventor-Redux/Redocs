@@ -64,6 +64,7 @@ const config: Config = {
   ],
 
   themeConfig: {
+    image: "@site/static/img/Redocs Logo.svg",
     docs:{
       sidebar:{
         hideable: true

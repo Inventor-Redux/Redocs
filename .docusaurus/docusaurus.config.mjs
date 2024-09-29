@@ -52,6 +52,7 @@ export default {
     ]
   ],
   "themeConfig": {
+    "image": "@site/static/img/Redocs Logo.svg",
     "docs": {
       "sidebar": {
         "hideable": true,
