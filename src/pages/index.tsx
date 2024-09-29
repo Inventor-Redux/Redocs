@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Redocs`}
+      title={`Home`}
       description="The Community-Driven Hub for All Things Inventor">
       <HomepageHeader />
       <main>
