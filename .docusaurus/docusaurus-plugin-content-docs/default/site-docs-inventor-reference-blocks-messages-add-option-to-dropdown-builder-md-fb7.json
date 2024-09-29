@@ -1,7 +1,7 @@
 {
   "id": "inventor-reference/Blocks/messages/add-option-to-dropdown-builder",
   "title": "Add Option to Dropdown Builder",
-  "description": "!!! warning \"Warning: This page is still under construction\"",
+  "description": "This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.",
   "source": "@site/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder.md",
   "sourceDirName": "inventor-reference/Blocks/messages",
   "slug": "/inventor-reference/Blocks/messages/add-option-to-dropdown-builder",
@@ -11,6 +11,8 @@
   "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {

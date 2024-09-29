@@ -1,7 +1,7 @@
 {
   "id": "inventor-reference/index",
   "title": "Inventor Reference",
-  "description": "This project is still in development, and some pages may be incomplete or contain errors. We appreciate your help in ensuring the accuracy and completeness of our documentation. If you notice any issues, please submit a pull request to correct them. Alternatively, create an issue to report the problem and we'll take care of it.",
+  "description": "Official Documentation for Inventor.gg",
   "source": "@site/docs/inventor-reference/index.md",
   "sourceDirName": "inventor-reference",
   "slug": "/inventor-reference/",
@@ -11,10 +11,15 @@
   "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/index.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Inventor Reference",
+    "description": "Official Documentation for Inventor.gg"
+  },
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Create Channel",
-    "permalink": "/docs/inventor-reference/Blocks/channels/create-channel"
+    "permalink": "/docs/inventor-reference/blocks/channels/create-channel"
   }
 }

@@ -1,16 +1,41 @@
-# Redocs - Redux Browser Extension Documentation
+# Website
 
-Welcome to the Redocs repository, where you'll find the official documentation for the Redux browser extension.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-## License
+### Installation
 
-Redocs is licensed under the GNU General Public License version 3 (GPLv3). See the LICENSE file for more information.
+```
+$ yarn
+```
 
-## Contributing
+### Local Development
 
-We welcome contributions to Redocs! If you'd like to contribute, please follow these steps:
+```
+$ yarn start
+```
 
-1. Fork this repository to your own GitHub account.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Open a pull request to merge your changes into this repository.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

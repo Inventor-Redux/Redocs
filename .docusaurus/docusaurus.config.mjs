@@ -4,14 +4,12 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "title": "Redocs",
+  "tagline": "The Community-Driven Hub for All Things Inventor",
+  "favicon": "img/Redocs Logo.svg",
+  "url": "https://docs.redux.wtf",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -23,11 +21,14 @@ export default {
   },
   "presets": [
     [
-      "@docusaurus/preset-classic",
+      "classic",
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/"
+          "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/",
+          "showLastUpdateAuthor": true,
+          "showLastUpdateTime": true,
+          "sidebarCollapsible": true
         },
         "blog": {
           "showReadingTime": true,
@@ -45,16 +46,12 @@ export default {
         },
         "theme": {
           "customCss": "./src/css/custom.css"
-        }
+        },
+        "sitemap": {}
       }
     ]
   ],
   "themeConfig": {
-    "colorMode": {
-      "defaultMode": "dark",
-      "disableSwitch": true,
-      "respectPrefersColorScheme": false
-    },
     "docs": {
       "sidebar": {
         "hideable": true,
@@ -62,19 +59,39 @@ export default {
       },
       "versionPersistence": "localStorage"
     },
-    "image": "img/docusaurus-social-card.jpg",
+    "metadata": [
+      {
+        "name": "og:site_name",
+        "content": "Inventor Redux"
+      }
+    ],
+    "colorMode": {
+      "defaultMode": "dark",
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false
+    },
     "navbar": {
       "title": "Redocs",
       "logo": {
-        "alt": "Redocs Logo",
-        "src": "assets/redocs_icon_logo_light.png"
+        "alt": "Redocs Logo White",
+        "src": "img/Redocs_Logo_White.png"
       },
       "items": [
         {
           "type": "doc",
-          "label": "Inventor Reference",
           "position": "left",
+          "label": "Inventor Reference",
           "docId": "inventor-reference/index"
+        },
+        {
+          "href": "https://github.com/Inventor-Redux/Redocs",
+          "label": "GitHub",
+          "position": "right"
+        },
+        {
+          "href": "https://inventor.gg",
+          "label": "Inventor",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -86,25 +103,33 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Blocks",
+              "to": "/docs/inventor-reference/blocks/"
+            },
+            {
+              "label": "Triggers",
+              "to": "/docs/inventor-reference/triggers/"
+            },
+            {
+              "label": "Types",
+              "to": "/docs/inventor-reference/types/"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Social",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://redux.wtf/join"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://x.com/_itsastro_"
+            },
+            {
+              "label": "Mastodon",
+              "href": "https://mastodon.social/@its_astro"
             }
           ]
         },
@@ -112,12 +137,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Inventor",
+              "href": "https://inventor.gg"
             }
           ]
         }
@@ -333,12 +354,14 @@ export default {
         "groupByYear": true
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
     }
   },
+  "themes": [
+    "/home/astro/Documents/another backup/projects/Projects/redocs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js"
+  ],
   "baseUrlIssueBanner": true,
   "future": {
     "experimental_storage": {
@@ -354,7 +377,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

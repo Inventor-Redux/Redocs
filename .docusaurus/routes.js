@@ -3,1794 +3,1788 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/search',
+    component: ComponentCreator('/search', '822'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e99'),
+    component: ComponentCreator('/docs', 'a98'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '873'),
+        component: ComponentCreator('/docs', 'b8b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '099'),
+            component: ComponentCreator('/docs', '205'),
             routes: [
               {
                 path: '/docs/inventor-reference/',
-                component: ComponentCreator('/docs/inventor-reference/', 'b9c'),
+                component: ComponentCreator('/docs/inventor-reference/', 'a11'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/create-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/create-channel', '5e8'),
+                path: '/docs/inventor-reference/blocks/',
+                component: ComponentCreator('/docs/inventor-reference/blocks/', 'cb7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/delete-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/delete-channel', '397'),
+                path: '/docs/inventor-reference/blocks/channels/create-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/create-channel', '400'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/delete-channel-permission',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/delete-channel-permission', '13e'),
+                path: '/docs/inventor-reference/blocks/channels/delete-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/delete-channel', '156'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/edit-channel-permissions',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/edit-channel-permissions', '7fd'),
+                path: '/docs/inventor-reference/blocks/channels/delete-channel-permission',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/delete-channel-permission', '873'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/get-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/get-channel', 'e4f'),
+                path: '/docs/inventor-reference/blocks/channels/edit-channel-permissions',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/edit-channel-permissions', '720'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/get-channels',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/get-channels', 'ad6'),
+                path: '/docs/inventor-reference/blocks/channels/get-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/get-channel', 'bc2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/modify-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/modify-channel', '219'),
+                path: '/docs/inventor-reference/blocks/channels/get-channels',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/get-channels', '32e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/move-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/move-channel', '9b6'),
+                path: '/docs/inventor-reference/blocks/channels/modify-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/modify-channel', 'bd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/move-member-to-voice-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/move-member-to-voice-channel', '67a'),
+                path: '/docs/inventor-reference/blocks/channels/move-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/move-channel', 'b90'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/channels/trigger-typing-indicator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/channels/trigger-typing-indicator', 'fe9'),
+                path: '/docs/inventor-reference/blocks/channels/move-member-to-voice-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/move-member-to-voice-channel', '895'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/custom-block',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/custom-block', '425'),
+                path: '/docs/inventor-reference/blocks/channels/trigger-typing-indicator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/channels/trigger-typing-indicator', '96a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/create-row',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/create-row', '219'),
+                path: '/docs/inventor-reference/blocks/custom-block',
+                component: ComponentCreator('/docs/inventor-reference/blocks/custom-block', '020'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/delete-row',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/delete-row', 'a86'),
+                path: '/docs/inventor-reference/blocks/databases/create-row',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/create-row', '61e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/delete-rows-by-value',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/delete-rows-by-value', 'bc6'),
+                path: '/docs/inventor-reference/blocks/databases/delete-row',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/delete-row', '64d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-random-row',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-random-row', '8b2'),
+                path: '/docs/inventor-reference/blocks/databases/delete-rows-by-value',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/delete-rows-by-value', '085'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-random-row-by-value',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-random-row-by-value', 'bf6'),
+                path: '/docs/inventor-reference/blocks/databases/get-random-row',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-random-row', '5eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-random-rows',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-random-rows', '8b1'),
+                path: '/docs/inventor-reference/blocks/databases/get-random-row-by-value',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-random-row-by-value', '728'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-random-rows-by-value',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-random-rows-by-value', 'd88'),
+                path: '/docs/inventor-reference/blocks/databases/get-random-rows',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-random-rows', '22a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-row-by-values',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-row-by-values', 'db0'),
+                path: '/docs/inventor-reference/blocks/databases/get-random-rows-by-value',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-random-rows-by-value', '4bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-row-count',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-row-count', '0c0'),
+                path: '/docs/inventor-reference/blocks/databases/get-row-by-values',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-row-by-values', '5f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-rows',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-rows', 'fb5'),
+                path: '/docs/inventor-reference/blocks/databases/get-row-count',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-row-count', '4ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-rows-by-values',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-rows-by-values', '42a'),
+                path: '/docs/inventor-reference/blocks/databases/get-rows',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-rows', '4b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/get-rows-sorted-by-column',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/get-rows-sorted-by-column', 'a02'),
+                path: '/docs/inventor-reference/blocks/databases/get-rows-by-values',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-rows-by-values', 'cfa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/lookup-by-id',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/lookup-by-id', '908'),
+                path: '/docs/inventor-reference/blocks/databases/get-rows-sorted-by-column',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/get-rows-sorted-by-column', '2be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/lookup-by-value-or-create', '960'),
+                path: '/docs/inventor-reference/blocks/databases/lookup-by-id',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/lookup-by-id', 'a0f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/update-by-value-or-create',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/update-by-value-or-create', 'c3c'),
+                path: '/docs/inventor-reference/blocks/databases/lookup-by-value-or-create',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/lookup-by-value-or-create', '542'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/databases/update-row',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/databases/update-row', '3b9'),
+                path: '/docs/inventor-reference/blocks/databases/update-by-value-or-create',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/update-by-value-or-create', '4f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/emoji/create-emoji',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/emoji/create-emoji', '4b8'),
+                path: '/docs/inventor-reference/blocks/databases/update-row',
+                component: ComponentCreator('/docs/inventor-reference/blocks/databases/update-row', '5d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/emoji/delete-emoji',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/emoji/delete-emoji', '775'),
+                path: '/docs/inventor-reference/blocks/emoji/create-emoji',
+                component: ComponentCreator('/docs/inventor-reference/blocks/emoji/create-emoji', 'd73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/emoji/get-emoji',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/emoji/get-emoji', '3e5'),
+                path: '/docs/inventor-reference/blocks/emoji/delete-emoji',
+                component: ComponentCreator('/docs/inventor-reference/blocks/emoji/delete-emoji', '902'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/emoji/get-emojis',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/emoji/get-emojis', '01b'),
+                path: '/docs/inventor-reference/blocks/emoji/get-emoji',
+                component: ComponentCreator('/docs/inventor-reference/blocks/emoji/get-emoji', '9b6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/emoji/modify-emoji',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/emoji/modify-emoji', '2ae'),
+                path: '/docs/inventor-reference/blocks/emoji/get-emojis',
+                component: ComponentCreator('/docs/inventor-reference/blocks/emoji/get-emojis', '249'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/advanced-conditional',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/advanced-conditional', 'd05'),
+                path: '/docs/inventor-reference/blocks/emoji/modify-emoji',
+                component: ComponentCreator('/docs/inventor-reference/blocks/emoji/modify-emoji', 'e8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/async-folder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/async-folder', '76b'),
+                path: '/docs/inventor-reference/blocks/flow-control/advanced-conditional',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/advanced-conditional', 'dcf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/break',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/break', 'bc8'),
+                path: '/docs/inventor-reference/blocks/flow-control/async-folder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/async-folder', '11b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/continue',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/continue', '9e3'),
+                path: '/docs/inventor-reference/blocks/flow-control/break',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/break', 'f0b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/exit-flow',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/exit-flow', '3ae'),
+                path: '/docs/inventor-reference/blocks/flow-control/continue',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/continue', 'fdb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/folder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/folder', 'e8b'),
+                path: '/docs/inventor-reference/blocks/flow-control/exit-flow',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/exit-flow', 'f39'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/if-statement',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/if-statement', '433'),
+                path: '/docs/inventor-reference/blocks/flow-control/folder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/folder', '8fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/is-user-collaborator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/is-user-collaborator', '5c0'),
+                path: '/docs/inventor-reference/blocks/flow-control/if-statement',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/if-statement', 'f0a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/flow-control/sleep',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/flow-control/sleep', 'e3d'),
+                path: '/docs/inventor-reference/blocks/flow-control/is-user-collaborator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/is-user-collaborator', 'bb8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/global-variables/create-or-update-global-variable', '112'),
+                path: '/docs/inventor-reference/blocks/flow-control/sleep',
+                component: ComponentCreator('/docs/inventor-reference/blocks/flow-control/sleep', '2dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/global-variables/delete-global-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/global-variables/delete-global-variable', '254'),
+                path: '/docs/inventor-reference/blocks/global-variables/create-or-update-global-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/global-variables/create-or-update-global-variable', 'f5b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/global-variables/get-global-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/global-variables/get-global-variable', '92f'),
+                path: '/docs/inventor-reference/blocks/global-variables/delete-global-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/global-variables/delete-global-variable', 'c5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/global-variables/get-global-variables',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/global-variables/get-global-variables', '665'),
+                path: '/docs/inventor-reference/blocks/global-variables/get-global-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/global-variables/get-global-variable', '8cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/global-variables/global-variable-search',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/global-variables/global-variable-search', '84d'),
+                path: '/docs/inventor-reference/blocks/global-variables/get-global-variables',
+                component: ComponentCreator('/docs/inventor-reference/blocks/global-variables/get-global-variables', 'a25'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/global-variables/increment-or-decrement-global-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/global-variables/increment-or-decrement-global-variable', '0b2'),
+                path: '/docs/inventor-reference/blocks/global-variables/global-variable-search',
+                component: ComponentCreator('/docs/inventor-reference/blocks/global-variables/global-variable-search', 'd8d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/ifttt-trigger',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/ifttt-trigger', 'ee1'),
+                path: '/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable', '65d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/add-option-to-autocomplete-response-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/add-option-to-autocomplete-response-builder', '1fb'),
+                path: '/docs/inventor-reference/blocks/ifttt-trigger',
+                component: ComponentCreator('/docs/inventor-reference/blocks/ifttt-trigger', '230'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/autocomplete-response-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/autocomplete-response-builder', 'f81'),
+                path: '/docs/inventor-reference/blocks/interactions/add-option-to-autocomplete-response-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/add-option-to-autocomplete-response-builder', '703'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/autocomplete-response-interaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/autocomplete-response-interaction', '712'),
+                path: '/docs/inventor-reference/blocks/interactions/autocomplete-response-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/autocomplete-response-builder', 'bff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/defer-component-interaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/defer-component-interaction', '608'),
+                path: '/docs/inventor-reference/blocks/interactions/autocomplete-response-interaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/autocomplete-response-interaction', '4bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/defer-interaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/defer-interaction', '203'),
+                path: '/docs/inventor-reference/blocks/interactions/defer-component-interaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/defer-component-interaction', 'bcb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/embed-reply-to-interaction', '529'),
+                path: '/docs/inventor-reference/blocks/interactions/defer-interaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/defer-interaction', 'ad2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/get-interaction-message-data',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/get-interaction-message-data', '471'),
+                path: '/docs/inventor-reference/blocks/interactions/embed-reply-to-interaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/embed-reply-to-interaction', 'fc6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/modal-reply-to-interaction', '532'),
+                path: '/docs/inventor-reference/blocks/interactions/get-interaction-message-data',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/get-interaction-message-data', '01d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/interactions/text-reply-to-interaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/interactions/text-reply-to-interaction', 'dce'),
+                path: '/docs/inventor-reference/blocks/interactions/modal-reply-to-interaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/modal-reply-to-interaction', '179'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/invites/create-invite',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/invites/create-invite', 'a18'),
+                path: '/docs/inventor-reference/blocks/interactions/text-reply-to-interaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/interactions/text-reply-to-interaction', '62c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/invites/delete-invite',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/invites/delete-invite', '3bc'),
+                path: '/docs/inventor-reference/blocks/invites/create-invite',
+                component: ComponentCreator('/docs/inventor-reference/blocks/invites/create-invite', '418'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/invites/get-invite',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/invites/get-invite', '34c'),
+                path: '/docs/inventor-reference/blocks/invites/delete-invite',
+                component: ComponentCreator('/docs/inventor-reference/blocks/invites/delete-invite', '060'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/invites/get-invites',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/invites/get-invites', '2b8'),
+                path: '/docs/inventor-reference/blocks/invites/get-invite',
+                component: ComponentCreator('/docs/inventor-reference/blocks/invites/get-invite', 'ad1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/local-variables/append-new-line-to-local-variable', 'a13'),
+                path: '/docs/inventor-reference/blocks/invites/get-invites',
+                component: ComponentCreator('/docs/inventor-reference/blocks/invites/get-invites', '42c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/local-variables/create-local-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/local-variables/create-local-variable', '847'),
+                path: '/docs/inventor-reference/blocks/local-variables/append-new-line-to-local-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/local-variables/append-new-line-to-local-variable', '4a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/local-variables/increment-or-decrement-local-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/local-variables/increment-or-decrement-local-variable', '8db'),
+                path: '/docs/inventor-reference/blocks/local-variables/create-local-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/local-variables/create-local-variable', 'a7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/local-variables/update-local-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/local-variables/update-local-variable', 'ce5'),
+                path: '/docs/inventor-reference/blocks/local-variables/increment-or-decrement-local-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/local-variables/increment-or-decrement-local-variable', '03c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/absolute-value',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/absolute-value', '9e1'),
+                path: '/docs/inventor-reference/blocks/local-variables/update-local-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/local-variables/update-local-variable', 'bc6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/factorial',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/factorial', '5bf'),
+                path: '/docs/inventor-reference/blocks/math/absolute-value',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/absolute-value', '247'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/format-number',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/format-number', '8e5'),
+                path: '/docs/inventor-reference/blocks/math/factorial',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/factorial', 'c6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/if-number-is-close-to-other-number',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/if-number-is-close-to-other-number', 'e19'),
+                path: '/docs/inventor-reference/blocks/math/format-number',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/format-number', '780'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/logarithm',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/logarithm', '2f6'),
+                path: '/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number', 'c48'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/math-operations',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/math-operations', 'de8'),
+                path: '/docs/inventor-reference/blocks/math/logarithm',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/logarithm', '148'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/math-operations-(float)',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/math-operations-(float)', '2d2'),
+                path: '/docs/inventor-reference/blocks/math/math-operations',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/math-operations', '9d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/random-number-generator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/random-number-generator', 'dda'),
+                path: '/docs/inventor-reference/blocks/math/math-operations-(float)',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/math-operations-(float)', '27f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/rounding-(ceil)',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/rounding-(ceil)', '5f0'),
+                path: '/docs/inventor-reference/blocks/math/random-number-generator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/random-number-generator', '39f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/rounding-(floor)',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/rounding-(floor)', '465'),
+                path: '/docs/inventor-reference/blocks/math/rounding-(ceil)',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/rounding-(ceil)', '394'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/rounding-(round)',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/rounding-(round)', '1b4'),
+                path: '/docs/inventor-reference/blocks/math/rounding-(floor)',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/rounding-(floor)', 'd84'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/square-root',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/square-root', 'f4e'),
+                path: '/docs/inventor-reference/blocks/math/rounding-(round)',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/rounding-(round)', '201'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/math/truncate-float',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/math/truncate-float', '76f'),
+                path: '/docs/inventor-reference/blocks/math/square-root',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/square-root', '547'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/add-button-to-embed-button-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/add-button-to-embed-button-builder', '604'),
+                path: '/docs/inventor-reference/blocks/math/truncate-float',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/truncate-float', '9fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/add-field-to-embed-field-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/add-field-to-embed-field-builder', '18b'),
+                path: '/docs/inventor-reference/blocks/messages/add-button-to-embed-button-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/add-button-to-embed-button-builder', '11a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/add-option-to-dropdown-builder', 'b39'),
+                path: '/docs/inventor-reference/blocks/messages/add-field-to-embed-field-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/add-field-to-embed-field-builder', '8af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/bulk-purge-messages',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/bulk-purge-messages', 'f1a'),
+                path: '/docs/inventor-reference/blocks/messages/add-option-to-dropdown-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/add-option-to-dropdown-builder', 'd0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/delete-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/delete-message', '5d8'),
+                path: '/docs/inventor-reference/blocks/messages/bulk-purge-messages',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/bulk-purge-messages', 'eca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/embed-button-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/embed-button-builder', 'e2b'),
+                path: '/docs/inventor-reference/blocks/messages/delete-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/delete-message', 'b44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/embed-dropdown-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/embed-dropdown-builder', '9ac'),
+                path: '/docs/inventor-reference/blocks/messages/embed-button-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/embed-button-builder', 'a21'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/embed-field-builder',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/embed-field-builder', '5db'),
+                path: '/docs/inventor-reference/blocks/messages/embed-dropdown-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/embed-dropdown-builder', '07e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/get-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/get-message', 'a6d'),
+                path: '/docs/inventor-reference/blocks/messages/embed-field-builder',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/embed-field-builder', 'c55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/get-messages',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/get-messages', '62f'),
+                path: '/docs/inventor-reference/blocks/messages/get-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/get-message', '744'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/get-pinned-messages',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/get-pinned-messages', '017'),
+                path: '/docs/inventor-reference/blocks/messages/get-messages',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/get-messages', '5fd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/pin-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/pin-message', '45a'),
+                path: '/docs/inventor-reference/blocks/messages/get-pinned-messages',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/get-pinned-messages', '8e4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/publish-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/publish-message', '939'),
+                path: '/docs/inventor-reference/blocks/messages/pin-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/pin-message', '1bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/send-or-edit-embed-message', '653'),
+                path: '/docs/inventor-reference/blocks/messages/publish-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/publish-message', '940'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/send-or-edit-text-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/send-or-edit-text-message', '6c9'),
+                path: '/docs/inventor-reference/blocks/messages/send-or-edit-embed-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/send-or-edit-embed-message', '024'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/send-tts-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/send-tts-message', '803'),
+                path: '/docs/inventor-reference/blocks/messages/send-or-edit-text-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/send-or-edit-text-message', '196'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/messages/unpin-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/messages/unpin-message', '443'),
+                path: '/docs/inventor-reference/blocks/messages/send-tts-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/send-tts-message', 'ffc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/escape-json-field',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/escape-json-field', '925'),
+                path: '/docs/inventor-reference/blocks/messages/unpin-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/messages/unpin-message', '6fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/format-json',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/format-json', 'b3e'),
+                path: '/docs/inventor-reference/blocks/network/escape-json-field',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/escape-json-field', '652'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/generate-form-body',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/generate-form-body', 'aee'),
+                path: '/docs/inventor-reference/blocks/network/format-json',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/format-json', '4f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/if-number-is-in-range',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/if-number-is-in-range', '553'),
+                path: '/docs/inventor-reference/blocks/network/generate-form-body',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/generate-form-body', '7b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/if-value-is-number',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/if-value-is-number', '73f'),
+                path: '/docs/inventor-reference/blocks/network/if-number-is-in-range',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/if-number-is-in-range', '6bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/parse-json',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/parse-json', 'ca7'),
+                path: '/docs/inventor-reference/blocks/network/if-value-is-number',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/if-value-is-number', '40b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/network/send-network-request',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/network/send-network-request', '83e'),
+                path: '/docs/inventor-reference/blocks/network/parse-json',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/parse-json', '5d0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/reactions/add-reaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/reactions/add-reaction', 'e13'),
+                path: '/docs/inventor-reference/blocks/network/send-network-request',
+                component: ComponentCreator('/docs/inventor-reference/blocks/network/send-network-request', '8ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/reactions/get-reactions',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/reactions/get-reactions', '90d'),
+                path: '/docs/inventor-reference/blocks/reactions/add-reaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/reactions/add-reaction', '63c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/reactions/get-reactions-count',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/reactions/get-reactions-count', '4d7'),
+                path: '/docs/inventor-reference/blocks/reactions/get-reactions',
+                component: ComponentCreator('/docs/inventor-reference/blocks/reactions/get-reactions', '57a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/reactions/remove-all-reactions',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/reactions/remove-all-reactions', 'b86'),
+                path: '/docs/inventor-reference/blocks/reactions/get-reactions-count',
+                component: ComponentCreator('/docs/inventor-reference/blocks/reactions/get-reactions-count', 'fe4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/reactions/remove-reaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/reactions/remove-reaction', 'b1a'),
+                path: '/docs/inventor-reference/blocks/reactions/remove-all-reactions',
+                component: ComponentCreator('/docs/inventor-reference/blocks/reactions/remove-all-reactions', 'e13'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/reactions/remove-user-reaction',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/reactions/remove-user-reaction', '075'),
+                path: '/docs/inventor-reference/blocks/reactions/remove-reaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/reactions/remove-reaction', '9b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/regex/regex-find-matches-iterator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/regex/regex-find-matches-iterator', '3da'),
+                path: '/docs/inventor-reference/blocks/reactions/remove-user-reaction',
+                component: ComponentCreator('/docs/inventor-reference/blocks/reactions/remove-user-reaction', '9fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/regex/regex-find-matches-list',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/regex/regex-find-matches-list', '18e'),
+                path: '/docs/inventor-reference/blocks/regex/regex-find-matches-iterator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/regex/regex-find-matches-iterator', 'e36'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/regex/regex-match',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/regex/regex-match', '339'),
+                path: '/docs/inventor-reference/blocks/regex/regex-find-matches-list',
+                component: ComponentCreator('/docs/inventor-reference/blocks/regex/regex-find-matches-list', '6f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/regex/regex-replace',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/regex/regex-replace', 'dcc'),
+                path: '/docs/inventor-reference/blocks/regex/regex-match',
+                component: ComponentCreator('/docs/inventor-reference/blocks/regex/regex-match', 'c8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/assign-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/assign-role', '612'),
+                path: '/docs/inventor-reference/blocks/regex/regex-replace',
+                component: ComponentCreator('/docs/inventor-reference/blocks/regex/regex-replace', 'aaf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/create-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/create-role', '455'),
+                path: '/docs/inventor-reference/blocks/roles/assign-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/assign-role', '7ea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/delete-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/delete-role', '92b'),
+                path: '/docs/inventor-reference/blocks/roles/create-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/create-role', '7db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/get-@everyone-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/get-@everyone-role', '254'),
+                path: '/docs/inventor-reference/blocks/roles/delete-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/delete-role', '69e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/get-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/get-role', '589'),
+                path: '/docs/inventor-reference/blocks/roles/get-@everyone-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/get-@everyone-role', '23b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/get-roles',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/get-roles', '2fb'),
+                path: '/docs/inventor-reference/blocks/roles/get-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/get-role', 'cba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/remove-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/remove-role', '12c'),
+                path: '/docs/inventor-reference/blocks/roles/get-roles',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/get-roles', 'f3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/roles/update-role',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/roles/update-role', '799'),
+                path: '/docs/inventor-reference/blocks/roles/remove-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/remove-role', '3ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/scheduled-events/create-scheduled-event',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/scheduled-events/create-scheduled-event', '61c'),
+                path: '/docs/inventor-reference/blocks/roles/update-role',
+                component: ComponentCreator('/docs/inventor-reference/blocks/roles/update-role', 'ae3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/scheduled-events/delete-scheduled-event',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/scheduled-events/delete-scheduled-event', '053'),
+                path: '/docs/inventor-reference/blocks/scheduled-events/create-scheduled-event',
+                component: ComponentCreator('/docs/inventor-reference/blocks/scheduled-events/create-scheduled-event', '7b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-event',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-event', '93c'),
+                path: '/docs/inventor-reference/blocks/scheduled-events/delete-scheduled-event',
+                component: ComponentCreator('/docs/inventor-reference/blocks/scheduled-events/delete-scheduled-event', '390'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-events',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/scheduled-events/get-scheduled-events', 'f54'),
+                path: '/docs/inventor-reference/blocks/scheduled-events/get-scheduled-event',
+                component: ComponentCreator('/docs/inventor-reference/blocks/scheduled-events/get-scheduled-event', 'd37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/scheduled-events/modify-scheduled-event', '75b'),
+                path: '/docs/inventor-reference/blocks/scheduled-events/get-scheduled-events',
+                component: ComponentCreator('/docs/inventor-reference/blocks/scheduled-events/get-scheduled-events', '956'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/get-server',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/get-server', 'afb'),
+                path: '/docs/inventor-reference/blocks/scheduled-events/modify-scheduled-event',
+                component: ComponentCreator('/docs/inventor-reference/blocks/scheduled-events/modify-scheduled-event', 'fe8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/get-server-bans',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/get-server-bans', 'be1'),
+                path: '/docs/inventor-reference/blocks/servers/get-server',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-server', '5e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/get-server-count',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/get-server-count', '7a9'),
+                path: '/docs/inventor-reference/blocks/servers/get-server-bans',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-server-bans', 'a4d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/get-server-members',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/get-server-members', '0a8'),
+                path: '/docs/inventor-reference/blocks/servers/get-server-count',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-server-count', 'e69'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/get-servers',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/get-servers', '9f3'),
+                path: '/docs/inventor-reference/blocks/servers/get-server-members',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-server-members', '346'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/leave-server',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/leave-server', '7f2'),
+                path: '/docs/inventor-reference/blocks/servers/get-servers',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-servers', '565'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/servers/update-server',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/servers/update-server', '267'),
+                path: '/docs/inventor-reference/blocks/servers/leave-server',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/leave-server', 'dab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/base64-decode',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/base64-decode', 'f7e'),
+                path: '/docs/inventor-reference/blocks/servers/update-server',
+                component: ComponentCreator('/docs/inventor-reference/blocks/servers/update-server', '598'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/base64-encode',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/base64-encode', '1b9'),
+                path: '/docs/inventor-reference/blocks/strings/base64-decode',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/base64-decode', 'adf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/bcrypt-compare-hash',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/bcrypt-compare-hash', '668'),
+                path: '/docs/inventor-reference/blocks/strings/base64-encode',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/base64-encode', '7e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/bcrypt-hash-string',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/bcrypt-hash-string', '4b6'),
+                path: '/docs/inventor-reference/blocks/strings/bcrypt-compare-hash',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/bcrypt-compare-hash', 'c88'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/convert-html-to-markdown',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/convert-html-to-markdown', '040'),
+                path: '/docs/inventor-reference/blocks/strings/bcrypt-hash-string',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/bcrypt-hash-string', '892'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/generate-uuidv7',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/generate-uuidv7', '672'),
+                path: '/docs/inventor-reference/blocks/strings/convert-html-to-markdown',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/convert-html-to-markdown', '379'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/hex-to-int',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/hex-to-int', 'e16'),
+                path: '/docs/inventor-reference/blocks/strings/generate-uuidv7',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/generate-uuidv7', '0ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/int-to-hex',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/int-to-hex', '8d5'),
+                path: '/docs/inventor-reference/blocks/strings/hex-to-int',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/hex-to-int', '862'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/md5-hash',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/md5-hash', 'b17'),
+                path: '/docs/inventor-reference/blocks/strings/int-to-hex',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/int-to-hex', '42e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/parse-color',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/parse-color', '19f'),
+                path: '/docs/inventor-reference/blocks/strings/md5-hash',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/md5-hash', 'd76'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/passphrase-generator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/passphrase-generator', 'ada'),
+                path: '/docs/inventor-reference/blocks/strings/parse-color',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/parse-color', '1f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/remove-line-from-local-variable', '430'),
+                path: '/docs/inventor-reference/blocks/strings/passphrase-generator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/passphrase-generator', '359'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/sort-lines-by-number-prefix-or-suffix',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/sort-lines-by-number-prefix-or-suffix', '6a9'),
+                path: '/docs/inventor-reference/blocks/strings/remove-line-from-local-variable',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/remove-line-from-local-variable', '66b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/split-string-iterator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/split-string-iterator', '7d1'),
+                path: '/docs/inventor-reference/blocks/strings/sort-lines-by-number-prefix-or-suffix',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/sort-lines-by-number-prefix-or-suffix', 'c76'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/split-string-iterator-(randomized)',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/split-string-iterator-(randomized)', '814'),
+                path: '/docs/inventor-reference/blocks/strings/split-string-iterator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/split-string-iterator', '188'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-contains-count',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-contains-count', 'd64'),
+                path: '/docs/inventor-reference/blocks/strings/split-string-iterator-(randomized)',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/split-string-iterator-(randomized)', '727'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-length',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-length', '0ff'),
+                path: '/docs/inventor-reference/blocks/strings/string-contains-count',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-contains-count', 'eba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-replace',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-replace', '0fd'),
+                path: '/docs/inventor-reference/blocks/strings/string-length',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-length', '1f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-split-list',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-split-list', '98e'),
+                path: '/docs/inventor-reference/blocks/strings/string-replace',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-replace', '003'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-to-lowercase',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-to-lowercase', '37e'),
+                path: '/docs/inventor-reference/blocks/strings/string-split-list',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-split-list', '9fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-to-uppercase',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-to-uppercase', '607'),
+                path: '/docs/inventor-reference/blocks/strings/string-to-lowercase',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-to-lowercase', 'a76'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-trim-prefix',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-trim-prefix', 'bc0'),
+                path: '/docs/inventor-reference/blocks/strings/string-to-uppercase',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-to-uppercase', 'aac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/string-trim-suffix',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/string-trim-suffix', '33a'),
+                path: '/docs/inventor-reference/blocks/strings/string-trim-prefix',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-trim-prefix', 'f46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/truncate-split-string-iterator',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/truncate-split-string-iterator', 'e0b'),
+                path: '/docs/inventor-reference/blocks/strings/string-trim-suffix',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/string-trim-suffix', '89e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/truncate-split-string-list',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/truncate-split-string-list', 'f4e'),
+                path: '/docs/inventor-reference/blocks/strings/truncate-split-string-iterator',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/truncate-split-string-iterator', 'be5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/truncate-string',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/truncate-string', '6f5'),
+                path: '/docs/inventor-reference/blocks/strings/truncate-split-string-list',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/truncate-split-string-list', '993'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/url-query-escape',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/url-query-escape', 'bc5'),
+                path: '/docs/inventor-reference/blocks/strings/truncate-string',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/truncate-string', 'd5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/url-query-unescape',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/url-query-unescape', '6c9'),
+                path: '/docs/inventor-reference/blocks/strings/url-query-escape',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/url-query-escape', '4ec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/strings/verify-hmac',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/strings/verify-hmac', '8f2'),
+                path: '/docs/inventor-reference/blocks/strings/url-query-unescape',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/url-query-unescape', 'cd4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/add-thread-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/add-thread-member', '8b6'),
+                path: '/docs/inventor-reference/blocks/strings/verify-hmac',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/verify-hmac', 'd4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/archive-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/archive-thread', '85f'),
+                path: '/docs/inventor-reference/blocks/threads/add-thread-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/add-thread-member', '625'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/create-forum-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/create-forum-thread', '065'),
+                path: '/docs/inventor-reference/blocks/threads/archive-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/archive-thread', '618'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/get-forum-thread-tags',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/get-forum-thread-tags', '7f2'),
+                path: '/docs/inventor-reference/blocks/threads/create-forum-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/create-forum-thread', 'da8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/join-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/join-thread', '79b'),
+                path: '/docs/inventor-reference/blocks/threads/get-forum-thread-tags',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/get-forum-thread-tags', 'f82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/leave-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/leave-thread', 'f85'),
+                path: '/docs/inventor-reference/blocks/threads/join-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/join-thread', 'd99'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/lock-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/lock-thread', '3dc'),
+                path: '/docs/inventor-reference/blocks/threads/leave-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/leave-thread', '6ad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/pin-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/pin-thread', '167'),
+                path: '/docs/inventor-reference/blocks/threads/lock-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/lock-thread', '60c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/remove-thread-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/remove-thread-member', '77a'),
+                path: '/docs/inventor-reference/blocks/threads/pin-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/pin-thread', '39d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/start-thread-from-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/start-thread-from-channel', '863'),
+                path: '/docs/inventor-reference/blocks/threads/remove-thread-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/remove-thread-member', '8e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/start-thread-from-message',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/start-thread-from-message', 'cb0'),
+                path: '/docs/inventor-reference/blocks/threads/start-thread-from-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/start-thread-from-channel', 'c88'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/unarchive-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/unarchive-thread', '5ba'),
+                path: '/docs/inventor-reference/blocks/threads/start-thread-from-message',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/start-thread-from-message', '89e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/unlock-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/unlock-thread', '4a4'),
+                path: '/docs/inventor-reference/blocks/threads/unarchive-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/unarchive-thread', '43b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/unpin-thread',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/unpin-thread', 'fa1'),
+                path: '/docs/inventor-reference/blocks/threads/unlock-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/unlock-thread', 'ea6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/threads/update-forum-thread-tags',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/threads/update-forum-thread-tags', '820'),
+                path: '/docs/inventor-reference/blocks/threads/unpin-thread',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/unpin-thread', 'b67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/get-current-date-and-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/get-current-date-and-time', '790'),
+                path: '/docs/inventor-reference/blocks/threads/update-forum-thread-tags',
+                component: ComponentCreator('/docs/inventor-reference/blocks/threads/update-forum-thread-tags', '1d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/get-snowflake-timestamp',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/get-snowflake-timestamp', 'bce'),
+                path: '/docs/inventor-reference/blocks/time/get-current-date-and-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/get-current-date-and-time', '8f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/get-specific-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/get-specific-time', '47c'),
+                path: '/docs/inventor-reference/blocks/time/get-snowflake-timestamp',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/get-snowflake-timestamp', '88f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/modify-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/modify-time', '699'),
+                path: '/docs/inventor-reference/blocks/time/get-specific-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/get-specific-time', '2dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/parse-date-and-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/parse-date-and-time', '726'),
+                path: '/docs/inventor-reference/blocks/time/modify-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/modify-time', '9d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/parse-month-name',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/parse-month-name', '7e8'),
+                path: '/docs/inventor-reference/blocks/time/parse-date-and-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/parse-date-and-time', '316'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/parse-relative-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/parse-relative-time', '9aa'),
+                path: '/docs/inventor-reference/blocks/time/parse-month-name',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/parse-month-name', '691'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/parse-unix-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/parse-unix-time', '98f'),
+                path: '/docs/inventor-reference/blocks/time/parse-relative-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/parse-relative-time', '15c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/standard-format-date-and-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/standard-format-date-and-time', '0bb'),
+                path: '/docs/inventor-reference/blocks/time/parse-unix-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/parse-unix-time', '2a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/time/truncate-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/time/truncate-time', '893'),
+                path: '/docs/inventor-reference/blocks/time/standard-format-date-and-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/standard-format-date-and-time', '8d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/ban-server-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/ban-server-member', '1c7'),
+                path: '/docs/inventor-reference/blocks/time/truncate-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/time/truncate-time', '118'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/change-member-nickname',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/change-member-nickname', '90b'),
+                path: '/docs/inventor-reference/blocks/users/ban-server-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/ban-server-member', '50c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/create-dm-channel',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/create-dm-channel', '3bb'),
+                path: '/docs/inventor-reference/blocks/users/change-member-nickname',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/change-member-nickname', '5e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/get-highest-role-position-of-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/get-highest-role-position-of-member', 'd0e'),
+                path: '/docs/inventor-reference/blocks/users/create-dm-channel',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/create-dm-channel', '2db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/get-server-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/get-server-member', '9d4'),
+                path: '/docs/inventor-reference/blocks/users/get-highest-role-position-of-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/get-highest-role-position-of-member', '3f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/get-user',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/get-user', 'e67'),
+                path: '/docs/inventor-reference/blocks/users/get-server-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/get-server-member', 'fe9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/kick-server-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/kick-server-member', 'f71'),
+                path: '/docs/inventor-reference/blocks/users/get-user',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/get-user', '162'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/timeout-server-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/timeout-server-member', 'a3c'),
+                path: '/docs/inventor-reference/blocks/users/kick-server-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/kick-server-member', '06d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/users/unban-server-member',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/users/unban-server-member', 'fc2'),
+                path: '/docs/inventor-reference/blocks/users/timeout-server-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/timeout-server-member', '1a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/change-bot-status',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/change-bot-status', 'fcd'),
+                path: '/docs/inventor-reference/blocks/users/unban-server-member',
+                component: ComponentCreator('/docs/inventor-reference/blocks/users/unban-server-member', '68a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/discord-api-ping',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/discord-api-ping', 'f89'),
+                path: '/docs/inventor-reference/blocks/utilities/change-bot-status',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/change-bot-status', 'bd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/exclude-from-analytics',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/exclude-from-analytics', '7f8'),
+                path: '/docs/inventor-reference/blocks/utilities/discord-api-ping',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/discord-api-ping', 'e46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/generate-uuidv4',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/generate-uuidv4', '579'),
+                path: '/docs/inventor-reference/blocks/utilities/exclude-from-analytics',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/exclude-from-analytics', 'b7c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/get-error-details',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/get-error-details', '4d5'),
+                path: '/docs/inventor-reference/blocks/utilities/generate-uuidv4',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/generate-uuidv4', '003'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/get-token',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/get-token', 'bc2'),
+                path: '/docs/inventor-reference/blocks/utilities/get-error-details',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-error-details', '44f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/get-uuidv7-creation-time',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/get-uuidv7-creation-time', '401'),
+                path: '/docs/inventor-reference/blocks/utilities/get-token',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-token', 'a40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/hex-to-int',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/hex-to-int', '8a3'),
+                path: '/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time', '595'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/log-error',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/log-error', 'a66'),
+                path: '/docs/inventor-reference/blocks/utilities/hex-to-int',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/hex-to-int', '759'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/loop',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/loop', '75b'),
+                path: '/docs/inventor-reference/blocks/utilities/log-error',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/log-error', 'd82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/realtime-log',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/realtime-log', 'd7a'),
+                path: '/docs/inventor-reference/blocks/utilities/loop',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/loop', '5e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/utilities/redact-secrets',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/utilities/redact-secrets', '645'),
+                path: '/docs/inventor-reference/blocks/utilities/realtime-log',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/realtime-log', '5a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/webhooks/create-webhook',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/webhooks/create-webhook', 'f56'),
+                path: '/docs/inventor-reference/blocks/utilities/redact-secrets',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/redact-secrets', 'ccc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/webhooks/delete-webhook',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/webhooks/delete-webhook', '46a'),
+                path: '/docs/inventor-reference/blocks/webhooks/create-webhook',
+                component: ComponentCreator('/docs/inventor-reference/blocks/webhooks/create-webhook', '629'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/webhooks/execute-webhook',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/webhooks/execute-webhook', 'a02'),
+                path: '/docs/inventor-reference/blocks/webhooks/delete-webhook',
+                component: ComponentCreator('/docs/inventor-reference/blocks/webhooks/delete-webhook', '08d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/webhooks/get-webhooks',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/webhooks/get-webhooks', '4de'),
+                path: '/docs/inventor-reference/blocks/webhooks/execute-webhook',
+                component: ComponentCreator('/docs/inventor-reference/blocks/webhooks/execute-webhook', 'ee7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Blocks/webhooks/modify-webhook',
-                component: ComponentCreator('/docs/inventor-reference/Blocks/webhooks/modify-webhook', 'e00'),
+                path: '/docs/inventor-reference/blocks/webhooks/get-webhooks',
+                component: ComponentCreator('/docs/inventor-reference/blocks/webhooks/get-webhooks', 'ecb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Formatting/',
-                component: ComponentCreator('/docs/inventor-reference/Formatting/', 'f40'),
+                path: '/docs/inventor-reference/blocks/webhooks/modify-webhook',
+                component: ComponentCreator('/docs/inventor-reference/blocks/webhooks/modify-webhook', '5c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Formatting/mention',
-                component: ComponentCreator('/docs/inventor-reference/Formatting/mention', '9d4'),
+                path: '/docs/inventor-reference/formatting/',
+                component: ComponentCreator('/docs/inventor-reference/formatting/', '491'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/botdash/botdash-dashboard-data',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/botdash/botdash-dashboard-data', 'cf0'),
+                path: '/docs/inventor-reference/formatting/mention',
+                component: ComponentCreator('/docs/inventor-reference/formatting/mention', 'd86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/botdash/botdash-form-submission',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/botdash/botdash-form-submission', '4c2'),
+                path: '/docs/inventor-reference/triggers/',
+                component: ComponentCreator('/docs/inventor-reference/triggers/', '767'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/channels/channel-created',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/channels/channel-created', 'f86'),
+                path: '/docs/inventor-reference/triggers/botdash/botdash-dashboard-data',
+                component: ComponentCreator('/docs/inventor-reference/triggers/botdash/botdash-dashboard-data', 'f7c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/channels/channel-delete',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/channels/channel-delete', 'b32'),
+                path: '/docs/inventor-reference/triggers/botdash/botdash-form-submission',
+                component: ComponentCreator('/docs/inventor-reference/triggers/botdash/botdash-form-submission', 'bb1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/channels/channel-pins-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/channels/channel-pins-update', 'a46'),
+                path: '/docs/inventor-reference/triggers/channels/channel-created',
+                component: ComponentCreator('/docs/inventor-reference/triggers/channels/channel-created', 'e4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/channels/channel-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/channels/channel-update', '109'),
+                path: '/docs/inventor-reference/triggers/channels/channel-delete',
+                component: ComponentCreator('/docs/inventor-reference/triggers/channels/channel-delete', 'ece'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/channels/typing-start',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/channels/typing-start', '076'),
+                path: '/docs/inventor-reference/triggers/channels/channel-pins-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/channels/channel-pins-update', 'a79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/channels/voice-state-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/channels/voice-state-update', '158'),
+                path: '/docs/inventor-reference/triggers/channels/channel-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/channels/channel-update', 'b59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/external-services/ifttt',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/external-services/ifttt', '1ef'),
+                path: '/docs/inventor-reference/triggers/channels/typing-start',
+                component: ComponentCreator('/docs/inventor-reference/triggers/channels/typing-start', 'a96'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/external-services/incoming-webhook',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/external-services/incoming-webhook', '2d9'),
+                path: '/docs/inventor-reference/triggers/channels/voice-state-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/channels/voice-state-update', '305'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/external-services/new-rss-item',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/external-services/new-rss-item', '13f'),
+                path: '/docs/inventor-reference/triggers/external-services/ifttt',
+                component: ComponentCreator('/docs/inventor-reference/triggers/external-services/ifttt', 'dcf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/interactions/button-click',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/interactions/button-click', '931'),
+                path: '/docs/inventor-reference/triggers/external-services/incoming-webhook',
+                component: ComponentCreator('/docs/inventor-reference/triggers/external-services/incoming-webhook', 'c4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/interactions/context-menu',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/interactions/context-menu', 'b0e'),
+                path: '/docs/inventor-reference/triggers/external-services/new-rss-item',
+                component: ComponentCreator('/docs/inventor-reference/triggers/external-services/new-rss-item', '3bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/interactions/dropdown-select',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/interactions/dropdown-select', 'a89'),
+                path: '/docs/inventor-reference/triggers/interactions/button-click',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/button-click', 'a88'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/interactions/modal-submit',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/interactions/modal-submit', '74c'),
+                path: '/docs/inventor-reference/triggers/interactions/context-menu',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/context-menu', 'a2e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/interactions/slash-command',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/interactions/slash-command', 'de9'),
+                path: '/docs/inventor-reference/triggers/interactions/dropdown-select',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/dropdown-select', 'f6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/interactions/slash-command-autocomplete', '290'),
+                path: '/docs/inventor-reference/triggers/interactions/modal-submit',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/modal-submit', 'ed8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/invites/invite-created',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/invites/invite-created', '235'),
+                path: '/docs/inventor-reference/triggers/interactions/slash-command',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/slash-command', '287'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/invites/invite-deleted',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/invites/invite-deleted', '3ae'),
+                path: '/docs/inventor-reference/triggers/interactions/slash-command copy',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/slash-command copy', '015'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/members/member-ban',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/members/member-ban', '4e0'),
+                path: '/docs/inventor-reference/triggers/interactions/slash-command-autocomplete',
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/slash-command-autocomplete', '564'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/members/member-join',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/members/member-join', '0df'),
+                path: '/docs/inventor-reference/triggers/invites/invite-created',
+                component: ComponentCreator('/docs/inventor-reference/triggers/invites/invite-created', '1b8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/members/member-leave',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/members/member-leave', 'd55'),
+                path: '/docs/inventor-reference/triggers/invites/invite-deleted',
+                component: ComponentCreator('/docs/inventor-reference/triggers/invites/invite-deleted', 'fcc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/members/member-unban',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/members/member-unban', 'b9a'),
+                path: '/docs/inventor-reference/triggers/members/member-ban',
+                component: ComponentCreator('/docs/inventor-reference/triggers/members/member-ban', '955'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/members/member-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/members/member-update', '761'),
+                path: '/docs/inventor-reference/triggers/members/member-join',
+                component: ComponentCreator('/docs/inventor-reference/triggers/members/member-join', 'f24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/messages/message-delete-bulk',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/messages/message-delete-bulk', 'b97'),
+                path: '/docs/inventor-reference/triggers/members/member-leave',
+                component: ComponentCreator('/docs/inventor-reference/triggers/members/member-leave', 'c87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/messages/message-deleted',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/messages/message-deleted', '60d'),
+                path: '/docs/inventor-reference/triggers/members/member-unban',
+                component: ComponentCreator('/docs/inventor-reference/triggers/members/member-unban', '2a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/messages/message-edited',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/messages/message-edited', '9e4'),
+                path: '/docs/inventor-reference/triggers/members/member-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/members/member-update', '166'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/messages/message-edited-by-bot',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/messages/message-edited-by-bot', '1ac'),
+                path: '/docs/inventor-reference/triggers/messages/message-delete-bulk',
+                component: ComponentCreator('/docs/inventor-reference/triggers/messages/message-delete-bulk', '833'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/messages/message-sent',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/messages/message-sent', 'ee0'),
+                path: '/docs/inventor-reference/triggers/messages/message-deleted',
+                component: ComponentCreator('/docs/inventor-reference/triggers/messages/message-deleted', 'e08'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/messages/message-sent-by-bot',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/messages/message-sent-by-bot', '38e'),
+                path: '/docs/inventor-reference/triggers/messages/message-edited',
+                component: ComponentCreator('/docs/inventor-reference/triggers/messages/message-edited', 'e6f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/reactions/reaction-add',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/reactions/reaction-add', '434'),
+                path: '/docs/inventor-reference/triggers/messages/message-edited-by-bot',
+                component: ComponentCreator('/docs/inventor-reference/triggers/messages/message-edited-by-bot', 'e7b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/reactions/reaction-remove',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/reactions/reaction-remove', '05d'),
+                path: '/docs/inventor-reference/triggers/messages/message-sent',
+                component: ComponentCreator('/docs/inventor-reference/triggers/messages/message-sent', '10f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/reactions/reaction-remove-all',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/reactions/reaction-remove-all', '4a7'),
+                path: '/docs/inventor-reference/triggers/messages/message-sent-by-bot',
+                component: ComponentCreator('/docs/inventor-reference/triggers/messages/message-sent-by-bot', '5d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/roles/role-created',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/roles/role-created', 'bc9'),
+                path: '/docs/inventor-reference/triggers/reactions/reaction-add',
+                component: ComponentCreator('/docs/inventor-reference/triggers/reactions/reaction-add', 'e39'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/roles/role-delete',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/roles/role-delete', 'cfc'),
+                path: '/docs/inventor-reference/triggers/reactions/reaction-remove',
+                component: ComponentCreator('/docs/inventor-reference/triggers/reactions/reaction-remove', '7ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/roles/role-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/roles/role-update', '390'),
+                path: '/docs/inventor-reference/triggers/reactions/reaction-remove-all',
+                component: ComponentCreator('/docs/inventor-reference/triggers/reactions/reaction-remove-all', 'c87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-create',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-create', '64e'),
+                path: '/docs/inventor-reference/triggers/roles/role-created',
+                component: ComponentCreator('/docs/inventor-reference/triggers/roles/role-created', '633'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-delete',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-delete', 'f86'),
+                path: '/docs/inventor-reference/triggers/roles/role-delete',
+                component: ComponentCreator('/docs/inventor-reference/triggers/roles/role-delete', '7a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-update', '198'),
+                path: '/docs/inventor-reference/triggers/roles/role-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/roles/role-update', 'ba6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-add',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-add', '682'),
+                path: '/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-create',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-create', '068'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-events/guild-scheduled-event-user-remove', '087'),
+                path: '/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-delete',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-delete', 'e82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-15-minutes', '704'),
+                path: '/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-update', 'b41'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-30-minutes',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-30-minutes', '69a'),
+                path: '/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-user-add',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-user-add', '462'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-day',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-day', '21a'),
+                path: '/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-user-remove',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-user-remove', '9d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-hour',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-hour', '5ae'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-15-minutes',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-15-minutes', '637'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-minute',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-minute', 'b24'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-30-minutes',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-30-minutes', 'b4b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-month',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-month', '8bf'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-day',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-day', '641'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/scheduled-triggers/every-week',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/scheduled-triggers/every-week', '0a8'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-hour',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-hour', 'c78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/servers/audit-log-entry-created',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/servers/audit-log-entry-created', '520'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-minute',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-minute', '2cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/servers/server-joined',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/servers/server-joined', '11d'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-month',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-month', '509'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/servers/server-left',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/servers/server-left', '1f9'),
+                path: '/docs/inventor-reference/triggers/scheduled-triggers/every-week',
+                component: ComponentCreator('/docs/inventor-reference/triggers/scheduled-triggers/every-week', '590'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/servers/server-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/servers/server-update', '763'),
+                path: '/docs/inventor-reference/triggers/servers/audit-log-entry-created',
+                component: ComponentCreator('/docs/inventor-reference/triggers/servers/audit-log-entry-created', '918'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/servers/webhook-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/servers/webhook-update', 'a20'),
+                path: '/docs/inventor-reference/triggers/servers/server-joined',
+                component: ComponentCreator('/docs/inventor-reference/triggers/servers/server-joined', 'bba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/stage-instance/stage-instance-create',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/stage-instance/stage-instance-create', 'c2e'),
+                path: '/docs/inventor-reference/triggers/servers/server-left',
+                component: ComponentCreator('/docs/inventor-reference/triggers/servers/server-left', '77a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/stage-instance/stage-instance-delete',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/stage-instance/stage-instance-delete', '599'),
+                path: '/docs/inventor-reference/triggers/servers/server-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/servers/server-update', 'ee9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/stage-instance/stage-instance-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/stage-instance/stage-instance-update', '368'),
+                path: '/docs/inventor-reference/triggers/servers/webhook-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/servers/webhook-update', 'cd6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/threads/thread-created',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/threads/thread-created', '04a'),
+                path: '/docs/inventor-reference/triggers/stage-instance/stage-instance-create',
+                component: ComponentCreator('/docs/inventor-reference/triggers/stage-instance/stage-instance-create', 'e16'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/threads/thread-delete',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/threads/thread-delete', '346'),
+                path: '/docs/inventor-reference/triggers/stage-instance/stage-instance-delete',
+                component: ComponentCreator('/docs/inventor-reference/triggers/stage-instance/stage-instance-delete', '41f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/threads/thread-update',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/threads/thread-update', '274'),
+                path: '/docs/inventor-reference/triggers/stage-instance/stage-instance-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/stage-instance/stage-instance-update', 'd98'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Triggers/utilities/empty-trigger',
-                component: ComponentCreator('/docs/inventor-reference/Triggers/utilities/empty-trigger', '570'),
+                path: '/docs/inventor-reference/triggers/threads/thread-created',
+                component: ComponentCreator('/docs/inventor-reference/triggers/threads/thread-created', 'aec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/number/',
-                component: ComponentCreator('/docs/inventor-reference/Types/number/', 'a7c'),
+                path: '/docs/inventor-reference/triggers/threads/thread-delete',
+                component: ComponentCreator('/docs/inventor-reference/triggers/threads/thread-delete', '4be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/number/float',
-                component: ComponentCreator('/docs/inventor-reference/Types/number/float', '72e'),
+                path: '/docs/inventor-reference/triggers/threads/thread-update',
+                component: ComponentCreator('/docs/inventor-reference/triggers/threads/thread-update', 'd3c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/number/unix',
-                component: ComponentCreator('/docs/inventor-reference/Types/number/unix', 'ab1'),
+                path: '/docs/inventor-reference/triggers/utilities/empty-trigger',
+                component: ComponentCreator('/docs/inventor-reference/triggers/utilities/empty-trigger', '6f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/', '206'),
+                path: '/docs/inventor-reference/types/',
+                component: ComponentCreator('/docs/inventor-reference/types/', '93d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/boolean',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/boolean', 'c3c'),
+                path: '/docs/inventor-reference/types/number/',
+                component: ComponentCreator('/docs/inventor-reference/types/number/', 'd37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/json',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/json', 'aa1'),
+                path: '/docs/inventor-reference/types/number/float',
+                component: ComponentCreator('/docs/inventor-reference/types/number/float', 'a9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/list',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/list', '843'),
+                path: '/docs/inventor-reference/types/number/unix',
+                component: ComponentCreator('/docs/inventor-reference/types/number/unix', '8ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/mention',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/mention', '7d7'),
+                path: '/docs/inventor-reference/types/string/',
+                component: ComponentCreator('/docs/inventor-reference/types/string/', '325'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/snowflake',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/snowflake', '5db'),
+                path: '/docs/inventor-reference/types/string/boolean',
+                component: ComponentCreator('/docs/inventor-reference/types/string/boolean', '962'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/Types/string/uuid',
-                component: ComponentCreator('/docs/inventor-reference/Types/string/uuid', '63b'),
+                path: '/docs/inventor-reference/types/string/json',
+                component: ComponentCreator('/docs/inventor-reference/types/string/json', '57f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/types/string/list',
+                component: ComponentCreator('/docs/inventor-reference/types/string/list', '47c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/types/string/mention',
+                component: ComponentCreator('/docs/inventor-reference/types/string/mention', '6bf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/types/string/snowflake',
+                component: ComponentCreator('/docs/inventor-reference/types/string/snowflake', 'cb9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/types/string/uuid',
+                component: ComponentCreator('/docs/inventor-reference/types/string/uuid', '8e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -1802,7 +1796,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2bc'),
+    component: ComponentCreator('/', 'e5f'),
     exact: true
   },
   {

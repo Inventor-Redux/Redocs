@@ -1,24 +1,26 @@
 {
-  "id": "inventor-reference/Blocks/math/math-operations",
+  "id": "inventor-reference/blocks/math/math-operations",
   "title": "Math Operations",
-  "description": "!!! warning \"Warning: This page is still under construction\"",
-  "source": "@site/docs/inventor-reference/Blocks/math/math-operations.md",
-  "sourceDirName": "inventor-reference/Blocks/math",
-  "slug": "/inventor-reference/Blocks/math/math-operations",
-  "permalink": "/docs/inventor-reference/Blocks/math/math-operations",
+  "description": "This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.",
+  "source": "@site/docs/inventor-reference/blocks/math/math-operations.md",
+  "sourceDirName": "inventor-reference/blocks/math",
+  "slug": "/inventor-reference/blocks/math/math-operations",
+  "permalink": "/docs/inventor-reference/blocks/math/math-operations",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/Blocks/math/math-operations.md",
+  "editUrl": "https://github.com/Inventor-Redux/Redocs/tree/main/docs/inventor-reference/blocks/math/math-operations.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Math Operations (Float)",
-    "permalink": "/docs/inventor-reference/Blocks/math/math-operations-(float)"
+    "permalink": "/docs/inventor-reference/blocks/math/math-operations-(float)"
   },
   "next": {
     "title": "Random Number Generator",
-    "permalink": "/docs/inventor-reference/Blocks/math/random-number-generator"
+    "permalink": "/docs/inventor-reference/blocks/math/random-number-generator"
   }
 }
