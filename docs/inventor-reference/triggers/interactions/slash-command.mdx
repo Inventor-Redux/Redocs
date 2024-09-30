@@ -12,44 +12,44 @@ Blocks with this trigger act as slash commands. You can set permissions required
 - [Integration Type](#integration-type-input)
 - [Command Options](#command-options-input)
 
-### Command Name \{command-name-input\}
+### Command Name \{#command-name-input\}
 The command name. This is what the user will type into the chat bar to run the command. This is inputted as a [string](/inventor-reference/types/string). E.g. `slash-command`
 
 :::warning
 This needs to be unique across the whole bot. Duplicate names without a different [Subcommand Name](#subcommand-name-input) will cause your bot to break.
 :::
 
-### Subcommand Name \{subcommand-name-input\}
+### Subcommand Name \{#subcommand-name-input\}
 The second part of a commands name. If you do not want to use a `-` to separate words in your command name, or if you want to group commands together, you can use the Subcommand Name to add a suffix to the command name. This is inputted as a [string](/inventor-reference/types/string). E.g. `slash-command run` ("`slash-command`" is the [Command Name](#command-name-input), and "`run`" is the Subcommand Name.)
 
-### Description \{description-input\}
+### Description \{#description-input\}
 The description of the command. This is displayed to the user when they have the name of the command typed into the chat bar. This is inputted as a [string](/inventor-reference/types/string) and will only show the first 100 characters. E.g. `This is a command description.`
 
 ![The Anatomy of a Slash Command](/docs/triggers/interactions/slash-command.png)
 
-### Permissions \{permissions-input\}
+### Permissions \{#permissions-input\}
 The permissions of a command allow you to choose what permissions are needed if this command is run in a server. The command will not show up for people without these permissions. Choose permissions from the dropdown, or hit the "X" to remove them. If you would like to choose specific roles, channels, or members, [this guide](https://discord.com/blog/slash-commands-permissions-discord-apps-bots) mentions how to.
 
-### Age Restricted \{age-restricted-input\}
+### Age Restricted \{#age-restricted-input\}
 This box **should always be checked if the slash command contains or retrieves NSFW content**. This will hide the command in any channels/servers that are not marked as NSFW.
 
-### Collaborator Only \{collaborator-only-input\}
+### Collaborator Only \{#collaborator-only-input\}
 When this box is checked, only users who are collaborators on the bot in Inventor are allowed to use the command. This is useful for debugging, administration, or unreleased features.
 
 :::warning
 Do not use this to make commands "Staff Only," or for some other restricted group. This is better done through the integrations tab ([learn how!](https://discord.com/blog/slash-commands-permissions-discord-apps-bots)), as granting too many people access to your bot is risky, as they can do anything with the bot. 
 :::
 
-### Command Availability \{command-availability-input\}
+### Command Availability \{#command-availability-input\}
 Use these checkboxes to pick where the command can be used.
 - Servers
 - Direct Messages
 - Group DMs
 
-### Integration Type \{integration-type-input\}
+### Integration Type \{#integration-type-input\}
 Choose whether this command is usable by users with it installed, servers with it installed, or both.
 
-### Command Options \{command-options-input\}
+### Command Options \{#command-options-input\}
 Command options are added on the Inventor dashboard and allow for custom inputs. There are multiple different input types, each with its own outputs.
 
 #### Text  \{#text-input\}
