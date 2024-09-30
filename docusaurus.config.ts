@@ -9,7 +9,7 @@ const config: Config = {
   
 
   // Set the production url of your site here
-  url: 'https://docs.redux.wtf',
+  url: 'https://redocs.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -41,21 +41,6 @@ const config: Config = {
           showLastUpdateTime: true,
           sidebarCollapsible: true,
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -65,7 +50,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "@site/static/img/Redocs Logo.svg",
+    image: "img/Redocs Logo.svg",
     docs:{
       sidebar:{
         hideable: true
