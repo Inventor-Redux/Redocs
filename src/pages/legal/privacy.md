@@ -42,6 +42,10 @@ You have the following rights regarding your personal data:
 - Right to restriction: You have the right to request that we restrict the processing of your personal data.
 - Right to object: You have the right to object to the processing of your personal data.
 
+## Ad Blockers
+
+We respect your right to use ad blockers on our website. We don't block or restrict access to our content based on ad blocker usage. However, some features or functionality may be affected.
+
 ## How do we keep your personal data secure?
 
 We take the security of your personal data seriously. We use appropriate technical and organizational measures to protect your personal data from unauthorized access, use, or disclosure.

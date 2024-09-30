@@ -151,7 +151,8 @@ const config: Config = {
       {
         apiKey: "phc_amrHDZ4ACBgPeo5gamWNGRuq9ZIExybkyxH5W7C72G6",
         appUrl: "https://eu.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
-        enableInDevelopment: false, // optional
+        enableInDevelopment: true, // optional,
+        persistence: 'memory'
       },
     ]
   ]
