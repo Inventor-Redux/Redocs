@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a98'),
+    component: ComponentCreator('/docs', '15e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b8b'),
+        component: ComponentCreator('/docs', '2c8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '205'),
+            component: ComponentCreator('/docs', '494'),
             routes: [
               {
                 path: '/docs/inventor-reference/',
@@ -1448,13 +1448,7 @@ export default [
               },
               {
                 path: '/docs/inventor-reference/triggers/interactions/slash-command',
-                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/slash-command', '287'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/inventor-reference/triggers/interactions/slash-command copy',
-                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/slash-command copy', '015'),
+                component: ComponentCreator('/docs/inventor-reference/triggers/interactions/slash-command', '4d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

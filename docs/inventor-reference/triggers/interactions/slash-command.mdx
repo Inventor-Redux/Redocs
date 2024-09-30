@@ -1,4 +1,14 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Slash Command
+
+:::warning Under Construction
+
+    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
+
+:::
+
 Blocks with this trigger act as slash commands. You can set permissions required to use any give command, or you can manually blacklist/allow channels, roles, or users by following [this guide].
 
 ## Inputs
@@ -43,9 +53,12 @@ The Debug Event ID corresponds with an event in the Analytics tab of Inventor. E
 The Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/get-error-details) block. E.g. `DoVpjqYs`
 
 ### Command Options
-!!! warning
+
+:::warning
+
     If a command option is not set as required, the user is not forced to enter it when running the slash command. If the user leaves the field blank, the output will not have a value and will instead be blank.
 
+:::
 #### Text
 
 This is allows the input of text during the usage of a slash command, as such it outputs a string of text which has the value of whatever the user inputted.
@@ -61,52 +74,65 @@ This is allows the input of a boolean during the usage of a slash command, as su
 #### User
 
 This is allows the input of a user during the usage of a slash command, as such it outputs the chosen user's name, user id, avatar url and mention. You can find example of these below
-=== "Name"
+<Tabs>
+    <TabItem label="Name" value='name'>
     ```
     _itsastro_
     ```
-=== "User ID"
+    </TabItem>
+    <TabItem label="User ID" value='user'>
     ```
     1272681088938147951
     ```
-=== "Avatar URL"
+    </TabItem>
+    <TabItem label="Avatar URL" value='avatar'>
     ```
     https://cdn.discordapp.com/avatars/1272681088938147951/899966d4b5d1ff4c9371760a6aff236e.png
     ```
-=== "Mention"
+    </TabItem>
+    <TabItem label="Mention" value='mention'>
     ```
     <@1272681088938147951>
     ```
+    </TabItem>
+</Tabs>
 #### Channel
 
 This is allows the input of a channel during the usage of a slash command, as such it outputs the chosen channels's name, channel id and mention. You can find example of these below
-=== "Name"
+<Tabs>
+    <TabItem label="Name" value='name'>
     ```
     General
     ```
-=== "Channel ID"
+    </TabItem>
+    <TabItem label="Channel ID" value='channel'>
     ```
     1252183491336994857
     ```
-=== "Mention"
+    </TabItem>
+    <TabItem label="Mention" value='mention'>
     ```
     <#1272681088938147951>
     ```
+    </TabItem>
+</Tabs>
 #### Role
 
 This is allows the input of a role during the usage of a slash command, as such it outputs the chosen role's name, role id and mention. You can find example of these below
-=== "Name"
+<Tabs>
+    <TabItem label="Name" value='name'>
     ```
     Admin
     ```
-=== "Role ID"
+    </TabItem>
+    <TabItem label="Channel ID" value='channel'>
     ```
     1252182151550472304
     ```
-=== "Mention"
+    </TabItem>
+    <TabItem label="Mention" value='mention'>
     ```
     <@&1252182151550472304>
     ```
-
-#### Mentionable
-asdfasdfasdfa
+    </TabItem>
+</Tabs>

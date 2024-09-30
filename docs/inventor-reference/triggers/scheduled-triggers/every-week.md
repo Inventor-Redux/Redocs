@@ -1,3 +1,7 @@
+---
+keywords: 
+    - weekly
+---
 # Every Week
 ## Summary
 Flows with this trigger will run every week.

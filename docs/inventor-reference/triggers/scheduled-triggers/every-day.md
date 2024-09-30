@@ -1,3 +1,8 @@
+---
+keywords: 
+    - daily
+    - cron
+---
 # Every Day
 ## Summary
 Flows with this trigger will run every 24 hours. It runs are 0:00 UTC. 
