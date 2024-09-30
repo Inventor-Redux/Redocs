@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Redocs',
   tagline: 'The Community-Driven Hub for All Things Inventor',
-  favicon: 'img/Redocs Logo.svg',
+  favicon: 'https://assets.redux.wtf/redocs/redocs.svg',
   
 
   // Set the production url of your site here
@@ -50,7 +50,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/Redocs Logo.svg",
+    image: "https://assets.redux.wtf/redocs/redocs.svg",
     docs:{
       sidebar:{
         hideable: true
@@ -69,7 +69,7 @@ const config: Config = {
       title: 'Redocs',
       logo: {
         alt: 'Redocs Logo White',
-        src: 'img/Redocs_Logo_White.png',
+        src: 'https://assets.redux.wtf/redocs/redocslight.png',
       },
       items: [
         {
@@ -98,13 +98,13 @@ const config: Config = {
           items: [
             {
               label: 'Blocks',
-              to: '/docs/inventor-reference/blocks/',
+              to: '/inventor-reference/blocks/',
             },{
               label: 'Triggers',
-              to: '/docs/inventor-reference/triggers/',
+              to: '/inventor-reference/triggers/',
             },{
               label: 'Types',
-              to: '/docs/inventor-reference/types/',
+              to: '/inventor-reference/types/',
             },
           ],
         },

@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Powered by You',
-    Svg: require('@site/static/img/icons8-github.svg').default,
+    Svg: 'https://assets.redux.wtf/redocs/github.svg',
     description: (
       <>
         Redocs is completely open source, which means you're in charge. And if you don't like something, you can change it - because you're the boss
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'The Search is Over',
-    Svg: require('@site/static/img/icons8-search.svg').default,
+    Svg: 'https://assets.redux.wtf/redocs/search.svg',
     description: (
       <>
         With Redocs' powerful search feature, you'll be so efficient in your searching that you'll have time to think about what to do next. Like, what's for lunch?
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Lost? Found!',
-    Svg: require('@site/static/img/graduation.svg').default,
+    Svg: 'https://assets.redux.wtf/redocs/graduation.svg',
     description: (
       <>
         Our guides are here to help you navigate the vast documentation. And if you get stuck, don't worry - we've got a map (and a guide, and a tutorial, and...) to help you find your way.
@@ -36,7 +36,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={Svg}></img>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
