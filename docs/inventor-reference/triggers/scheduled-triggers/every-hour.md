@@ -1,3 +1,8 @@
+---
+keywords: 
+    - cron
+    - hourly
+---
 # Every Hour
 ## Summary
 Flows with this trigger will run every 60 minutes.

@@ -1,3 +1,8 @@
+---
+keywords: 
+    - cron
+    - half hour
+---
 # Every 30 Minutes
 ## Summary
 Flows with this trigger will run every 30 minutes.

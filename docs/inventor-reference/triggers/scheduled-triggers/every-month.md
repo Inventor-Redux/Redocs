@@ -1,3 +1,8 @@
+---
+keywords: 
+    - cron
+    - monthly
+---
 # Every Month
 ## Summary
 Flows with this trigger will run every month.
