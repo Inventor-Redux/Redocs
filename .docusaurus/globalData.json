@@ -1176,11 +1176,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/triggers/interactions/slash-command copy",
-              "path": "/docs/inventor-reference/triggers/interactions/slash-command copy",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "inventor-reference/triggers/interactions/slash-command-autocomplete",
               "path": "/docs/inventor-reference/triggers/interactions/slash-command-autocomplete",
               "sidebar": "tutorialSidebar"

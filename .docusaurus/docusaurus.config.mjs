@@ -361,7 +361,7 @@ export default {
     }
   },
   "themes": [
-    "/home/astro/Documents/another backup/projects/Projects/redocs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js"
+    "/workspaces/Redocs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js"
   ],
   "baseUrlIssueBanner": true,
   "future": {
