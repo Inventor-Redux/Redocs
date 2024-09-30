@@ -126,11 +126,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Legal',
           items: [
             {
-              label: 'Inventor',
-              href: "https://inventor.gg"
+              label: 'Privacy Policy',
+              to: 'legal/privacy'
             },
           ],
         },
@@ -144,6 +144,16 @@ const config: Config = {
   } satisfies Preset.ThemeConfig,
   themes: [
     require.resolve("@easyops-cn/docusaurus-search-local"),
+  ],
+  plugins: [
+    [
+    "posthog-docusaurus",
+      {
+        apiKey: "phc_amrHDZ4ACBgPeo5gamWNGRuq9ZIExybkyxH5W7C72G6",
+        appUrl: "https://eu.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
+        enableInDevelopment: false, // optional
+      },
+    ]
   ]
 };
 
