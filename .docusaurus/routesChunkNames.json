@@ -48,17 +48,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-15e": {
+  "/docs-a18": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-2c8": {
+  "/docs-18c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-494": {
+  "/docs-98c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/inventor-reference/-a11": {
@@ -992,6 +992,10 @@
   "/docs/inventor-reference/triggers/interactions/slash-command-4d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-inventor-reference-triggers-interactions-slash-command-263-130"
+  },
+  "/docs/inventor-reference/triggers/interactions/slash-command copy-015": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-inventor-reference-triggers-interactions-slash-command-copyc-96-543"
   },
   "/docs/inventor-reference/triggers/interactions/slash-command-autocomplete-564": {
     "__comp": "__comp---theme-doc-item-178-a40",
