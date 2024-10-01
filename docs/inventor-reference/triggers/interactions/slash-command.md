@@ -105,7 +105,7 @@ The ID of the server that the slash command was triggered in, expressed as a [sn
 ### Channel ID {#channel-id-output}
 The ID of the channel that the slash command was used in, expressed as a [snowflake](/inventor-reference/types/number/snowflake). E.g. `1279419956571672577`
 :::note
-    This output is different from the [Channel](#channel-output)[Command Option](#command-options-output), which returns the channel that the user has input.
+    This output is different from the [Channel](#channel-output) [Command Option](#command-options-output), which returns the channel that the user has input.
 :::
 
 ### Executing User ID {#executing-user-id-output}
