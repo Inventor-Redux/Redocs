@@ -48,8 +48,9 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  
   themeConfig: {
+    metadate:[{name:"twitter:card", "content": "summary"}],
     image: "https://assets.redux.wtf/redocs/redocs.png",
     docs:{
       sidebar:{
