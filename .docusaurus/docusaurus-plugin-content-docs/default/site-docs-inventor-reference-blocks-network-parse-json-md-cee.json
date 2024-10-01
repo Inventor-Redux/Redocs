@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "If Value is Number",
-    "permalink": "/docs/inventor-reference/blocks/network/if-value-is-number"
+    "title": "Generate Form Body",
+    "permalink": "/docs/inventor-reference/blocks/network/generate-form-body"
   },
   "next": {
     "title": "Send Network Request",

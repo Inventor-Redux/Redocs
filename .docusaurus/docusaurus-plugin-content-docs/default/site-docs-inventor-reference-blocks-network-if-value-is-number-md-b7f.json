@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "If Number is in Range",
-    "permalink": "/docs/inventor-reference/blocks/network/if-number-is-in-range"
+    "title": "Generate Form Body",
+    "permalink": "/docs/inventor-reference/blocks/network/generate-form-body"
   },
   "next": {
     "title": "Parse JSON",

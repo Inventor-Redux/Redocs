@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/members/member-unban"
   },
   "next": {
-    "title": "Message Delete Bulk",
-    "permalink": "/docs/inventor-reference/triggers/messages/message-delete-bulk"
+    "title": "Role Created",
+    "permalink": "/docs/inventor-reference/triggers/roles/role-created"
   }
 }

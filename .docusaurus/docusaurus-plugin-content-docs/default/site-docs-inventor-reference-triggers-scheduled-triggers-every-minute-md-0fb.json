@@ -1,7 +1,7 @@
 {
   "id": "inventor-reference/triggers/scheduled-triggers/every-minute",
-  "title": "Every Minute",
-  "description": "Summary",
+  "title": "Every Minute Documentation",
+  "description": "Runs every minute.",
   "source": "@site/docs/inventor-reference/triggers/scheduled-triggers/every-minute.md",
   "sourceDirName": "inventor-reference/triggers/scheduled-triggers",
   "slug": "/inventor-reference/triggers/scheduled-triggers/every-minute",
@@ -13,19 +13,28 @@
   "version": "current",
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
   "frontMatter": {
+    "title": "Every Minute Documentation",
+    "sidebar_label": "Every Minute",
+    "sidebar_position": 1,
+    "hide_title": true,
     "keywords": [
+      "inventor.gg",
+      "redocs",
+      "documentation",
       "cron",
       "minutely"
-    ]
+    ],
+    "description": "Runs every minute."
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Every Hour",
-    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-hour"
+    "title": "New RSS Item",
+    "permalink": "/docs/inventor-reference/triggers/external-services/new-rss-item"
   },
   "next": {
-    "title": "Every Month",
-    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-month"
+    "title": "Every 15 Minutes",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-15-minutes"
   }
 }

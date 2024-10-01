@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Unban Server Member",
-    "permalink": "/docs/inventor-reference/blocks/users/unban-server-member"
+    "title": "Verify HMAC",
+    "permalink": "/docs/inventor-reference/blocks/strings/verify-hmac"
   },
   "next": {
     "title": "Discord API Ping",

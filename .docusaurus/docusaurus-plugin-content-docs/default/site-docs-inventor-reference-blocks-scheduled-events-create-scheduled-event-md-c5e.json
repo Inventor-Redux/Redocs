@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Update Role",
-    "permalink": "/docs/inventor-reference/blocks/roles/update-role"
+    "title": "Modify Emoji",
+    "permalink": "/docs/inventor-reference/blocks/emoji/modify-emoji"
   },
   "next": {
     "title": "Delete Scheduled Event",

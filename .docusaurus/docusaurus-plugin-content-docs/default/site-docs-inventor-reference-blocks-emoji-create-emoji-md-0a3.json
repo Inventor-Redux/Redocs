@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Update Row",
-    "permalink": "/docs/inventor-reference/blocks/databases/update-row"
+    "title": "Update Role",
+    "permalink": "/docs/inventor-reference/blocks/roles/update-role"
   },
   "next": {
     "title": "Delete Emoji",

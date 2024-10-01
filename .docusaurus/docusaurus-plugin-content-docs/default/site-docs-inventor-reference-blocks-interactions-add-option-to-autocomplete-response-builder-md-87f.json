@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "IFTTT Trigger",
-    "permalink": "/docs/inventor-reference/blocks/ifttt-trigger"
+    "title": "Sleep",
+    "permalink": "/docs/inventor-reference/blocks/flow-control/sleep"
   },
   "next": {
     "title": "Autocomplete Response Builder",

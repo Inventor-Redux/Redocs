@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Send Network Request",
-    "permalink": "/docs/inventor-reference/blocks/network/send-network-request"
+    "title": "Modify Webhook",
+    "permalink": "/docs/inventor-reference/blocks/webhooks/modify-webhook"
   },
   "next": {
     "title": "Get Reactions Count",

@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "New RSS Item",
-    "permalink": "/docs/inventor-reference/triggers/external-services/new-rss-item"
+    "title": "Triggers",
+    "permalink": "/docs/inventor-reference/triggers/"
   },
   "next": {
     "title": "Context Menu",

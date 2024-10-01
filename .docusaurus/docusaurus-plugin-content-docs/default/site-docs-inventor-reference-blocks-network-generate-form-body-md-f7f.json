@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/network/format-json"
   },
   "next": {
-    "title": "If Number is in Range",
-    "permalink": "/docs/inventor-reference/blocks/network/if-number-is-in-range"
+    "title": "Parse JSON",
+    "permalink": "/docs/inventor-reference/blocks/network/parse-json"
   }
 }

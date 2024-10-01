@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Regex Replace",
-    "permalink": "/docs/inventor-reference/blocks/regex/regex-replace"
+    "title": "Remove User Reaction",
+    "permalink": "/docs/inventor-reference/blocks/reactions/remove-user-reaction"
   },
   "next": {
     "title": "Create Role",

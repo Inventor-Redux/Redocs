@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Invites",
-    "permalink": "/docs/inventor-reference/blocks/invites/get-invites"
+    "title": "Increment or Decrement Global Variable",
+    "permalink": "/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable"
   },
   "next": {
     "title": "Create Local Variable",

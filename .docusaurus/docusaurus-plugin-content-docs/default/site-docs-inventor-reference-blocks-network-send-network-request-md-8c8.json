@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/network/parse-json"
   },
   "next": {
-    "title": "Add Reaction",
-    "permalink": "/docs/inventor-reference/blocks/reactions/add-reaction"
+    "title": "Create Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/create-row"
   }
 }

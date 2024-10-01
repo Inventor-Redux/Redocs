@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/utilities/discord-api-ping"
   },
   "next": {
-    "title": "Generate UUIDv4",
-    "permalink": "/docs/inventor-reference/blocks/utilities/generate-uuidv4"
+    "title": "Get Error Details",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-error-details"
   }
 }

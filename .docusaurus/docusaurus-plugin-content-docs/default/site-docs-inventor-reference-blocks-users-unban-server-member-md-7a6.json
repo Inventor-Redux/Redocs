@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/users/timeout-server-member"
   },
   "next": {
-    "title": "Change Bot Status",
-    "permalink": "/docs/inventor-reference/blocks/utilities/change-bot-status"
+    "title": "Get Server Bans",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-server-bans"
   }
 }

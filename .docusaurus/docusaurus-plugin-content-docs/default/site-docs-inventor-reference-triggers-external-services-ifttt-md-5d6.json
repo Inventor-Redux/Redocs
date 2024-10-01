@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Voice State Update",
-    "permalink": "/docs/inventor-reference/triggers/channels/voice-state-update"
+    "title": "Guild Scheduled Event User Remove",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-user-remove"
   },
   "next": {
     "title": "Incoming Webhook",

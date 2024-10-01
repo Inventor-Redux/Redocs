@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/local-variables/increment-or-decrement-local-variable"
   },
   "next": {
-    "title": "Absolute Value",
-    "permalink": "/docs/inventor-reference/blocks/math/absolute-value"
+    "title": "Escape JSON Field",
+    "permalink": "/docs/inventor-reference/blocks/network/escape-json-field"
   }
 }

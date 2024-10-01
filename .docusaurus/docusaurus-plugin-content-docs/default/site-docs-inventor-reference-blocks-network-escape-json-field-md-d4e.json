@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Unpin Message",
-    "permalink": "/docs/inventor-reference/blocks/messages/unpin-message"
+    "title": "Update Local Variable",
+    "permalink": "/docs/inventor-reference/blocks/local-variables/update-local-variable"
   },
   "next": {
     "title": "Format JSON",

@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Generate UUIDv7",
-    "permalink": "/docs/inventor-reference/blocks/strings/generate-uuidv7"
+    "title": "Get UUIDv7 Creation Time",
+    "permalink": "/docs/inventor-reference/blocks/strings/get-uuidv7-creation-time"
   },
   "next": {
     "title": "Int to Hex",

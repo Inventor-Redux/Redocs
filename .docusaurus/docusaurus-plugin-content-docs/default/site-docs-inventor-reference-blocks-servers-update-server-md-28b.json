@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/servers/leave-server"
   },
   "next": {
-    "title": "Base64 Decode",
-    "permalink": "/docs/inventor-reference/blocks/strings/base64-decode"
+    "title": "Create Channel",
+    "permalink": "/docs/inventor-reference/blocks/channels/create-channel"
   }
 }

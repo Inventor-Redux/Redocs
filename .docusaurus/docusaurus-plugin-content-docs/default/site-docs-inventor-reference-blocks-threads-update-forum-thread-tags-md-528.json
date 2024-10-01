@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/threads/unpin-thread"
   },
   "next": {
-    "title": "Get Current Date and Time",
-    "permalink": "/docs/inventor-reference/blocks/time/get-current-date-and-time"
+    "title": "Create Webhook",
+    "permalink": "/docs/inventor-reference/blocks/webhooks/create-webhook"
   }
 }

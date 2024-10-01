@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/channels/move-member-to-voice-channel"
   },
   "next": {
-    "title": "Custom Block",
-    "permalink": "/docs/inventor-reference/blocks/custom-block"
+    "title": "Create Invite",
+    "permalink": "/docs/inventor-reference/blocks/invites/create-invite"
   }
 }

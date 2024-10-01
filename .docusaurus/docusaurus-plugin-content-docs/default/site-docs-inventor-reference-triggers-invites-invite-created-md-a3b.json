@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Slash Command",
-    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command"
+    "title": "Role Update",
+    "permalink": "/docs/inventor-reference/triggers/roles/role-update"
   },
   "next": {
     "title": "Invite Deleted",

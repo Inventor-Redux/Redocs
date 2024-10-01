@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Blocks",
-    "permalink": "/docs/inventor-reference/blocks/"
+    "title": "Update Server",
+    "permalink": "/docs/inventor-reference/blocks/servers/update-server"
   },
   "next": {
     "title": "Delete Channel Permission",

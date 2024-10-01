@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Stage Instance Update",
-    "permalink": "/docs/inventor-reference/triggers/stage-instance/stage-instance-update"
+    "title": "Webhook Update",
+    "permalink": "/docs/inventor-reference/triggers/servers/webhook-update"
   },
   "next": {
     "title": "Thread Delete",

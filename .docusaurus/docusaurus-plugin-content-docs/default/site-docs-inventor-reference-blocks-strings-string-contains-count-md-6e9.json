@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/strings/split-string-iterator"
   },
   "next": {
-    "title": "String Length",
-    "permalink": "/docs/inventor-reference/blocks/strings/string-length"
+    "title": "String Replace",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-replace"
   }
 }

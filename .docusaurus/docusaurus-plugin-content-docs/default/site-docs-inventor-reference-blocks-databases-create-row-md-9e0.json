@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Custom Block",
-    "permalink": "/docs/inventor-reference/blocks/custom-block"
+    "title": "Send Network Request",
+    "permalink": "/docs/inventor-reference/blocks/network/send-network-request"
   },
   "next": {
     "title": "Delete Row",

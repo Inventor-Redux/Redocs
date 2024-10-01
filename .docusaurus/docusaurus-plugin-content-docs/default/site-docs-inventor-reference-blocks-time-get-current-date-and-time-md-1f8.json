@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Update Forum Thread Tags",
-    "permalink": "/docs/inventor-reference/blocks/threads/update-forum-thread-tags"
+    "title": "Modify Scheduled Event",
+    "permalink": "/docs/inventor-reference/blocks/scheduled-events/modify-scheduled-event"
   },
   "next": {
     "title": "Get Snowflake Timestamp",

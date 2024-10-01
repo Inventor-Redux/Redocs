@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Server Count",
-    "permalink": "/docs/inventor-reference/blocks/servers/get-server-count"
+    "title": "Get Server Bans",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-server-bans"
   },
   "next": {
     "title": "Get Server",

@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "String Length",
-    "permalink": "/docs/inventor-reference/blocks/strings/string-length"
+    "title": "String Contains Count",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-contains-count"
   },
   "next": {
     "title": "String Split List",

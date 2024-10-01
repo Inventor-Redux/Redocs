@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/messages/message-sent-by-bot"
   },
   "next": {
-    "title": "Reaction Add",
-    "permalink": "/docs/inventor-reference/triggers/reactions/reaction-add"
+    "title": "Channel Created",
+    "permalink": "/docs/inventor-reference/triggers/channels/channel-created"
   }
 }

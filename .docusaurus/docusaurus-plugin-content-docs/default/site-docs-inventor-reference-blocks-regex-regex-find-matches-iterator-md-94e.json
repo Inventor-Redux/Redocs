@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Remove User Reaction",
-    "permalink": "/docs/inventor-reference/blocks/reactions/remove-user-reaction"
+    "title": "Truncate Float",
+    "permalink": "/docs/inventor-reference/blocks/math/truncate-float"
   },
   "next": {
     "title": "Regex Find Matches List",

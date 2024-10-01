@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Member Update",
-    "permalink": "/docs/inventor-reference/triggers/members/member-update"
+    "title": "Slash Command",
+    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command"
   },
   "next": {
     "title": "Message Deleted",

@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/channels/typing-start"
   },
   "next": {
-    "title": "IFTTT",
-    "permalink": "/docs/inventor-reference/triggers/external-services/ifttt"
+    "title": "Audit Log Entry Created",
+    "permalink": "/docs/inventor-reference/triggers/servers/audit-log-entry-created"
   }
 }

@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Text Reply to Interaction",
-    "permalink": "/docs/inventor-reference/blocks/interactions/text-reply-to-interaction"
+    "title": "Trigger Typing Indicator",
+    "permalink": "/docs/inventor-reference/blocks/channels/trigger-typing-indicator"
   },
   "next": {
     "title": "Delete Invite",

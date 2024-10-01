@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Error Details",
-    "permalink": "/docs/inventor-reference/blocks/utilities/get-error-details"
+    "title": "Get Server Count",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-server-count"
   },
   "next": {
-    "title": "Get UUIDv7 Creation Time",
-    "permalink": "/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time"
+    "title": "Hex to Int",
+    "permalink": "/docs/inventor-reference/blocks/utilities/hex-to-int"
   }
 }

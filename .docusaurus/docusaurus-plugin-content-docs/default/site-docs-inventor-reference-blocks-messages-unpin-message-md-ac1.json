@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/messages/send-tts-message"
   },
   "next": {
-    "title": "Escape JSON Field",
-    "permalink": "/docs/inventor-reference/blocks/network/escape-json-field"
+    "title": "Ban Server Member",
+    "permalink": "/docs/inventor-reference/blocks/users/ban-server-member"
   }
 }

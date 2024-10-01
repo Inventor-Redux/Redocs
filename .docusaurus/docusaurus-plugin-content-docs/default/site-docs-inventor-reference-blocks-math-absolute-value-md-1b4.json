@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Update Local Variable",
-    "permalink": "/docs/inventor-reference/blocks/local-variables/update-local-variable"
+    "title": "Update Row",
+    "permalink": "/docs/inventor-reference/blocks/databases/update-row"
   },
   "next": {
     "title": "Factorial",

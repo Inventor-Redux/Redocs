@@ -246,8 +246,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/blocks/ifttt-trigger",
-              "path": "/docs/inventor-reference/blocks/ifttt-trigger",
+              "id": "inventor-reference/blocks/ifttt/ifttt-trigger",
+              "path": "/docs/inventor-reference/blocks/ifttt/ifttt-trigger",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -358,6 +358,16 @@
             {
               "id": "inventor-reference/blocks/math/if-number-is-close-to-other-number",
               "path": "/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/blocks/math/if-number-is-in-range",
+              "path": "/docs/inventor-reference/blocks/math/if-number-is-in-range",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/blocks/math/if-value-is-number",
+              "path": "/docs/inventor-reference/blocks/math/if-value-is-number",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -506,16 +516,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/blocks/network/if-number-is-in-range",
-              "path": "/docs/inventor-reference/blocks/network/if-number-is-in-range",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "inventor-reference/blocks/network/if-value-is-number",
-              "path": "/docs/inventor-reference/blocks/network/if-value-is-number",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "inventor-reference/blocks/network/parse-json",
               "path": "/docs/inventor-reference/blocks/network/parse-json",
               "sidebar": "tutorialSidebar"
@@ -651,11 +651,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/blocks/servers/get-server-count",
-              "path": "/docs/inventor-reference/blocks/servers/get-server-count",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "inventor-reference/blocks/servers/get-server-members",
               "path": "/docs/inventor-reference/blocks/servers/get-server-members",
               "sidebar": "tutorialSidebar"
@@ -701,8 +696,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "inventor-reference/blocks/strings/generate-uuidv4",
+              "path": "/docs/inventor-reference/blocks/strings/generate-uuidv4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "inventor-reference/blocks/strings/generate-uuidv7",
               "path": "/docs/inventor-reference/blocks/strings/generate-uuidv7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inventor-reference/blocks/strings/get-uuidv7-creation-time",
+              "path": "/docs/inventor-reference/blocks/strings/get-uuidv7-creation-time",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1006,23 +1011,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/blocks/utilities/generate-uuidv4",
-              "path": "/docs/inventor-reference/blocks/utilities/generate-uuidv4",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "inventor-reference/blocks/utilities/get-error-details",
               "path": "/docs/inventor-reference/blocks/utilities/get-error-details",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/blocks/utilities/get-token",
-              "path": "/docs/inventor-reference/blocks/utilities/get-token",
+              "id": "inventor-reference/blocks/utilities/get-server-count",
+              "path": "/docs/inventor-reference/blocks/utilities/get-server-count",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "inventor-reference/blocks/utilities/get-uuidv7-creation-time",
-              "path": "/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time",
+              "id": "inventor-reference/blocks/utilities/get-token",
+              "path": "/docs/inventor-reference/blocks/utilities/get-token",
               "sidebar": "tutorialSidebar"
             },
             {

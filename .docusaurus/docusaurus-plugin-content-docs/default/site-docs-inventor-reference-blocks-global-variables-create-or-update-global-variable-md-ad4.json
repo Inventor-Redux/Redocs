@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sleep",
-    "permalink": "/docs/inventor-reference/blocks/flow-control/sleep"
+    "title": "Redact Secrets",
+    "permalink": "/docs/inventor-reference/blocks/utilities/redact-secrets"
   },
   "next": {
     "title": "Delete Global Variable",

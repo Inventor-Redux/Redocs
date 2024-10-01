@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/reactions/remove-reaction"
   },
   "next": {
-    "title": "Regex Find Matches Iterator",
-    "permalink": "/docs/inventor-reference/blocks/regex/regex-find-matches-iterator"
+    "title": "Assign Role",
+    "permalink": "/docs/inventor-reference/blocks/roles/assign-role"
   }
 }

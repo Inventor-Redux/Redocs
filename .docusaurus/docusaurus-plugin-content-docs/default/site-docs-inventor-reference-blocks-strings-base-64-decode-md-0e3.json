@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Update Server",
-    "permalink": "/docs/inventor-reference/blocks/servers/update-server"
+    "title": "String Length",
+    "permalink": "/docs/inventor-reference/blocks/strings/string-length"
   },
   "next": {
     "title": "Base64 Encode",

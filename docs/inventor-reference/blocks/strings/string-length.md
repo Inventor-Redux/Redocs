@@ -1,10 +1,23 @@
+---
+title: String Length Documentation
+sidebar_label: String Length
+sidebar_position: 3
+hide_title: true
+keywords: [inventor.gg, redocs, string, length, documentation]
+description: Get the length of a string.
+---
 # String Length
+## Summary
+Gets the length of a string
 
-:::warning Under Construction
+## Inputs
+- [String](#string-input)
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
-
-:::
-Get the length of a string.
-
-Coming Soon
+### String {#string-input}
+The string to check the length of, inputted as a [string](/inventor-reference/types/string). E.g. `Hello`
+___
+## Outputs
+- [Length](#length-output)
+___
+### Length {#length-output}
+The length of the inputted string, expressed as a [number](/inventor-reference/types/number/). E.g. `5`

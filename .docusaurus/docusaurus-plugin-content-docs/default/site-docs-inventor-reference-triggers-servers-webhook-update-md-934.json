@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/servers/server-update"
   },
   "next": {
-    "title": "Stage Instance Create",
-    "permalink": "/docs/inventor-reference/triggers/stage-instance/stage-instance-create"
+    "title": "Thread Created",
+    "permalink": "/docs/inventor-reference/triggers/threads/thread-created"
   }
 }

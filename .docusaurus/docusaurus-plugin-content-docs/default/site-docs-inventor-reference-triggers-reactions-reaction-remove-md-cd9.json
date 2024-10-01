@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/reactions/reaction-remove-all"
   },
   "next": {
-    "title": "Role Created",
-    "permalink": "/docs/inventor-reference/triggers/roles/role-created"
+    "title": "Stage Instance Create",
+    "permalink": "/docs/inventor-reference/triggers/stage-instance/stage-instance-create"
   }
 }

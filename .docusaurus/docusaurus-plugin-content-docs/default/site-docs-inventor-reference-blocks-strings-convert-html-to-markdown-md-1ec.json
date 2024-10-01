@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/strings/bcrypt-hash-string"
   },
   "next": {
-    "title": "Generate UUIDv7",
-    "permalink": "/docs/inventor-reference/blocks/strings/generate-uuidv7"
+    "title": "Generate UUIDv4",
+    "permalink": "/docs/inventor-reference/blocks/strings/generate-uuidv4"
   }
 }

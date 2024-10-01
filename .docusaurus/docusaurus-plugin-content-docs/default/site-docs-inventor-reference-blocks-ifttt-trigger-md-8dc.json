@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Increment or Decrement Global Variable",
-    "permalink": "/docs/inventor-reference/blocks/global-variables/increment-or-decrement-global-variable"
+    "title": "Custom Block",
+    "permalink": "/docs/inventor-reference/blocks/custom-block"
   },
   "next": {
-    "title": "Add Option to Autocomplete Response Builder",
-    "permalink": "/docs/inventor-reference/blocks/interactions/add-option-to-autocomplete-response-builder"
+    "title": "Absolute Value",
+    "permalink": "/docs/inventor-reference/blocks/math/absolute-value"
   }
 }

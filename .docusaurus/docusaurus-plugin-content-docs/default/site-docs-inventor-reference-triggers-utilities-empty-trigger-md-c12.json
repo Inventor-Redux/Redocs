@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Thread Update",
-    "permalink": "/docs/inventor-reference/triggers/threads/thread-update"
+    "title": "Every Month",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-month"
   },
   "next": {
-    "title": "Formatting",
-    "permalink": "/docs/inventor-reference/formatting/"
+    "title": "BotDash Dashboard Data",
+    "permalink": "/docs/inventor-reference/triggers/botdash/botdash-dashboard-data"
   }
 }

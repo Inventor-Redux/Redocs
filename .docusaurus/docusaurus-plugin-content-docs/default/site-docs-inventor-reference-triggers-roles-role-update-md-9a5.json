@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/roles/role-delete"
   },
   "next": {
-    "title": "Guild Scheduled Event Create",
-    "permalink": "/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-create"
+    "title": "Invite Created",
+    "permalink": "/docs/inventor-reference/triggers/invites/invite-created"
   }
 }

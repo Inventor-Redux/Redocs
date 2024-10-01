@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Modify Scheduled Event",
-    "permalink": "/docs/inventor-reference/blocks/scheduled-events/modify-scheduled-event"
+    "title": "Unban Server Member",
+    "permalink": "/docs/inventor-reference/blocks/users/unban-server-member"
   },
   "next": {
-    "title": "Get Server Count",
-    "permalink": "/docs/inventor-reference/blocks/servers/get-server-count"
+    "title": "Get Server Members",
+    "permalink": "/docs/inventor-reference/blocks/servers/get-server-members"
   }
 }

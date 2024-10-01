@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/scheduled-events/get-scheduled-events"
   },
   "next": {
-    "title": "Get Server Bans",
-    "permalink": "/docs/inventor-reference/blocks/servers/get-server-bans"
+    "title": "Get Current Date and Time",
+    "permalink": "/docs/inventor-reference/blocks/time/get-current-date-and-time"
   }
 }

@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/emoji/get-emojis"
   },
   "next": {
-    "title": "Advanced Conditional",
-    "permalink": "/docs/inventor-reference/blocks/flow-control/advanced-conditional"
+    "title": "Create Scheduled Event",
+    "permalink": "/docs/inventor-reference/blocks/scheduled-events/create-scheduled-event"
   }
 }

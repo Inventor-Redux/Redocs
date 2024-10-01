@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Truncate Float",
-    "permalink": "/docs/inventor-reference/blocks/math/truncate-float"
+    "title": "Text Reply to Interaction",
+    "permalink": "/docs/inventor-reference/blocks/interactions/text-reply-to-interaction"
   },
   "next": {
     "title": "Add Field to Embed Field Builder",

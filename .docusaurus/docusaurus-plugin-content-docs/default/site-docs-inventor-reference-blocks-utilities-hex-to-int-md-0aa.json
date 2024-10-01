@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get UUIDv7 Creation Time",
-    "permalink": "/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time"
+    "title": "Get Token",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-token"
   },
   "next": {
     "title": "Log Error",

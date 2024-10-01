@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Redact Secrets",
-    "permalink": "/docs/inventor-reference/blocks/utilities/redact-secrets"
+    "title": "Update Forum Thread Tags",
+    "permalink": "/docs/inventor-reference/blocks/threads/update-forum-thread-tags"
   },
   "next": {
     "title": "Delete Webhook",

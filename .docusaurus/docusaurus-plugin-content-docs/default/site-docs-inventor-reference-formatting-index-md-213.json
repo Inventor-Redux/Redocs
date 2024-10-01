@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Empty Trigger",
-    "permalink": "/docs/inventor-reference/triggers/utilities/empty-trigger"
+    "title": "BotDash Form Submission",
+    "permalink": "/docs/inventor-reference/triggers/botdash/botdash-form-submission"
   },
   "next": {
     "title": "Mention",

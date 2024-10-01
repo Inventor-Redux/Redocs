@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/scheduled-events/guild-scheduled-event-user-add"
   },
   "next": {
-    "title": "Every 15 Minutes",
-    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-15-minutes"
+    "title": "IFTTT",
+    "permalink": "/docs/inventor-reference/triggers/external-services/ifttt"
   }
 }

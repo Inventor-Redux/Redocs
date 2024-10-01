@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Message Sent",
-    "permalink": "/docs/inventor-reference/triggers/messages/message-sent"
+    "title": "Invite Deleted",
+    "permalink": "/docs/inventor-reference/triggers/invites/invite-deleted"
   },
   "next": {
     "title": "Reaction Remove All",

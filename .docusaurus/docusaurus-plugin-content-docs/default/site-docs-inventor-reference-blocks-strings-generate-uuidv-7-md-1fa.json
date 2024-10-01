@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Convert HTML to Markdown",
-    "permalink": "/docs/inventor-reference/blocks/strings/convert-html-to-markdown"
+    "title": "Generate UUIDv4",
+    "permalink": "/docs/inventor-reference/blocks/strings/generate-uuidv4"
   },
   "next": {
-    "title": "Hex to Int",
-    "permalink": "/docs/inventor-reference/blocks/strings/hex-to-int"
+    "title": "Get UUIDv7 Creation Time",
+    "permalink": "/docs/inventor-reference/blocks/strings/get-uuidv7-creation-time"
   }
 }

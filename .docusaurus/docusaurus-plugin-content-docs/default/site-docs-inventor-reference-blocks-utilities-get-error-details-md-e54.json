@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Generate UUIDv4",
-    "permalink": "/docs/inventor-reference/blocks/utilities/generate-uuidv4"
+    "title": "Exclude From Analytics",
+    "permalink": "/docs/inventor-reference/blocks/utilities/exclude-from-analytics"
   },
   "next": {
-    "title": "Get Token",
-    "permalink": "/docs/inventor-reference/blocks/utilities/get-token"
+    "title": "Get Server Count",
+    "permalink": "/docs/inventor-reference/blocks/utilities/get-server-count"
   }
 }

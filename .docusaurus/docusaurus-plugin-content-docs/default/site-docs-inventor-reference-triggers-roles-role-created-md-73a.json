@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Reaction Remove",
-    "permalink": "/docs/inventor-reference/triggers/reactions/reaction-remove"
+    "title": "Member Update",
+    "permalink": "/docs/inventor-reference/triggers/members/member-update"
   },
   "next": {
     "title": "Role Delete",

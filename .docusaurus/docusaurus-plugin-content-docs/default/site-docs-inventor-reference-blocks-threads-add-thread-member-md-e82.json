@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Verify HMAC",
-    "permalink": "/docs/inventor-reference/blocks/strings/verify-hmac"
+    "title": "Get Invites",
+    "permalink": "/docs/inventor-reference/blocks/invites/get-invites"
   },
   "next": {
     "title": "Archive Thread",

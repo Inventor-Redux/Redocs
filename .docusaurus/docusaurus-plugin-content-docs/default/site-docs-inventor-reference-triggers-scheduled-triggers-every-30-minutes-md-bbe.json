@@ -1,7 +1,7 @@
 {
   "id": "inventor-reference/triggers/scheduled-triggers/every-30-minutes",
-  "title": "Every 30 Minutes",
-  "description": "Summary",
+  "title": "Every 30 Minutes Documentation",
+  "description": "Runs every 30 minutes.",
   "source": "@site/docs/inventor-reference/triggers/scheduled-triggers/every-30-minutes.md",
   "sourceDirName": "inventor-reference/triggers/scheduled-triggers",
   "slug": "/inventor-reference/triggers/scheduled-triggers/every-30-minutes",
@@ -13,11 +13,20 @@
   "version": "current",
   "lastUpdatedBy": "Author",
   "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
   "frontMatter": {
+    "title": "Every 30 Minutes Documentation",
+    "sidebar_label": "Every 30 Minutes",
+    "sidebar_position": 3,
+    "hide_title": true,
     "keywords": [
+      "inventor.gg",
+      "redocs",
+      "documentation",
       "cron",
       "half hour"
-    ]
+    ],
+    "description": "Runs every 30 minutes."
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -25,7 +34,7 @@
     "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-15-minutes"
   },
   "next": {
-    "title": "Every Day",
-    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-day"
+    "title": "Every Hour",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-hour"
   }
 }

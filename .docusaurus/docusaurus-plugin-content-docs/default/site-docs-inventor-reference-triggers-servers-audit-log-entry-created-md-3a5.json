@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Every Week",
-    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-week"
+    "title": "Voice State Update",
+    "permalink": "/docs/inventor-reference/triggers/channels/voice-state-update"
   },
   "next": {
     "title": "Server Joined",

@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "BotDash Form Submission",
-    "permalink": "/docs/inventor-reference/triggers/botdash/botdash-form-submission"
+    "title": "Message Sent",
+    "permalink": "/docs/inventor-reference/triggers/messages/message-sent"
   },
   "next": {
     "title": "Channel Delete",

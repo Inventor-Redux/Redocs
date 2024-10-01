@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/invites/invite-created"
   },
   "next": {
-    "title": "Member Ban",
-    "permalink": "/docs/inventor-reference/triggers/members/member-ban"
+    "title": "Reaction Add",
+    "permalink": "/docs/inventor-reference/triggers/reactions/reaction-add"
   }
 }

@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Invite Deleted",
-    "permalink": "/docs/inventor-reference/triggers/invites/invite-deleted"
+    "title": "Thread Update",
+    "permalink": "/docs/inventor-reference/triggers/threads/thread-update"
   },
   "next": {
     "title": "Member Join",

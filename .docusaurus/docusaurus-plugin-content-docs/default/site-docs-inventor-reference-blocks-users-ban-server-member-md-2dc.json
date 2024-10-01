@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Truncate Time",
-    "permalink": "/docs/inventor-reference/blocks/time/truncate-time"
+    "title": "Unpin Message",
+    "permalink": "/docs/inventor-reference/blocks/messages/unpin-message"
   },
   "next": {
     "title": "Change Member Nickname",

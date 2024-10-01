@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Role Update",
-    "permalink": "/docs/inventor-reference/triggers/roles/role-update"
+    "title": "Stage Instance Update",
+    "permalink": "/docs/inventor-reference/triggers/stage-instance/stage-instance-update"
   },
   "next": {
     "title": "Guild Scheduled Event Delete",

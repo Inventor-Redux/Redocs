@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Webhook Update",
-    "permalink": "/docs/inventor-reference/triggers/servers/webhook-update"
+    "title": "Reaction Remove",
+    "permalink": "/docs/inventor-reference/triggers/reactions/reaction-remove"
   },
   "next": {
     "title": "Stage Instance Delete",

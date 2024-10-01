@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/external-services/incoming-webhook"
   },
   "next": {
-    "title": "Button Click",
-    "permalink": "/docs/inventor-reference/triggers/interactions/button-click"
+    "title": "Every Minute",
+    "permalink": "/docs/inventor-reference/triggers/scheduled-triggers/every-minute"
   }
 }

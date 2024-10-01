@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/blocks/strings/url-query-unescape"
   },
   "next": {
-    "title": "Add Thread Member",
-    "permalink": "/docs/inventor-reference/blocks/threads/add-thread-member"
+    "title": "Change Bot Status",
+    "permalink": "/docs/inventor-reference/blocks/utilities/change-bot-status"
   }
 }

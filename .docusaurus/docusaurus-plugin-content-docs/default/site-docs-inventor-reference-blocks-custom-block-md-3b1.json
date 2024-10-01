@@ -16,11 +16,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Trigger Typing Indicator",
-    "permalink": "/docs/inventor-reference/blocks/channels/trigger-typing-indicator"
+    "title": "IFTTT Trigger",
+    "permalink": "/docs/inventor-reference/blocks/ifttt/ifttt-trigger"
   },
   "next": {
-    "title": "Create Row",
-    "permalink": "/docs/inventor-reference/blocks/databases/create-row"
+    "title": "Triggers",
+    "permalink": "/docs/inventor-reference/triggers/"
   }
 }

@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '15e'),
+    component: ComponentCreator('/docs', '426'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2c8'),
+        component: ComponentCreator('/docs', 'd77'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '494'),
+            component: ComponentCreator('/docs', '454'),
             routes: [
               {
                 path: '/docs/inventor-reference/',
@@ -349,8 +349,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/blocks/ifttt-trigger',
-                component: ComponentCreator('/docs/inventor-reference/blocks/ifttt-trigger', '230'),
+                path: '/docs/inventor-reference/blocks/ifttt/ifttt-trigger',
+                component: ComponentCreator('/docs/inventor-reference/blocks/ifttt/ifttt-trigger', '7b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -477,6 +477,18 @@ export default [
               {
                 path: '/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number',
                 component: ComponentCreator('/docs/inventor-reference/blocks/math/if-number-is-close-to-other-number', 'c48'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/blocks/math/if-number-is-in-range',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/if-number-is-in-range', '72d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/blocks/math/if-value-is-number',
+                component: ComponentCreator('/docs/inventor-reference/blocks/math/if-value-is-number', '8ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -655,18 +667,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/blocks/network/if-number-is-in-range',
-                component: ComponentCreator('/docs/inventor-reference/blocks/network/if-number-is-in-range', '6bc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/inventor-reference/blocks/network/if-value-is-number',
-                component: ComponentCreator('/docs/inventor-reference/blocks/network/if-value-is-number', '40b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/inventor-reference/blocks/network/parse-json',
                 component: ComponentCreator('/docs/inventor-reference/blocks/network/parse-json', '5d0'),
                 exact: true,
@@ -829,12 +829,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/blocks/servers/get-server-count',
-                component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-server-count', 'e69'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/inventor-reference/blocks/servers/get-server-members',
                 component: ComponentCreator('/docs/inventor-reference/blocks/servers/get-server-members', '346'),
                 exact: true,
@@ -889,8 +883,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/inventor-reference/blocks/strings/generate-uuidv4',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/generate-uuidv4', 'ec2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/inventor-reference/blocks/strings/generate-uuidv7',
                 component: ComponentCreator('/docs/inventor-reference/blocks/strings/generate-uuidv7', '0ab'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/inventor-reference/blocks/strings/get-uuidv7-creation-time',
+                component: ComponentCreator('/docs/inventor-reference/blocks/strings/get-uuidv7-creation-time', 'd43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1255,26 +1261,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/blocks/utilities/generate-uuidv4',
-                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/generate-uuidv4', '003'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/inventor-reference/blocks/utilities/get-error-details',
                 component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-error-details', '44f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/blocks/utilities/get-token',
-                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-token', 'a40'),
+                path: '/docs/inventor-reference/blocks/utilities/get-server-count',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-server-count', 'c43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time',
-                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-uuidv7-creation-time', '595'),
+                path: '/docs/inventor-reference/blocks/utilities/get-token',
+                component: ComponentCreator('/docs/inventor-reference/blocks/utilities/get-token', 'a40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
