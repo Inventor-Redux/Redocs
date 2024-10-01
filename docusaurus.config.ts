@@ -50,7 +50,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "https://assets.redux.wtf/redocs/redocs.svg",
+    image: "https://assets.redux.wtf/redocs/redocs.png",
     docs:{
       sidebar:{
         hideable: true
