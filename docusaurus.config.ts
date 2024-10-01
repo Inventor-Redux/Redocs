@@ -50,7 +50,7 @@ const config: Config = {
   ],
   
   themeConfig: {
-    metadate:[{name:"twitter:card", "content": "summary"}],
+    metadata:[{name:"twitter:card", "content": "summary"},{name: "og:site_name", content:"Inventor Redux"}],
     image: "https://assets.redux.wtf/redocs/redocs.png",
     docs:{
       sidebar:{
@@ -58,11 +58,9 @@ const config: Config = {
       }
     },
     // Replace with your project's social card
-    metadata:[
-      {name: "og:site_name", content:"Inventor Redux"}
-    ],
     colorMode: {
       defaultMode: "dark",
+
       disableSwitch: true,
       respectPrefersColorScheme: false
     },
