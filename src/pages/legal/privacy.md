@@ -1,4 +1,4 @@
-# Privacy Policy for Redocs
+# Privacy Policy
 
 ## Introduction
 
