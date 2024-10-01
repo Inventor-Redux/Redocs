@@ -12,3 +12,25 @@
 :root {
   --ifm-font-family-base: 'Inter'
 }
+dfn {
+  font-style: normal;
+  padding: 1px 2px 2px 2px;
+  background: #2b2b4e;
+  color: #c9cdfb;
+  border-radius: 0.25rem;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 100ms ease-out;
+  font-weight: 500;
+  unicode-bidi: plaintext;
+}
+dfn:hover {
+  background: #5864f2;
+  color: white;
+}
+
+.role:hover {
+  background: #2b2b4e;
+  color: #c9cdfb;
+}
