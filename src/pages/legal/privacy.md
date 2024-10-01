@@ -1,3 +1,6 @@
+---
+description: Redocs (hereinafter referred to as "we" or "us") is committed to protecting the privacy of our users. This privacy policy outlines how we collect, use, and disclose personal data when you visit our website or use our services.
+---
 # Privacy Policy
 
 ## Introduction
