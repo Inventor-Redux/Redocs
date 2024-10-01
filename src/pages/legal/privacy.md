@@ -9,28 +9,22 @@ Redocs (hereinafter referred to as "we" or "us") is committed to protecting the 
 When you visit our website, we may collect the following personal data:
 
 - Information you provide to us: We may collect information you provide to us when you fill out a form, such as your name, email address, and other details.
-- Analytics data: We use PostHog to collect analytics data about your interactions with our website, including:
-    - Page views and navigation paths
-    - Clicks and interactions with specific elements on our website
-    - Device and browser information
-    - Location data (if you have opted-in to share this information)
-- Cookies and tracking technologies: We use cookies and other tracking technologies to collect information about your browsing behavior and preferences.
+- Analytics data: We use PostHog, a analytics service, to collect and analyze data about your interactions with our website. PostHog stores data in page memory, rather than using cookies, to help us understand how users interact with our website.
 
 ## How do we use your personal data?
 
 We use your personal data for the following purposes:
 
-- To improve our website and services: We use analytics data to understand how users interact with our website and to identify areas for improvement.
-- To provide targeted advertising: We may use your personal data to deliver targeted advertisements to you.
+- To improve our website and services: We use analytics data to understand how users interact with our website, including which pages are most popular, how users navigate our site, and what features are most useful to users.
 - To communicate with you: We may use your personal data to contact you with updates, promotions, or other information about our services.
 
 ## How do we share your personal data?
 
 We may share your personal data with the following third parties:
 
-- PostHog: We share your analytics data with PostHog to help us understand how users interact with our website.
+- PostHog: We share your analytics data with PostHog, a analytics service, to help us understand how users interact with our website.
 - Service providers: We may share your personal data with service providers who help us operate our website and services.
-- Law enforcement: We may share your personal data with law enforcement or other government agencies if required by law.
+- Law enforcement: We may share your personal data with law enforcement or other government agencies if required by law or to protect our website and services.
 
 ## Your rights
 
@@ -41,6 +35,7 @@ You have the following rights regarding your personal data:
 - Right to erasure: You have the right to request that we delete your personal data.
 - Right to restriction: You have the right to request that we restrict the processing of your personal data.
 - Right to object: You have the right to object to the processing of your personal data.
+
 
 ## Ad Blockers
 
