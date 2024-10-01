@@ -20,7 +20,7 @@
     "permalink": "/docs/inventor-reference/triggers/interactions/modal-submit"
   },
   "next": {
-    "title": "Slash Command",
-    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command"
+    "title": "Message Delete Bulk",
+    "permalink": "/docs/inventor-reference/triggers/messages/message-delete-bulk"
   }
 }

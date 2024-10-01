@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Slash Command",
-    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command"
+    "title": "Slash Command Autocomplete",
+    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command-autocomplete"
   },
   "next": {
     "title": "Message Deleted",

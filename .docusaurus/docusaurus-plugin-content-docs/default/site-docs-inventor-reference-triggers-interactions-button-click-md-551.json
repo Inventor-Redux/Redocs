@@ -16,8 +16,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Triggers",
-    "permalink": "/docs/inventor-reference/triggers/"
+    "title": "Slash Command",
+    "permalink": "/docs/inventor-reference/triggers/interactions/slash-command"
   },
   "next": {
     "title": "Context Menu",
