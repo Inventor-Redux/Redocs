@@ -50,7 +50,7 @@ const config: Config = {
   ],
   
   themeConfig: {
-    metadata:[{name:"twitter:card", "content": "summary"},{name: "og:site_name", content:"Inventor Redux"}],
+    metadata:[{name:"twitter:card", "content": "summary"}],
     image: "https://assets.redux.wtf/redocs/redocs.png",
     docs:{
       sidebar:{
