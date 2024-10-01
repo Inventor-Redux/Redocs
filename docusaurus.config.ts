@@ -5,11 +5,11 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Redocs',
   tagline: 'The Community-Driven Hub for All Things Inventor',
-  favicon: 'img/Redocs Logo.svg',
+  favicon: 'https://assets.redux.wtf/redocs/redocs.svg',
   
 
   // Set the production url of your site here
-  url: 'https://docs.redux.wtf',
+  url: 'https://redocs.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -32,6 +32,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -40,21 +41,6 @@ const config: Config = {
           showLastUpdateTime: true,
           sidebarCollapsible: true,
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -62,20 +48,19 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  
   themeConfig: {
-    image: "@site/static/img/Redocs Logo.svg",
+    metadata:[{name:"twitter:card", "content": "summary"}],
+    image: "https://assets.redux.wtf/redocs/redocs.png",
     docs:{
       sidebar:{
         hideable: true
       }
     },
     // Replace with your project's social card
-    metadata:[
-      {name: "og:site_name", content:"Inventor Redux"}
-    ],
     colorMode: {
       defaultMode: "dark",
+
       disableSwitch: true,
       respectPrefersColorScheme: false
     },
@@ -83,7 +68,7 @@ const config: Config = {
       title: 'Redocs',
       logo: {
         alt: 'Redocs Logo White',
-        src: 'img/Redocs_Logo_White.png',
+        src: 'https://assets.redux.wtf/redocs/redocslight.png',
       },
       items: [
         {
@@ -112,13 +97,13 @@ const config: Config = {
           items: [
             {
               label: 'Blocks',
-              to: '/docs/inventor-reference/blocks/',
+              to: '/inventor-reference/blocks/',
             },{
               label: 'Triggers',
-              to: '/docs/inventor-reference/triggers/',
+              to: '/inventor-reference/triggers/',
             },{
               label: 'Types',
-              to: '/docs/inventor-reference/types/',
+              to: '/inventor-reference/types/',
             },
           ],
         },
@@ -140,11 +125,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Legal',
           items: [
             {
-              label: 'Inventor',
-              href: "https://inventor.gg"
+              label: 'Privacy Policy',
+              to: 'legal/privacy'
             },
           ],
         },
@@ -158,6 +143,17 @@ const config: Config = {
   } satisfies Preset.ThemeConfig,
   themes: [
     require.resolve("@easyops-cn/docusaurus-search-local"),
+  ],
+  plugins: [
+    [
+    "posthog-docusaurus",
+      {
+        apiKey: "phc_amrHDZ4ACBgPeo5gamWNGRuq9ZIExybkyxH5W7C72G6",
+        appUrl: "https://eu.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
+        enableInDevelopment: true, // optional,
+        persistence: 'memory'
+      },
+    ]
   ]
 };
 
