@@ -1,10 +1,21 @@
-# Break
+---
+title: Break Documentation
+sidebar_label: Break
+sidebar_position: 6
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, exit, escape, break]
+description: Immediately break out of the current loop or custom block.
+---
+# Exit Flow
+Immediately break out of the current loop or custom block.
 
-:::warning Under Construction
+## Inputs
+There are no inputs for this block.
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
 
-:::
-Break out of the current loop or custom block.
+## Outputs
 
-Coming Soon
+- [Error](#error-output)
+
+### Error {#error-output}
+The Inventor Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/get-error-details) block. E.g. `DoVpjqYs`

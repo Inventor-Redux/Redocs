@@ -1,10 +1,29 @@
+---
+title: Truncate String Documentation
+sidebar_label: Truncate String
+sidebar_position: 13
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, strings, truncated, truncate string, split string]
+description: Truncates a string to a specified length. This is helpful for setting maximum character counts or for ensuring a message isn't too long to send.
+---
 # Truncate String
+Truncates a string to a specified length. This is helpful for setting maximum character counts or for ensuring a message isn't too long to send.
 
-:::warning Under Construction
+## Inputs
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
+- [String](#string-input)
+- [Length](#length-input)
 
-:::
-Truncate a string to a certain length.
+### String {#string-input}
+The string to truncate, inputted as a [string](/inventor-reference/types/string). E.g. `Hello world!`.
+### Length {#length-input}
+The max length of the output string, inputted as a [number](/inventor-reference/types/number). E.g. `5`
 
-Coming Soon
+## Outputs
+- [String](#string-output)
+- [Error](#error-output)
+
+### String {#string-output}
+The truncated text, expressed as a [string](/inventor-reference/types/string). E.g. `Hello`
+### Error {#error-output}
+The Inventor Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/utilities/get-error-details) block. E.g. `DoVpjqYs`

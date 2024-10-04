@@ -1,10 +1,30 @@
+---
+title: Change Member Nickname Documentation
+sidebar_label: Change Member Nickname
+sidebar_position: 13
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, change member nickname, nickname]
+description: Change a member's server-specific nickname.
+---
 # Change Member Nickname
+Change a member's server-specific nickname.
 
-:::warning Under Construction
+## Inputs
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
+- [Server ID](#server-id-input)
+- [User ID](#user-id-input)
+- [Nickname](#nickname-input)
 
-:::
-Change a member's nickname in a server.
+### Server ID {#server-id-input}
+The server ID you would like to change a user's nickname in, inputted as a [snowflake](/inventor-reference/types/string/snowflake). E.g. `1279387460551311482`
+### User ID {#user-id-input}
+The ID of the user to change the nickname of, inputted as a [snowflake](/inventor-reference/types/string/snowflake). E.g. `1281288318591697119`
+### Nickname {#nickname-input}
+The new nickname you would like to assign to the user, inputted as a [string](/inventor-reference/types/string). E.g. `Hello`
 
-Coming Soon
+## Outputs
+
+- [Error](#error-output)
+
+### Error {#error-output}
+The Inventor Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/utilities/get-error-details) block. E.g. `DoVpjqYs`
