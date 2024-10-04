@@ -45,7 +45,7 @@ This box **should always be checked if the slash command contains or retrieves N
 When this box is checked, only users who are collaborators on the bot in Inventor are allowed to use the command. This is useful for debugging, administration, or unreleased features.
 
 :::warning
-Do not use this to make commands "Staff Only," or for some other restricted group. This is better done through the integrations tab ([learn how!](https://discord.com/blog/slash-commands-permissions-discord-apps-bots)), as granting too many people access to your bot is risky, as they can do anything with the bot. 
+Do not use this to make commands "Staff Only," or for some other restricted group. This is better done through the integrations tab ([learn how!](https://discord.com/blog/slash-commands-permissions-discord-apps-bots)). Granting too many people access to your bot is risky, as they can do anything with the bot and the servers it is in.
 :::
 
 ### Command Availability {#command-availability-input}

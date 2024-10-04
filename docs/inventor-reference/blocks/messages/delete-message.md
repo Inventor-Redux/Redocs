@@ -1,10 +1,25 @@
+---
+title: Delete Message Documentation
+sidebar_label: Delete Message
+sidebar_position: 10
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, delete message, messages]
+description: Deletes a Discord message.
+---
 # Delete Message
+Deletes a Discord message.
 
-:::warning Under Construction
+## Inputs
+- [Message ID](#message-id-input)
+- [Channel ID](#channel-id-input)
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
+### Message ID {#message-id-input}
+The ID of the message to delete, inputted as a [snowflake](/inventor-reference/types/string/snowflake). E.g. `1289318931282264105`
+### Channel ID {#channel-id-input}
+The ID of the channel that the message is in, inputted as a [snowflake](/inventor-reference/types/string/snowflake). E.g. `1279419956571672577`
 
-:::
-Delete a message
+## Outputs
+- [Error](#error-output)
 
-Coming Soon
+### Error {#error-output}
+The Inventor Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/utilities/get-error-details) block. E.g. `DoVpjqYs`

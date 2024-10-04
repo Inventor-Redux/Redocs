@@ -1,10 +1,16 @@
+---
+title: Folder Documentation
+sidebar_label: Folder
+sidebar_position: 8
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, folder, container, group]
+description: The folder has no functional purpose, and is only used to group blocks together with an optional label.
+---
 # Folder
+The folder has no functional purpose, and is only used to group blocks together with an optional label.
 
-:::warning Under Construction
+## Inputs
+There are no inputs for this block.
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
-
-:::
-Group several blocks together in a folder.
-
-Coming Soon
+## Outputs
+There are no outputs for this block.

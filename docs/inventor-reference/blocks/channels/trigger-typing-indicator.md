@@ -1,10 +1,24 @@
+---
+title: Trigger Typing Indicator Documentation
+sidebar_label: Trigger Typing Indicator
+sidebar_position: 8
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, typing, trigger typing indicator, channels]
+description: Trigger a typing indicator as the bot in a specific channel.
+---
 # Trigger Typing Indicator
+Trigger a typing indicator as the bot in a specific channel.
 
-:::warning Under Construction
+## Inputs
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
+- [Channel ID](#channel-id-input)
 
-:::
-Trigger a typing indicator in a channel.
+### Channel ID {#channel-id-input}
+The ID of the channel to trigger the typing indicator in, inputted as a [snowflake](/inventor-reference/types/string/snowflake). E.g. `1279419956571672577`
 
-Coming Soon
+## Outputs
+
+- [Error](#error-output)
+
+### Error {#error-output}
+The Inventor Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/utilities/get-error-details) block. E.g. `DoVpjqYs`

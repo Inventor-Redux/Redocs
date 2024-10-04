@@ -1,10 +1,20 @@
+---
+title: Exit Flow Documentation
+sidebar_label: Exit Flow
+sidebar_position: 3
+hide_title: true
+keywords: [inventor.gg, redocs, documentation, exit, escape, close, exit flow]
+description: Immediately exit the current flow.
+---
 # Exit Flow
+Immediately exit the current flow.
 
-:::warning Under Construction
+## Inputs
+There are no inputs for this block.
 
-    This page is currently incomplete and may contain errors. We appreciate your patience and understanding as we work to complete and refine the content. If you notice any issues or have suggestions for improvement, please feel free to submit a pull request or create an issue to report the problem.
 
-:::
-Exit the current flow before it has finished running.
+## Outputs
+- [Error](#error-output)
 
-Coming Soon
+### Error {#error-output}
+The Inventor Error ID of an error. You can lookup an error by its ID with the [Get Error Details](/inventor-reference/blocks/utilities/get-error-details) block. E.g. `DoVpjqYs`
