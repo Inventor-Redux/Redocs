@@ -25,6 +25,10 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
+## Top contributors:
+<a href="https://github.com/Inventor-Redux/Redocs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Inventor-Redux/Redocs" alt="contrib.rocks image" />
+</a>
 
 ## License
 
