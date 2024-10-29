@@ -1,4 +1,4 @@
-omodule.exports = {
+module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   plugins: [require("rippleui")],
   corePlugins: {
