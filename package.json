@@ -16,7 +16,6 @@
     "coverage": "node scripts/coverage/main.js"
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^1.2.0",
     "@codemirror/lang-json": "^6.0.1",
     "@docusaurus/core": "3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
