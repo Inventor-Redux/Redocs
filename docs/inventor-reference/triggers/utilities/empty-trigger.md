@@ -1,3 +1,6 @@
+---
+finished: false
+---
 # Empty Trigger
 ## Summary
 Empty triggers are not run as a result of a particular action, and are instead run from the Inventor dashboard.

@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Server Left, servers]
 description: Triggers whenever your bot leaves a server.
+finished: true
 ---
 # Server Left
 Triggers whenever your bot leaves a server.

@@ -5,6 +5,7 @@ sidebar_position: 8
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, typing, trigger typing indicator, channels]
 description: Trigger a typing indicator as the bot in a specific channel.
+finished: true
 ---
 # Trigger Typing Indicator
 Trigger a typing indicator as the bot in a specific channel.

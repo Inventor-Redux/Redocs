@@ -5,6 +5,7 @@ sidebar_position: 13
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, change member nickname, nickname]
 description: Change a member's server-specific nickname.
+finished: true
 ---
 # Change Member Nickname
 Change a member's server-specific nickname.

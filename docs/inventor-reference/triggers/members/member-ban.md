@@ -5,6 +5,7 @@ sidebar_position: 4
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Members, member banned]
 description: Triggers whenever a user is banned from a server.
+finished: true
 ---
 # Member Ban
 Triggers whenever a user is banned from a server.

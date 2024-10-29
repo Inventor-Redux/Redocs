@@ -5,6 +5,7 @@ sidebar_position: 4
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Channels, channel pins update, pins, pin message]
 description: Triggers whenever the pins of a channel are updated.
+finished: true
 ---
 # Channel Pins Update
 Triggers whenever the pins of a channel are updated.

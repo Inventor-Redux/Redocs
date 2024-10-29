@@ -5,6 +5,7 @@ sidebar_position: 1
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, cron, minutely]
 description: Runs every minute.
+finished: true
 ---
 # Every Minute
 ## Summary

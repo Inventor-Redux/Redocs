@@ -5,6 +5,7 @@ sidebar_position: 6
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, typing start]
 description: Triggers when a user starts typing in a channel.
+finished: true
 ---
 # Typing Start
 Triggers when a user starts typing in a channel.

@@ -4,7 +4,8 @@ sidebar_label: Server Update
 sidebar_position: 2
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Servers, server update]
-description: Triggers whenever a server the bot is in is updated.
+description: Triggers whenever a server the bot is in is updated.#
+finished: true
 ---
 # Server Update
 Triggers whenever a server the bot is in is updated.

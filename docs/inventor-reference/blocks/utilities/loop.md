@@ -5,6 +5,7 @@ sidebar_position: 7
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, loop, repeat, iterator]
 description: Run the same blocks a specified number of times.
+finished: true
 ---
 # Loop
 Run the same blocks a specified number of times.

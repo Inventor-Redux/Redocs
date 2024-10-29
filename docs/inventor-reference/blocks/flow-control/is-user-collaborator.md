@@ -5,6 +5,7 @@ sidebar_position: 5
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, if, if statement, if user is collaborator, is collaborator]
 description: Only runs the code inside the block if the user is a collaborator. Very similar to [If Statement](/inventor-reference/blocks/flow-control/if-statement), but with pre-set values.
+finished: true
 ---
 # Is User Collaborator
 Only runs the code inside the block if the user is a collaborator. Very similar to [If Statement](/inventor-reference/blocks/flow-control/if-statement), but with pre-set values.

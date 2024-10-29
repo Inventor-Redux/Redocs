@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, exit, escape, close, exit flow]
 description: Immediately exit the current flow.
+finished: true
 ---
 # Exit Flow
 Immediately exit the current flow.

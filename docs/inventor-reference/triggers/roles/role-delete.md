@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, roles, role deleted, delete role]
 description: Triggers whenever a role is deleted.
+finished: true
 ---
 # Role Delete
 Triggers whenever a role is deleted.

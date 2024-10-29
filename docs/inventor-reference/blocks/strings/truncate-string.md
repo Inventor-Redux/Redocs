@@ -5,6 +5,7 @@ sidebar_position: 13
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, strings, truncated, truncate string, split string]
 description: Truncates a string to a specified length. This is helpful for setting maximum character counts or for ensuring a message isn't too long to send.
+finished: true
 ---
 # Truncate String
 Truncates a string to a specified length. This is helpful for setting maximum character counts or for ensuring a message isn't too long to send.

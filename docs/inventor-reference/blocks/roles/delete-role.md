@@ -5,6 +5,7 @@ sidebar_position: 5
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, delete role, roles]
 description: Delete a role in a specified server.
+finished: true
 ---
 # Delete Role
 Delete a role in a specified server.

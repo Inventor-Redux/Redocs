@@ -1,0 +1,16 @@
+{
+  "tags": [
+    {
+      "name": "Featured",
+      "slug": "featured"
+    },
+    {
+      "name": "Discord",
+      "slug": "discord"
+    },
+    {
+      "name": "Inventor",
+      "slug": "inventor"
+    }
+  ]
+}

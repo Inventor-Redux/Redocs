@@ -5,6 +5,7 @@ sidebar_position: 2
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Invite deleted, invites]
 description: Triggers any time an invite is deleted.
+finished: true
 ---
 # Invite Deleted
 Triggers any time an invite is deleted.

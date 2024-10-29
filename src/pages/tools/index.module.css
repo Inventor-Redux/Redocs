@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter {
+  font-family: "Inter";
+}
+code {
+  background-color: #00000033;
+  border-color: transparent;
+  padding-top: 3px;
+  border-radius: 0;
+}
+pre {
+  background-color: #00000033;
+  border-color: transparent !important;
+  border: 20px;
+}

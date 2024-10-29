@@ -5,6 +5,7 @@ sidebar_position: 8
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, folder, container, group]
 description: The folder has no functional purpose, and is only used to group blocks together with an optional label.
+finished: true
 ---
 # Folder
 The folder has no functional purpose, and is only used to group blocks together with an optional label.

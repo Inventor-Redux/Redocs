@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Channels, channel deleted]
 description: Triggers whenever a channel is deleted in a server.
+finished: true
 ---
 # Channel Delete
 Triggers whenever a channel is deleted in a server.

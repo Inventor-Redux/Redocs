@@ -5,6 +5,7 @@ sidebar_position: 7
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, cron, monthly]
 description: Runs every month.
+finished: true
 ---
 # Every Month
 ## Summary

@@ -5,6 +5,7 @@ sidebar_position: 1
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, invites, invite created]
 description: Triggers whenever an invite is created in a server.
+finished: true
 ---
 # Invite Created
 Triggers whenever an invite is created in a server.

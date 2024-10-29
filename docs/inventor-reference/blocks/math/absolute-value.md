@@ -5,6 +5,7 @@ sidebar_position: 4
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, absolute value, math]
 description: Get the absolute value of a number.
+finished: true
 ---
 # Absolute Value
 Get the absolute value of a number. The absolute value is a positive value, no matter if you input a positive or negative number.

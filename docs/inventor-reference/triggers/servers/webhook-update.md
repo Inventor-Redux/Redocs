@@ -5,6 +5,7 @@ sidebar_position: 4
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Channels, channel update, webhooks, webhook update]
 description: Triggers whenever a webhook is updated
+finished: true
 ---
 # Webhook Update
 Triggers whenever a webhook is updated

@@ -5,6 +5,7 @@ sidebar_position: 1
 hide_title: true
 keywords: [inventor.gg, redocs, slash command, documentation]
 description: Slash command trigger.
+finished: true
 ---
 # Slash Command
 Blocks with this trigger act as slash commands. You can set permissions required to use any give command, or you can manually blacklist/allow channels, roles, or users by following [this guide](https://discord.com/blog/slash-commands-permissions-discord-apps-bots).
@@ -76,10 +77,10 @@ Allows the user running the command to input another user. E.g. <dfn>@Zammer</df
 Allows the user running the command to input a channel. E.g. <dfn>#general</dfn>
 
 #### Role {#role-input}
-Allows the user running the command to input a role. E.g. <dfn class="role">@Redux Staff</dfn>
+Allows the user running the command to input a role. E.g. <dfn>@Redux Staff</dfn>
 
 #### User or Role (also known as Mentionable) {#mentionable-input}
-Allows the user running the command to input a user OR role. E.g. <dfn>@Zammer</dfn> OR <dfn class="role">@Redux Staff</dfn>
+Allows the user running the command to input a user OR role. E.g. <dfn>@Zammer</dfn> OR <dfn>@Redux Staff</dfn>
 
 
 

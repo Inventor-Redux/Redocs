@@ -5,6 +5,7 @@ sidebar_position: 2
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, cron]
 description: Runs every 15 minutes.
+finished: true
 ---
 # Every 15 Minutes
 ## Summary

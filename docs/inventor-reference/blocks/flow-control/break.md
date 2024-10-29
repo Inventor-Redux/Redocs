@@ -5,6 +5,7 @@ sidebar_position: 6
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, exit, escape, break]
 description: Immediately break out of the current loop or custom block.
+finished: true
 ---
 # Exit Flow
 Immediately break out of the current loop or custom block.

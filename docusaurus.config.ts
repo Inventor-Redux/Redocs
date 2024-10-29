@@ -54,7 +54,8 @@ const config: Config = {
     image: "https://assets.redux.wtf/redocs/redocs.png",
     docs:{
       sidebar:{
-        hideable: true
+        hideable: true,
+        autoCollapseCategories: true,
       }
     },
     // Replace with your project's social card
@@ -74,8 +75,13 @@ const config: Config = {
         {
           type: 'doc',
           position: 'left',
-          label: 'Inventor Reference',
+          label: 'Documentation',
           docId: "inventor-reference/index"
+        },
+        {
+          position: 'left',
+          label: 'Tools',
+          href: "/tools"
         },
         {
           href: 'https://github.com/Inventor-Redux/Redocs',
@@ -141,19 +147,33 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-  themes: [
-    require.resolve("@easyops-cn/docusaurus-search-local"),
-  ],
   plugins: [
     [
     "posthog-docusaurus",
       {
         apiKey: "phc_amrHDZ4ACBgPeo5gamWNGRuq9ZIExybkyxH5W7C72G6",
         appUrl: "https://eu.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
-        enableInDevelopment: true, // optional,
+        enableInDevelopment: false, // optional,
         persistence: 'memory'
       },
-    ]
+    ],
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        indexPages: true
+      },
+    ],
+    async function myPlugin(context, options) {
+      return {
+        name: "docusaurus-tailwindcss",
+        configurePostCss(postcssOptions) {
+          // Appends TailwindCSS and AutoPrefixer.
+          postcssOptions.plugins.push(require("tailwindcss"));
+          postcssOptions.plugins.push(require("autoprefixer"));
+          return postcssOptions;
+        },
+      };
+    },
   ]
 };
 

@@ -5,6 +5,7 @@ sidebar_position: 5
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Members, member unban]
 description: Triggers whenever a member is unbanned from a server.
+finished: true
 ---
 # Member Unban
 Triggers whenever a member is unbanned from a server.

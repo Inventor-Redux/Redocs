@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css);
 [data-theme='dark'] {
   --ifm-color-primary: #fdbd24;
   --ifm-color-primary-dark: #fcb40c;
@@ -19,7 +23,7 @@ dfn {
   color: #c9cdfb;
   border-radius: 0.25rem;
   text-align: center;
-  cursor: pointer;
+  cursor: default;
   white-space: nowrap;
   transition: all 100ms ease-out;
   font-weight: 500;
@@ -29,8 +33,7 @@ dfn:hover {
   background: #5864f2;
   color: white;
 }
-
-.role:hover {
-  background: #2b2b4e;
-  color: #c9cdfb;
+.herobg {
+  background-image: url(https://cdn.discordapp.com/attachments/1279419956571672577/1290801627191705704/Website_Alt_2.png?ex=66fdc831&is=66fc76b1&hm=0d2436c15601b60ec9e8fe64d3a16168023a77bd374cbeba5c164a14bb7a2e34&);
+  backdrop-filter: blur(12px);
 }

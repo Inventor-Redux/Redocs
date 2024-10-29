@@ -1,0 +1,11 @@
+{
+  "tools": [
+    {
+      "name": "Embed Builder",
+      "id": "discord.embedBuilder",
+      "description": "Comprehensive embed builder with three different input and output options.",
+      "slug": "embed",
+      "tags": ["discord", "featured", "inventor"]
+    }
+  ]
+}

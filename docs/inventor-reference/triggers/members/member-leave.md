@@ -5,6 +5,7 @@ sidebar_position: 2
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, member leave, members]
 description: Triggers when a member leaves a server.
+finished: true
 ---
 # Member Leave
 Triggers when a member leaves a server.

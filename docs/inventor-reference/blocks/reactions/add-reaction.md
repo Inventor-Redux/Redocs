@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, emoji, emojis, reaction add, add reaction, react, reactions]
 description: Adds an emoji reaction to a specified message.
+finished: true
 ---
 # Add Reaction
 Adds an emoji reaction to a specified message.

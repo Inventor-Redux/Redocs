@@ -10,15 +10,15 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
+    <header className={`${clsx('hero hero--primary', styles.heroBanner)} bg-[url(https://assets.redux.wtf/redocs/redocsbanner.png)] `}>
+      <div className="container z-10">
+        <Heading as="h1" className="hero__title text-white font-extrabold">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle text-white font-semibold">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className="button button--primary button--lg"
             to="/inventor-reference">
             Get Started
           </Link>

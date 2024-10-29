@@ -5,6 +5,7 @@ sidebar_position: 2
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, error, log errors, errors, utilities]
 description: Log an error to the Errors page of Inventor.
+finished: true
 ---
 # Log Error
 Log an error to the Errors page of Inventor.

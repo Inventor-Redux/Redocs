@@ -1,4 +1,3 @@
-```
 ---
 title: Member Join Documentation
 sidebar_label: Member Join
@@ -6,6 +5,7 @@ sidebar_position: 1
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Members, member join]
 description: Triggers whenever a member joins a server.
+finished: true
 ---
 # Member Join
 Triggers whenever a member joins a server.

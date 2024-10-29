@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, string, length, documentation]
 description: Get the length of a string.
+finished: true
 ---
 # String Length
 ## Summary

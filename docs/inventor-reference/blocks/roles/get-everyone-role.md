@@ -5,6 +5,7 @@ sidebar_position: 6
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, everyone, role, mention, everyone]
 description: "Gets the @everyone role for a server."
+finished: true
 ---
 # Get @everyone Role {#get-everyone-role}
 Gets the <dfn class="role">@everyone</dfn> role for a server.

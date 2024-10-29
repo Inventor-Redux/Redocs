@@ -5,6 +5,7 @@ sidebar_position: 1
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Servers, server joined]
 description: Triggers whenever your bot joins a server.
+finished: true
 ---
 # Server Joined
 Triggers whenever your bot joins a server.

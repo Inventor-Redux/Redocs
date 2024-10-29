@@ -1,3 +1,6 @@
+---
+finished: true
+---
 # Boolean
 
 ## Summary

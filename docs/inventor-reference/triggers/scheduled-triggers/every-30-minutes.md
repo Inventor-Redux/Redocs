@@ -5,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, cron, half hour]
 description: Runs every 30 minutes.
+finished: true
 ---
 # Every 30 Minutes
 ## Summary

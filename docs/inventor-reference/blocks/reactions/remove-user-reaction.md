@@ -5,6 +5,7 @@ sidebar_position: 4
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, emoji, emojis, reaction user remove, remove user reaction, react, reactions]
 description: Adds an emoji reaction to a specified message.
+finished: true
 ---
 # Remove USer Reaction
 Removes a specified user's reaction from a specified message. To remove a reaction the bot added, refer to [Remove Reaction](/inventor-reference/blocks/reactions/remove-reaction)

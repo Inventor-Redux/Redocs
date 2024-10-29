@@ -5,6 +5,7 @@ sidebar_position: 10
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, bot token, get token]
 description: Gets your Discord bot token.
+finished: true
 ---
 # Get Token
 Gets your Discord bot token.

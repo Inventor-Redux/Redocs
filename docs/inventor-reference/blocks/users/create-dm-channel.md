@@ -5,6 +5,7 @@ sidebar_position: 2
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, dm, dm user, dm channel, create dm channel, initiate dm]
 description: Creates a DM channel with a user, in which you can send messages.
+finished: true
 ---
 # Create DM Channel
 Creates a DM channel with a user, in which you can send messages.

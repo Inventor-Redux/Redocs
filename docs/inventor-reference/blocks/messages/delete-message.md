@@ -5,6 +5,7 @@ sidebar_position: 10
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, delete message, messages]
 description: Deletes a Discord message.
+finished: true
 ---
 # Delete Message
 Deletes a Discord message.

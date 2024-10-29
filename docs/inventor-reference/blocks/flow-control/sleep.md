@@ -5,6 +5,7 @@ sidebar_position: 4
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, sleep, wait, pause, delay]
 description: Makes Inventor pause for a specified amount of time.
+finished: true
 ---
 # Sleep
 Makes Inventor pause for a specified amount of time.

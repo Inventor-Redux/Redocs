@@ -5,6 +5,7 @@ sidebar_position: 5
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, cron, daily]
 description: Runs every day.
+finished: true
 ---
 # Every Day
 ## Summary

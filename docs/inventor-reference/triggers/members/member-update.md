@@ -1,4 +1,3 @@
-```
 ---
 title: Member Update Documentation
 sidebar_label: Member Update
@@ -6,6 +5,7 @@ sidebar_position: 3
 hide_title: true
 keywords: [inventor.gg, redocs, documentation, Member update, members]
 description: Triggers whenever a member is updated.
+finished: true
 ---
 # Member Update
 Triggers whenever a member is updated.
